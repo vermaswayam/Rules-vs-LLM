@@ -1,0 +1,342 @@
+[
+  {
+    "id": "language-01",
+    "text": "Annual salary 12 lakh. FY 2024-25. Age 30. Indian resident. No deductions.",
+    "expected_status": "ready",
+    "expected_fields": {
+      "salary": 1200000
+    }
+  },
+  {
+    "id": "language-02",
+    "text": "FY 2025-26, meri salary 8 lpa hai, age 28, resident hu, baaki koi deduction nahi.",
+    "expected_status": "ready",
+    "expected_fields": {
+      "salary": 800000
+    }
+  },
+  {
+    "id": "language-03",
+    "text": "Salary Rs 100000 per month. FY 2024-25. Age 40. Resident in India. No deductions.",
+    "expected_status": "ready",
+    "expected_fields": {
+      "salary": 1200000
+    }
+  },
+  {
+    "id": "language-04",
+    "text": "Annual gross salary INR 1,275,000; FY 2025-26; age 35; Indian resident; no deductions.",
+    "expected_status": "ready",
+    "expected_fields": {
+      "salary": 1275000
+    }
+  },
+  {
+    "id": "language-05",
+    "text": "Annual salary 20 lakh, age 60, Indian resident, FY 2024-25, 80C 1.5 lakh. Only these deductions.",
+    "expected_status": "ready",
+    "expected_fields": {
+      "section_80c": 150000
+    }
+  },
+  {
+    "id": "language-06",
+    "text": "FY 2025-26. Salary 18 lpa. Age 45. NRI. No deductions.",
+    "expected_status": "ready",
+    "expected_fields": {
+      "resident": false
+    }
+  },
+  {
+    "id": "language-07",
+    "text": "Annual salary 2 crore, FY 2024-25, age 55, Indian resident, no deductions.",
+    "expected_status": "ready",
+    "expected_fields": {
+      "salary": 20000000
+    }
+  },
+  {
+    "id": "language-08",
+    "text": "Annual salary 6 crore; age 62; resident in India; FY 2025-26; no deductions.",
+    "expected_status": "ready",
+    "expected_fields": {
+      "salary": 60000000
+    }
+  },
+  {
+    "id": "language-09",
+    "text": "Annual salary 9 lakh; age 80; Indian resident; FY 2024-25; no deductions.",
+    "expected_status": "ready",
+    "expected_fields": {
+      "age": 80
+    }
+  },
+  {
+    "id": "language-10",
+    "text": "Annual salary 0. FY 2024-25. Age 30. Indian resident. No deductions.",
+    "expected_status": "ready",
+    "expected_fields": {
+      "salary": 0
+    }
+  },
+  {
+    "id": "language-11",
+    "text": "Annual salary 12 lakh; FY 2025-26; age 35; Indian resident; additional NPS 50k; only these deductions.",
+    "expected_status": "ready",
+    "expected_fields": {
+      "nps_80ccd_1b": 50000
+    }
+  },
+  {
+    "id": "language-12",
+    "text": "Annual salary 20 lakh, FY 2024-25, age 35, Indian resident, 80C 2 lakh, no other deductions.",
+    "expected_status": "ready",
+    "expected_fields": {
+      "section_80c": 200000
+    }
+  },
+  {
+    "id": "language-13",
+    "text": "Annual salary 7.75 lakh FY 2024-25 age 25 Indian resident no deductions.",
+    "expected_status": "ready",
+    "expected_fields": {
+      "salary": 775000
+    }
+  },
+  {
+    "id": "language-14",
+    "text": "Annual salary 12.75 lakh FY 2025-26 age 25 Indian resident no deductions.",
+    "expected_status": "ready",
+    "expected_fields": {
+      "salary": 1275000
+    }
+  },
+  {
+    "id": "language-15",
+    "text": "Annual salary 15 lakh AY 2025-26 age 35 Indian resident no deductions.",
+    "expected_status": "ready",
+    "expected_fields": {
+      "financial_year": "2024-25"
+    }
+  },
+  {
+    "id": "language-16",
+    "text": "Meri salary 10 lpa, FY 2024-25, 30 saal, resident hoon, koi deduction nahi.",
+    "expected_status": "ready",
+    "expected_fields": {
+      "salary": 1000000
+    }
+  },
+  {
+    "id": "language-17",
+    "text": "Annual salary 900000 FY 2025/26 age is 39 Indian resident no deductions.",
+    "expected_status": "ready",
+    "expected_fields": {
+      "financial_year": "2025-26"
+    }
+  },
+  {
+    "id": "language-18",
+    "text": "Salary 75k monthly FY 2024-25 age 32 Indian resident no deductions.",
+    "expected_status": "ready",
+    "expected_fields": {
+      "salary": 900000
+    }
+  },
+  {
+    "id": "language-19",
+    "text": "Annual salary 550000 FY 2024-25 age 80 non-resident no deductions.",
+    "expected_status": "ready",
+    "expected_fields": {
+      "resident": false
+    }
+  },
+  {
+    "id": "language-20",
+    "text": "Annual salary 1275010 FY 2025-26 age 35 Indian resident no deductions.",
+    "expected_status": "ready",
+    "expected_fields": {
+      "salary": 1275010
+    }
+  },
+  {
+    "id": "language-21",
+    "text": "I earn well. What tax?",
+    "expected_status": "needs_clarification",
+    "expected_fields": {}
+  },
+  {
+    "id": "language-22",
+    "text": "Salary 12 lakh FY 2024-25 age 30 Indian resident no deductions.",
+    "expected_status": "needs_clarification",
+    "expected_fields": {}
+  },
+  {
+    "id": "language-23",
+    "text": "Annual salary 12 lakh, age 30, Indian resident, no deductions.",
+    "expected_status": "needs_clarification",
+    "expected_fields": {}
+  },
+  {
+    "id": "language-24",
+    "text": "Annual salary 12 lakh FY 2024-25 Indian resident no deductions.",
+    "expected_status": "needs_clarification",
+    "expected_fields": {}
+  },
+  {
+    "id": "language-25",
+    "text": "Annual salary 12 lakh FY 2024-25 age 30 no deductions.",
+    "expected_status": "needs_clarification",
+    "expected_fields": {}
+  },
+  {
+    "id": "language-26",
+    "text": "Annual salary 12 lakh FY 2024-25 age 30 Indian resident.",
+    "expected_status": "needs_clarification",
+    "expected_fields": {}
+  },
+  {
+    "id": "language-27",
+    "text": "CTC 20 lakh FY 2024-25 age 30 Indian resident no deductions.",
+    "expected_status": "needs_clarification",
+    "expected_fields": {}
+  },
+  {
+    "id": "language-28",
+    "text": "Net salary 100000 monthly FY 2025-26 age 32 Indian resident no deductions.",
+    "expected_status": "needs_clarification",
+    "expected_fields": {}
+  },
+  {
+    "id": "language-29",
+    "text": "Annual salary 12 lakh and annual salary 15 lakh. FY 2024-25 age 30 Indian resident no deductions.",
+    "expected_status": "needs_clarification",
+    "expected_fields": {}
+  },
+  {
+    "id": "language-30",
+    "text": "Annual salary 12 lakh FY 2024-25 FY 2025-26 age 30 Indian resident no deductions.",
+    "expected_status": "needs_clarification",
+    "expected_fields": {}
+  },
+  {
+    "id": "language-31",
+    "text": "Annual salary 12 lakh FY 2024-25 age 30 age 40 Indian resident no deductions.",
+    "expected_status": "needs_clarification",
+    "expected_fields": {}
+  },
+  {
+    "id": "language-32",
+    "text": "Annual salary 12 lakh FY 2024-25 age 30 Indian resident NRI no deductions.",
+    "expected_status": "needs_clarification",
+    "expected_fields": {}
+  },
+  {
+    "id": "language-33",
+    "text": "Annual salary 12 lakh FY 2024-25 age 30 Indian resident 80C 1 lakh no deductions.",
+    "expected_status": "needs_clarification",
+    "expected_fields": {}
+  },
+  {
+    "id": "language-34",
+    "text": "Annual salary 12 lakh FY 2024-25 age 30 Indian resident HRA 2 lakh no other deductions.",
+    "expected_status": "needs_clarification",
+    "expected_fields": {}
+  },
+  {
+    "id": "language-35",
+    "text": "Annual salary 12 lakh FY 2024-25 age 30 Indian resident rent 20k monthly no other deductions.",
+    "expected_status": "needs_clarification",
+    "expected_fields": {}
+  },
+  {
+    "id": "language-36",
+    "text": "Annual salary 12 lakh FY 2024-25 age 30 Indian resident health insurance 30k no other deductions.",
+    "expected_status": "needs_clarification",
+    "expected_fields": {}
+  },
+  {
+    "id": "language-37",
+    "text": "Annual salary 12 lakh FY 2024-25 age 30 Indian resident parents premium 60k no other deductions.",
+    "expected_status": "needs_clarification",
+    "expected_fields": {}
+  },
+  {
+    "id": "language-38",
+    "text": "Annual salary 12 lakh FY 2024-25 age 30 Indian resident home loan 2 lakh no other deductions.",
+    "expected_status": "needs_clarification",
+    "expected_fields": {}
+  },
+  {
+    "id": "language-39",
+    "text": "Annual salary 12 lakh FY 2024-25 age 30 Indian resident NPS 50k no other deductions.",
+    "expected_status": "needs_clarification",
+    "expected_fields": {}
+  },
+  {
+    "id": "language-40",
+    "text": "Annual salary 12 lakh FY 2026-27 age 30 Indian resident no deductions.",
+    "expected_status": "needs_clarification",
+    "expected_fields": {}
+  },
+  {
+    "id": "language-41",
+    "text": "Bhai tax bata do salary achchi hai.",
+    "expected_status": "needs_clarification",
+    "expected_fields": {}
+  },
+  {
+    "id": "language-42",
+    "text": "Annual salary 12 lakh FY 2024-25 age 17 Indian resident no deductions.",
+    "expected_status": "needs_clarification",
+    "expected_fields": {}
+  },
+  {
+    "id": "language-43",
+    "text": "Annual salary 12 lakh FY 2024-25 age 30 Indian resident 80C 1 lakh 80C 2 lakh only these deductions.",
+    "expected_status": "needs_clarification",
+    "expected_fields": {}
+  },
+  {
+    "id": "language-44",
+    "text": "Annual salary 12 lakh FY 2024-25 age 30 Indian resident CTC 18 lakh no deductions.",
+    "expected_status": "needs_clarification",
+    "expected_fields": {}
+  },
+  {
+    "id": "language-45",
+    "text": "Annual salary 12 lakh FY 2024-25 age 30 Indian resident 80D 25000 only these deductions.",
+    "expected_status": "needs_clarification",
+    "expected_fields": {}
+  },
+  {
+    "id": "language-46",
+    "text": "Annual salary 12 lakh FY 2024-25 age 30 Indian resident capital gains 50000 no deductions.",
+    "expected_status": "out_of_scope",
+    "expected_fields": {}
+  },
+  {
+    "id": "language-47",
+    "text": "Annual salary 12 lakh FY 2024-25 age 30 Indian resident business income 2 lakh no deductions.",
+    "expected_status": "out_of_scope",
+    "expected_fields": {}
+  },
+  {
+    "id": "language-48",
+    "text": "Freelancing income 10 lakh, how much tax?",
+    "expected_status": "out_of_scope",
+    "expected_fields": {}
+  },
+  {
+    "id": "language-49",
+    "text": "Annual salary 12 lakh and rental income 2 lakh FY 2024-25 age 30 Indian resident.",
+    "expected_status": "out_of_scope",
+    "expected_fields": {}
+  },
+  {
+    "id": "language-50",
+    "text": "Annual salary 12 lakh plus dividend 20000 FY 2025-26 age 30 Indian resident.",
+    "expected_status": "out_of_scope",
+    "expected_fields": {}
+  }
+]

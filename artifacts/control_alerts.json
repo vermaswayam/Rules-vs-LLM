@@ -1,0 +1,1095 @@
+{
+  "rule": [
+    {
+      "problem": "personal_data",
+      "row_index": 7,
+      "unique_key": "57468024",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "error"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 11,
+      "unique_key": "57467982",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "error"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 130,
+      "unique_key": "59291017",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "error"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 149,
+      "unique_key": "58375641",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "error"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 175,
+      "unique_key": "58685152",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "error"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 183,
+      "unique_key": "58687123",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "error"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 218,
+      "unique_key": "57468281",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "error"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 220,
+      "unique_key": "59296973",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "error"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 302,
+      "unique_key": "58687329",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "error"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 382,
+      "unique_key": "58375408",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "error"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 480,
+      "unique_key": "58375376",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "error"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 488,
+      "unique_key": "58061843",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "error"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 504,
+      "unique_key": "59608725",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "error"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 524,
+      "unique_key": "58686340",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "error"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 546,
+      "unique_key": "56679211",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "error"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 586,
+      "unique_key": "56925467",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "error"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 603,
+      "unique_key": "56925464",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "error"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 635,
+      "unique_key": "58975398",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "error"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 711,
+      "unique_key": "59298302",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "error"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 827,
+      "unique_key": "57771425",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "error"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 845,
+      "unique_key": "57771454",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "error"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 852,
+      "unique_key": "57467983",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "error"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 896,
+      "unique_key": "58375443",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "error"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 946,
+      "unique_key": "59610501",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "error"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 982,
+      "unique_key": "56925827",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "error"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 1077,
+      "unique_key": "58375446",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "error"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 1125,
+      "unique_key": "57770982",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "error"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 1150,
+      "unique_key": "57468311",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "error"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 1164,
+      "unique_key": "57468049",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "error"
+    }
+  ],
+  "statistical": [
+    {
+      "problem": "personal_data",
+      "row_index": 7,
+      "unique_key": "57468024",
+      "family": "statistical",
+      "reason": "Contact shape or unusual contact vocabulary (3 unseen tokens)",
+      "score": 1.0,
+      "severity": "warning"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 11,
+      "unique_key": "57467982",
+      "family": "statistical",
+      "reason": "Contact shape or unusual contact vocabulary (2 unseen tokens)",
+      "score": 1.0,
+      "severity": "warning"
+    },
+    {
+      "problem": "resolution_status",
+      "row_index": 24,
+      "unique_key": "58060684",
+      "family": "statistical",
+      "reason": "Token likelihood favours In Progress over Closed; log-score gap 30.86",
+      "score": 30.862313,
+      "severity": "warning"
+    },
+    {
+      "problem": "resolution_status",
+      "row_index": 66,
+      "unique_key": "58977984",
+      "family": "statistical",
+      "reason": "Token likelihood favours In Progress over Closed; log-score gap 23.61",
+      "score": 23.607985,
+      "severity": "warning"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 130,
+      "unique_key": "59291017",
+      "family": "statistical",
+      "reason": "Contact shape or unusual contact vocabulary (4 unseen tokens)",
+      "score": 1.0,
+      "severity": "warning"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 149,
+      "unique_key": "58375641",
+      "family": "statistical",
+      "reason": "Contact shape or unusual contact vocabulary (2 unseen tokens)",
+      "score": 1.0,
+      "severity": "warning"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 175,
+      "unique_key": "58685152",
+      "family": "statistical",
+      "reason": "Contact shape or unusual contact vocabulary (3 unseen tokens)",
+      "score": 1.0,
+      "severity": "warning"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 183,
+      "unique_key": "58687123",
+      "family": "statistical",
+      "reason": "Contact shape or unusual contact vocabulary (4 unseen tokens)",
+      "score": 1.0,
+      "severity": "warning"
+    },
+    {
+      "problem": "resolution_status",
+      "row_index": 210,
+      "unique_key": "59610512",
+      "family": "statistical",
+      "reason": "Token likelihood favours In Progress over Closed; log-score gap 23.61",
+      "score": 23.607985,
+      "severity": "warning"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 218,
+      "unique_key": "57468281",
+      "family": "statistical",
+      "reason": "Contact shape or unusual contact vocabulary (1 unseen tokens)",
+      "score": 1.0,
+      "severity": "warning"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 220,
+      "unique_key": "59296973",
+      "family": "statistical",
+      "reason": "Contact shape or unusual contact vocabulary (3 unseen tokens)",
+      "score": 1.0,
+      "severity": "warning"
+    },
+    {
+      "problem": "resolution_status",
+      "row_index": 229,
+      "unique_key": "56925174",
+      "family": "statistical",
+      "reason": "Token likelihood favours In Progress over Closed; log-score gap 13.51",
+      "score": 13.511446,
+      "severity": "warning"
+    },
+    {
+      "problem": "resolution_status",
+      "row_index": 262,
+      "unique_key": "58683888",
+      "family": "statistical",
+      "reason": "Token likelihood favours In Progress over Closed; log-score gap 10.07",
+      "score": 10.069382,
+      "severity": "warning"
+    },
+    {
+      "problem": "resolution_status",
+      "row_index": 273,
+      "unique_key": "57771015",
+      "family": "statistical",
+      "reason": "Token likelihood favours In Progress over Closed; log-score gap 118.87",
+      "score": 118.865608,
+      "severity": "warning"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 302,
+      "unique_key": "58687329",
+      "family": "statistical",
+      "reason": "Contact shape or unusual contact vocabulary (2 unseen tokens)",
+      "score": 1.0,
+      "severity": "warning"
+    },
+    {
+      "problem": "resolution_status",
+      "row_index": 319,
+      "unique_key": "57771583",
+      "family": "statistical",
+      "reason": "Token likelihood favours In Progress over Closed; log-score gap 37.00",
+      "score": 37.004678,
+      "severity": "warning"
+    },
+    {
+      "problem": "resolution_status",
+      "row_index": 322,
+      "unique_key": "58051793",
+      "family": "statistical",
+      "reason": "Token likelihood favours In Progress over Closed; log-score gap 40.07",
+      "score": 40.072826,
+      "severity": "warning"
+    },
+    {
+      "problem": "resolution_status",
+      "row_index": 334,
+      "unique_key": "56676954",
+      "family": "statistical",
+      "reason": "Token likelihood favours In Progress over Closed; log-score gap 10.94",
+      "score": 10.93677,
+      "severity": "warning"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 382,
+      "unique_key": "58375408",
+      "family": "statistical",
+      "reason": "Contact shape or unusual contact vocabulary (2 unseen tokens)",
+      "score": 1.0,
+      "severity": "warning"
+    },
+    {
+      "problem": "near_duplicate",
+      "row_index": 461,
+      "unique_key": "58369572",
+      "family": "statistical",
+      "reason": "Same agency/problem/address as index 98, 82s apart; text similarity 1.000",
+      "score": 1.0,
+      "severity": "warning"
+    },
+    {
+      "problem": "resolution_status",
+      "row_index": 465,
+      "unique_key": "58969190",
+      "family": "statistical",
+      "reason": "Token likelihood favours In Progress over Closed; log-score gap 30.86",
+      "score": 30.862313,
+      "severity": "warning"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 480,
+      "unique_key": "58375376",
+      "family": "statistical",
+      "reason": "Contact shape or unusual contact vocabulary (1 unseen tokens)",
+      "score": 1.0,
+      "severity": "warning"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 488,
+      "unique_key": "58061843",
+      "family": "statistical",
+      "reason": "Contact shape or unusual contact vocabulary (1 unseen tokens)",
+      "score": 1.0,
+      "severity": "warning"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 504,
+      "unique_key": "59608725",
+      "family": "statistical",
+      "reason": "Contact shape or unusual contact vocabulary (4 unseen tokens)",
+      "score": 1.0,
+      "severity": "warning"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 524,
+      "unique_key": "58686340",
+      "family": "statistical",
+      "reason": "Contact shape or unusual contact vocabulary (1 unseen tokens)",
+      "score": 1.0,
+      "severity": "warning"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 546,
+      "unique_key": "56679211",
+      "family": "statistical",
+      "reason": "Contact shape or unusual contact vocabulary (1 unseen tokens)",
+      "score": 1.0,
+      "severity": "warning"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 586,
+      "unique_key": "56925467",
+      "family": "statistical",
+      "reason": "Contact shape or unusual contact vocabulary (1 unseen tokens)",
+      "score": 1.0,
+      "severity": "warning"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 603,
+      "unique_key": "56925464",
+      "family": "statistical",
+      "reason": "Contact shape or unusual contact vocabulary (1 unseen tokens)",
+      "score": 1.0,
+      "severity": "warning"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 635,
+      "unique_key": "58975398",
+      "family": "statistical",
+      "reason": "Contact shape or unusual contact vocabulary (1 unseen tokens)",
+      "score": 1.0,
+      "severity": "warning"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 711,
+      "unique_key": "59298302",
+      "family": "statistical",
+      "reason": "Contact shape or unusual contact vocabulary (2 unseen tokens)",
+      "score": 1.0,
+      "severity": "warning"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 827,
+      "unique_key": "57771425",
+      "family": "statistical",
+      "reason": "Contact shape or unusual contact vocabulary (5 unseen tokens)",
+      "score": 1.0,
+      "severity": "warning"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 845,
+      "unique_key": "57771454",
+      "family": "statistical",
+      "reason": "Contact shape or unusual contact vocabulary (1 unseen tokens)",
+      "score": 1.0,
+      "severity": "warning"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 852,
+      "unique_key": "57467983",
+      "family": "statistical",
+      "reason": "Contact shape or unusual contact vocabulary (1 unseen tokens)",
+      "score": 1.0,
+      "severity": "warning"
+    },
+    {
+      "problem": "resolution_status",
+      "row_index": 868,
+      "unique_key": "58060981",
+      "family": "statistical",
+      "reason": "Token likelihood favours In Progress over Closed; log-score gap 30.86",
+      "score": 30.862313,
+      "severity": "warning"
+    },
+    {
+      "problem": "resolution_status",
+      "row_index": 873,
+      "unique_key": "58375461",
+      "family": "statistical",
+      "reason": "Token likelihood favours In Progress over Closed; log-score gap 118.87",
+      "score": 118.865608,
+      "severity": "warning"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 896,
+      "unique_key": "58375443",
+      "family": "statistical",
+      "reason": "Contact shape or unusual contact vocabulary (2 unseen tokens)",
+      "score": 1.0,
+      "severity": "warning"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 946,
+      "unique_key": "59610501",
+      "family": "statistical",
+      "reason": "Contact shape or unusual contact vocabulary (2 unseen tokens)",
+      "score": 1.0,
+      "severity": "warning"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 982,
+      "unique_key": "56925827",
+      "family": "statistical",
+      "reason": "Contact shape or unusual contact vocabulary (0 unseen tokens)",
+      "score": 1.0,
+      "severity": "warning"
+    },
+    {
+      "problem": "complaint_descriptor",
+      "row_index": 983,
+      "unique_key": "58059282",
+      "family": "statistical",
+      "reason": "Conditional descriptor probability 0.00436 below .005",
+      "score": 0.995637,
+      "severity": "warning"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 1077,
+      "unique_key": "58375446",
+      "family": "statistical",
+      "reason": "Contact shape or unusual contact vocabulary (2 unseen tokens)",
+      "score": 1.0,
+      "severity": "warning"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 1125,
+      "unique_key": "57770982",
+      "family": "statistical",
+      "reason": "Contact shape or unusual contact vocabulary (2 unseen tokens)",
+      "score": 1.0,
+      "severity": "warning"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 1150,
+      "unique_key": "57468311",
+      "family": "statistical",
+      "reason": "Contact shape or unusual contact vocabulary (4 unseen tokens)",
+      "score": 1.0,
+      "severity": "warning"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 1164,
+      "unique_key": "57468049",
+      "family": "statistical",
+      "reason": "Contact shape or unusual contact vocabulary (3 unseen tokens)",
+      "score": 1.0,
+      "severity": "warning"
+    },
+    {
+      "problem": "resolution_status",
+      "row_index": 1195,
+      "unique_key": "58060682",
+      "family": "statistical",
+      "reason": "Token likelihood favours In Progress over Closed; log-score gap 30.86",
+      "score": 30.862313,
+      "severity": "warning"
+    }
+  ],
+  "hybrid": [
+    {
+      "problem": "personal_data",
+      "row_index": 7,
+      "unique_key": "57468024",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 11,
+      "unique_key": "57467982",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 130,
+      "unique_key": "59291017",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 149,
+      "unique_key": "58375641",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 175,
+      "unique_key": "58685152",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 183,
+      "unique_key": "58687123",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 218,
+      "unique_key": "57468281",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 220,
+      "unique_key": "59296973",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 302,
+      "unique_key": "58687329",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 382,
+      "unique_key": "58375408",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 480,
+      "unique_key": "58375376",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 488,
+      "unique_key": "58061843",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 504,
+      "unique_key": "59608725",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 524,
+      "unique_key": "58686340",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 546,
+      "unique_key": "56679211",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 586,
+      "unique_key": "56925467",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 603,
+      "unique_key": "56925464",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 635,
+      "unique_key": "58975398",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 711,
+      "unique_key": "59298302",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 827,
+      "unique_key": "57771425",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 845,
+      "unique_key": "57771454",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 852,
+      "unique_key": "57467983",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 896,
+      "unique_key": "58375443",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 946,
+      "unique_key": "59610501",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 982,
+      "unique_key": "56925827",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 1077,
+      "unique_key": "58375446",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 1125,
+      "unique_key": "57770982",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 1150,
+      "unique_key": "57468311",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "personal_data",
+      "row_index": 1164,
+      "unique_key": "57468049",
+      "family": "rule",
+      "reason": "Potential personal data patterns: phone",
+      "score": 1.0,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "resolution_status",
+      "row_index": 24,
+      "unique_key": "58060684",
+      "family": "statistical",
+      "reason": "Token likelihood favours In Progress over Closed; log-score gap 30.86",
+      "score": 30.862313,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "resolution_status",
+      "row_index": 66,
+      "unique_key": "58977984",
+      "family": "statistical",
+      "reason": "Token likelihood favours In Progress over Closed; log-score gap 23.61",
+      "score": 23.607985,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "resolution_status",
+      "row_index": 210,
+      "unique_key": "59610512",
+      "family": "statistical",
+      "reason": "Token likelihood favours In Progress over Closed; log-score gap 23.61",
+      "score": 23.607985,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "resolution_status",
+      "row_index": 229,
+      "unique_key": "56925174",
+      "family": "statistical",
+      "reason": "Token likelihood favours In Progress over Closed; log-score gap 13.51",
+      "score": 13.511446,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "resolution_status",
+      "row_index": 262,
+      "unique_key": "58683888",
+      "family": "statistical",
+      "reason": "Token likelihood favours In Progress over Closed; log-score gap 10.07",
+      "score": 10.069382,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "resolution_status",
+      "row_index": 273,
+      "unique_key": "57771015",
+      "family": "statistical",
+      "reason": "Token likelihood favours In Progress over Closed; log-score gap 118.87",
+      "score": 118.865608,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "resolution_status",
+      "row_index": 319,
+      "unique_key": "57771583",
+      "family": "statistical",
+      "reason": "Token likelihood favours In Progress over Closed; log-score gap 37.00",
+      "score": 37.004678,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "resolution_status",
+      "row_index": 322,
+      "unique_key": "58051793",
+      "family": "statistical",
+      "reason": "Token likelihood favours In Progress over Closed; log-score gap 40.07",
+      "score": 40.072826,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "resolution_status",
+      "row_index": 334,
+      "unique_key": "56676954",
+      "family": "statistical",
+      "reason": "Token likelihood favours In Progress over Closed; log-score gap 10.94",
+      "score": 10.93677,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "resolution_status",
+      "row_index": 465,
+      "unique_key": "58969190",
+      "family": "statistical",
+      "reason": "Token likelihood favours In Progress over Closed; log-score gap 30.86",
+      "score": 30.862313,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "resolution_status",
+      "row_index": 868,
+      "unique_key": "58060981",
+      "family": "statistical",
+      "reason": "Token likelihood favours In Progress over Closed; log-score gap 30.86",
+      "score": 30.862313,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "resolution_status",
+      "row_index": 873,
+      "unique_key": "58375461",
+      "family": "statistical",
+      "reason": "Token likelihood favours In Progress over Closed; log-score gap 118.87",
+      "score": 118.865608,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "complaint_descriptor",
+      "row_index": 983,
+      "unique_key": "58059282",
+      "family": "statistical",
+      "reason": "Conditional descriptor probability 0.00436 below .005",
+      "score": 0.995637,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    },
+    {
+      "problem": "resolution_status",
+      "row_index": 1195,
+      "unique_key": "58060682",
+      "family": "statistical",
+      "reason": "Token likelihood favours In Progress over Closed; log-score gap 30.86",
+      "score": 30.862313,
+      "severity": "warning",
+      "triage_state": "needs_review"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "rows": 12000,
+  "agency_counts": {
+    "DOT": 480,
+    "DSNY": 566,
+    "NYPD": 7702,
+    "HPD": 1517,
+    "DOB": 210,
+    "DCWP": 54,
+    "DEP": 505,
+    "EDC": 209,
+    "DOHMH": 213,
+    "DHS": 213,
+    "DPR": 242,
+    "TLC": 84,
+    "DOE": 5
+  },
+  "month_counts": {
+    "2023-01": 1000,
+    "2023-02": 1000,
+    "2023-03": 1000,
+    "2023-04": 1000,
+    "2023-05": 1000,
+    "2023-06": 1000,
+    "2023-07": 1000,
+    "2023-08": 1000,
+    "2023-09": 1000,
+    "2023-10": 1000,
+    "2023-11": 1000,
+    "2023-12": 1000
+  },
+  "issues": {
+    "missing_unique_key": {
+      "count": 0,
+      "example_keys": [],
+      "interpretation": "Completeness observation; validity depends on agency/workflow, not automatically corruption"
+    },
+    "missing_created_date": {
+      "count": 0,
+      "example_keys": [],
+      "interpretation": "Completeness observation; validity depends on agency/workflow, not automatically corruption"
+    },
+    "missing_closed_date": {
+      "count": 273,
+      "example_keys": [
+        "56412831",
+        "56412985",
+        "56413163",
+        "56413279",
+        "56671329"
+      ],
+      "interpretation": "Completeness observation; validity depends on agency/workflow, not automatically corruption"
+    },
+    "missing_agency": {
+      "count": 0,
+      "example_keys": [],
+      "interpretation": "Completeness observation; validity depends on agency/workflow, not automatically corruption"
+    },
+    "missing_complaint_type": {
+      "count": 0,
+      "example_keys": [],
+      "interpretation": "Completeness observation; validity depends on agency/workflow, not automatically corruption"
+    },
+    "missing_descriptor": {
+      "count": 198,
+      "example_keys": [
+        "56412729",
+        "56412763",
+        "56413019",
+        "56413253",
+        "56413295"
+      ],
+      "interpretation": "Completeness observation; validity depends on agency/workflow, not automatically corruption"
+    },
+    "missing_resolution_description": {
+      "count": 171,
+      "example_keys": [
+        "56412534",
+        "56412831",
+        "56412985",
+        "56413279",
+        "56671329"
+      ],
+      "interpretation": "Completeness observation; validity depends on agency/workflow, not automatically corruption"
+    },
+    "missing_status": {
+      "count": 0,
+      "example_keys": [],
+      "interpretation": "Completeness observation; validity depends on agency/workflow, not automatically corruption"
+    },
+    "missing_incident_zip": {
+      "count": 173,
+      "example_keys": [
+        "56408061",
+        "56412433",
+        "56412512",
+        "56412744",
+        "56413111"
+      ],
+      "interpretation": "Completeness observation; validity depends on agency/workflow, not automatically corruption"
+    },
+    "missing_borough": {
+      "count": 0,
+      "example_keys": [],
+      "interpretation": "Completeness observation; validity depends on agency/workflow, not automatically corruption"
+    },
+    "missing_latitude": {
+      "count": 155,
+      "example_keys": [
+        "56408061",
+        "56412433",
+        "56412494",
+        "56412512",
+        "56412744"
+      ],
+      "interpretation": "Completeness observation; validity depends on agency/workflow, not automatically corruption"
+    },
+    "missing_longitude": {
+      "count": 155,
+      "example_keys": [
+        "56408061",
+        "56412433",
+        "56412494",
+        "56412512",
+        "56412744"
+      ],
+      "interpretation": "Completeness observation; validity depends on agency/workflow, not automatically corruption"
+    },
+    "missing_incident_address": {
+      "count": 449,
+      "example_keys": [
+        "56408061",
+        "56409451",
+        "56410624",
+        "56410653",
+        "56411233"
+      ],
+      "interpretation": "Completeness observation; validity depends on agency/workflow, not automatically corruption"
+    },
+    "closed_before_created": {
+      "count": 16,
+      "example_keys": [
+        "56679057",
+        "56679140",
+        "56679524",
+        "56925351",
+        "58061745"
+      ],
+      "interpretation": "Hard chronology failure"
+    },
+    "mojibake_text": {
+      "count": 218,
+      "example_keys": [
+        "56408061",
+        "56409451",
+        "56410624",
+        "56410653",
+        "56411233"
+      ],
+      "interpretation": "Encoding artifact in published text; raw bytes retained"
+    },
+    "closed_status_without_closed_date": {
+      "count": 117,
+      "example_keys": [
+        "58052322",
+        "58053565",
+        "58054176",
+        "58054255",
+        "58054587"
+      ],
+      "interpretation": "Workflow inconsistency candidate; agency confirmation needed"
+    },
+    "repeated_unique_key": {
+      "count": 0,
+      "example_keys": [],
+      "interpretation": "Potential ingestion duplication"
+    },
+    "unassigned_borough": {
+      "count": 8,
+      "example_keys": [
+        "56679035",
+        "56679571",
+        "56925601",
+        "57194006",
+        "57464448"
+      ],
+      "interpretation": "Unknown geography; retain as unknown rather than inventing a borough"
+    }
+  },
+  "scope": "Counts describe the saved monthly coverage sample only; not the entire 2023 population"
+}

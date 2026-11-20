@@ -1,0 +1,87 @@
+{
+  "dataset": "https://data.cityofnewyork.us/resource/erm2-nwe9.json",
+  "retrieved_at": "2026-11-19T12:38:30.599038+00:00",
+  "sampling": "Monthly coverage slices sorted by each recorded query; NOT a random sample or census",
+  "rows": 12000,
+  "population_query": "https://data.cityofnewyork.us/resource/erm2-nwe9.json?%24select=count%28%2A%29+as+total&%24where=created_date+%3E%3D+%272023-01-01T00%3A00%3A00%27+AND+created_date+%3C+%272024-01-01T00%3A00%3A00%27",
+  "population": [
+    {
+      "total": "3224723"
+    }
+  ],
+  "sha256": "6309a2df72a649f94edc388e6b7ee7e2f37b3fc9805e942a6cbfce568bec1224",
+  "queries": [
+    {
+      "month": 1,
+      "url": "https://data.cityofnewyork.us/resource/erm2-nwe9.json?%24select=unique_key%2Ccreated_date%2Cclosed_date%2Cagency%2Ccomplaint_type%2Cdescriptor%2Cresolution_description%2Cstatus%2Cincident_zip%2Cborough%2Clatitude%2Clongitude%2Cincident_address&%24where=created_date+%3E%3D+%272023-01-01T00%3A00%3A00%27+AND+created_date+%3C+%272023-02-01T00%3A00%3A00%27&%24order=unique_key&%24limit=1000",
+      "rows": 1000,
+      "sha256": "8b48ea9fa7c4ecf7bab5f610079c8969a8b238abdf2de0046155e14c10529d86"
+    },
+    {
+      "month": 2,
+      "url": "https://data.cityofnewyork.us/resource/erm2-nwe9.json?%24select=unique_key%2Ccreated_date%2Cclosed_date%2Cagency%2Ccomplaint_type%2Cdescriptor%2Cresolution_description%2Cstatus%2Cincident_zip%2Cborough%2Clatitude%2Clongitude%2Cincident_address&%24where=created_date+%3E%3D+%272023-02-01T00%3A00%3A00%27+AND+created_date+%3C+%272023-03-01T00%3A00%3A00%27&%24order=unique_key&%24limit=1000",
+      "rows": 1000,
+      "sha256": "67e6ec083efd51e12bd0daa861025ca114393a59e3f919eabfb719d9c7efc643"
+    },
+    {
+      "month": 3,
+      "url": "https://data.cityofnewyork.us/resource/erm2-nwe9.json?%24select=unique_key%2Ccreated_date%2Cclosed_date%2Cagency%2Ccomplaint_type%2Cdescriptor%2Cresolution_description%2Cstatus%2Cincident_zip%2Cborough%2Clatitude%2Clongitude%2Cincident_address&%24where=created_date+%3E%3D+%272023-03-01T00%3A00%3A00%27+AND+created_date+%3C+%272023-04-01T00%3A00%3A00%27&%24order=unique_key&%24limit=1000",
+      "rows": 1000,
+      "sha256": "3dc0cb6077d9ff019a6879b8645e8318e376d9a0f90115296ed18c963f6b41ff"
+    },
+    {
+      "month": 4,
+      "url": "https://data.cityofnewyork.us/resource/erm2-nwe9.json?%24select=unique_key%2Ccreated_date%2Cclosed_date%2Cagency%2Ccomplaint_type%2Cdescriptor%2Cresolution_description%2Cstatus%2Cincident_zip%2Cborough%2Clatitude%2Clongitude%2Cincident_address&%24where=created_date+%3E%3D+%272023-04-01T00%3A00%3A00%27+AND+created_date+%3C+%272023-05-01T00%3A00%3A00%27&%24order=unique_key&%24limit=1000",
+      "rows": 1000,
+      "sha256": "78ae43b9d1e8797e1872c3aeddffff144be45a40a6ee7b903a58836b97b2fe1d"
+    },
+    {
+      "month": 5,
+      "url": "https://data.cityofnewyork.us/resource/erm2-nwe9.json?%24select=unique_key%2Ccreated_date%2Cclosed_date%2Cagency%2Ccomplaint_type%2Cdescriptor%2Cresolution_description%2Cstatus%2Cincident_zip%2Cborough%2Clatitude%2Clongitude%2Cincident_address&%24where=created_date+%3E%3D+%272023-05-01T00%3A00%3A00%27+AND+created_date+%3C+%272023-06-01T00%3A00%3A00%27&%24order=unique_key&%24limit=1000",
+      "rows": 1000,
+      "sha256": "60f304b98029f4fe83ebc3752511cbd87910bd2ee383ceb08e8958fd69f9e1a8"
+    },
+    {
+      "month": 6,
+      "url": "https://data.cityofnewyork.us/resource/erm2-nwe9.json?%24select=unique_key%2Ccreated_date%2Cclosed_date%2Cagency%2Ccomplaint_type%2Cdescriptor%2Cresolution_description%2Cstatus%2Cincident_zip%2Cborough%2Clatitude%2Clongitude%2Cincident_address&%24where=created_date+%3E%3D+%272023-06-01T00%3A00%3A00%27+AND+created_date+%3C+%272023-07-01T00%3A00%3A00%27&%24order=unique_key&%24limit=1000",
+      "rows": 1000,
+      "sha256": "4bba2890a4007a5f725a645aac19a381c93181b36722d5150150d1431634e93d"
+    },
+    {
+      "month": 7,
+      "url": "https://data.cityofnewyork.us/resource/erm2-nwe9.json?%24select=unique_key%2Ccreated_date%2Cclosed_date%2Cagency%2Ccomplaint_type%2Cdescriptor%2Cresolution_description%2Cstatus%2Cincident_zip%2Cborough%2Clatitude%2Clongitude%2Cincident_address&%24where=created_date+%3E%3D+%272023-07-01T00%3A00%3A00%27+AND+created_date+%3C+%272023-08-01T00%3A00%3A00%27&%24order=unique_key&%24limit=1000",
+      "rows": 1000,
+      "sha256": "6b7286bfff110efe544f57bb290f345897f487ef4b66e4856775da72646ff12e"
+    },
+    {
+      "month": 8,
+      "url": "https://data.cityofnewyork.us/resource/erm2-nwe9.json?%24select=unique_key%2Ccreated_date%2Cclosed_date%2Cagency%2Ccomplaint_type%2Cdescriptor%2Cresolution_description%2Cstatus%2Cincident_zip%2Cborough%2Clatitude%2Clongitude%2Cincident_address&%24where=created_date+%3E%3D+%272023-08-01T00%3A00%3A00%27+AND+created_date+%3C+%272023-09-01T00%3A00%3A00%27&%24order=unique_key&%24limit=1000",
+      "rows": 1000,
+      "sha256": "43d46bc26bb698bf0d4cdb4a5dae4f2f31bd418e4c3c99e6c372b253f9f6e186"
+    },
+    {
+      "month": 9,
+      "url": "https://data.cityofnewyork.us/resource/erm2-nwe9.json?%24select=unique_key%2Ccreated_date%2Cclosed_date%2Cagency%2Ccomplaint_type%2Cdescriptor%2Cresolution_description%2Cstatus%2Cincident_zip%2Cborough%2Clatitude%2Clongitude%2Cincident_address&%24where=created_date+%3E%3D+%272023-09-01T00%3A00%3A00%27+AND+created_date+%3C+%272023-10-01T00%3A00%3A00%27&%24order=created_date%2Cunique_key&%24limit=1000",
+      "rows": 1000,
+      "sha256": "f4cd6a3d673e5351f0dea605c346da7509476ff32ebcbbb1574b3bce3db6e8ca"
+    },
+    {
+      "month": 10,
+      "url": "https://data.cityofnewyork.us/resource/erm2-nwe9.json?%24select=unique_key%2Ccreated_date%2Cclosed_date%2Cagency%2Ccomplaint_type%2Cdescriptor%2Cresolution_description%2Cstatus%2Cincident_zip%2Cborough%2Clatitude%2Clongitude%2Cincident_address&%24where=created_date+%3E%3D+%272023-10-01T00%3A00%3A00%27+AND+created_date+%3C+%272023-11-01T00%3A00%3A00%27&%24order=created_date%2Cunique_key&%24limit=1000",
+      "rows": 1000,
+      "sha256": "cf6525e7c4ac5835245f01fb5c4ec8f8fcaf5c7edc2f8ef296652d7847d8f0a9"
+    },
+    {
+      "month": 11,
+      "url": "https://data.cityofnewyork.us/resource/erm2-nwe9.json?%24select=unique_key%2Ccreated_date%2Cclosed_date%2Cagency%2Ccomplaint_type%2Cdescriptor%2Cresolution_description%2Cstatus%2Cincident_zip%2Cborough%2Clatitude%2Clongitude%2Cincident_address&%24where=created_date+%3E%3D+%272023-11-01T00%3A00%3A00%27+AND+created_date+%3C+%272023-12-01T00%3A00%3A00%27&%24order=created_date%2Cunique_key&%24limit=1000",
+      "rows": 1000,
+      "sha256": "ef40323b4d7461ecd52be493e22f96c5ba237c75dd36d314ca423c6b5e803c4f"
+    },
+    {
+      "month": 12,
+      "url": "https://data.cityofnewyork.us/resource/erm2-nwe9.json?%24select=unique_key%2Ccreated_date%2Cclosed_date%2Cagency%2Ccomplaint_type%2Cdescriptor%2Cresolution_description%2Cstatus%2Cincident_zip%2Cborough%2Clatitude%2Clongitude%2Cincident_address&%24where=created_date+%3E%3D+%272023-12-01T00%3A00%3A00%27+AND+created_date+%3C+%272024-01-01T00%3A00%3A00%27&%24order=created_date%2Cunique_key&%24limit=1000",
+      "rows": 1000,
+      "sha256": "66431a12e59d4ea14f1de01b08d7b6743b50ba44d7be6d8b3dcf22288fef2da6"
+    }
+  ]
+}

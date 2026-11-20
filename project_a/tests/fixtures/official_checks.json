@@ -1,0 +1,662 @@
+[
+  {
+    "case_id": "official-net-01",
+    "input": {
+      "salary": 0,
+      "financial_year": "2024-25",
+      "age": 35,
+      "resident": true
+    },
+    "engine_expected": {
+      "old": 0,
+      "new": 0
+    },
+    "official_old": 0,
+    "official_new": 0,
+    "status": "verified",
+    "evidence": "data/official_calculator/check_outputs.json",
+    "scope": "Slab/rebate/surcharge/cess validation on independently specified net salary; deductions and language parsing not externally checked",
+    "official_old_raw_display": 0,
+    "evidence_sha256": "7bd59092d5b083fe9b9fc6e887188c8259d5aed13bb78eb5b2b2c59640171292",
+    "validation_method": "Official deployed calculator calculation functions, executed unchanged in isolated Node VM; wrapper selects UI state and captures result. Final display converted with s288B.",
+    "official_new_raw_display": 0
+  },
+  {
+    "case_id": "official-net-02",
+    "input": {
+      "salary": 250000,
+      "financial_year": "2024-25",
+      "age": 35,
+      "resident": true
+    },
+    "engine_expected": {
+      "old": 0,
+      "new": 0
+    },
+    "official_old": 0,
+    "official_new": 0,
+    "status": "verified",
+    "evidence": "data/official_calculator/check_outputs.json",
+    "scope": "Slab/rebate/surcharge/cess validation on independently specified net salary; deductions and language parsing not externally checked",
+    "official_old_raw_display": 0,
+    "evidence_sha256": "7bd59092d5b083fe9b9fc6e887188c8259d5aed13bb78eb5b2b2c59640171292",
+    "validation_method": "Official deployed calculator calculation functions, executed unchanged in isolated Node VM; wrapper selects UI state and captures result. Final display converted with s288B.",
+    "official_new_raw_display": 0
+  },
+  {
+    "case_id": "official-net-03",
+    "input": {
+      "salary": 300000,
+      "financial_year": "2024-25",
+      "age": 35,
+      "resident": true
+    },
+    "engine_expected": {
+      "old": 0,
+      "new": 0
+    },
+    "official_old": 0,
+    "official_new": 0,
+    "status": "verified",
+    "evidence": "data/official_calculator/check_outputs.json",
+    "scope": "Slab/rebate/surcharge/cess validation on independently specified net salary; deductions and language parsing not externally checked",
+    "official_old_raw_display": 0,
+    "evidence_sha256": "7bd59092d5b083fe9b9fc6e887188c8259d5aed13bb78eb5b2b2c59640171292",
+    "validation_method": "Official deployed calculator calculation functions, executed unchanged in isolated Node VM; wrapper selects UI state and captures result. Final display converted with s288B.",
+    "official_new_raw_display": 0
+  },
+  {
+    "case_id": "official-net-04",
+    "input": {
+      "salary": 500000,
+      "financial_year": "2024-25",
+      "age": 35,
+      "resident": true
+    },
+    "engine_expected": {
+      "old": 0,
+      "new": 0
+    },
+    "official_old": 0,
+    "official_new": 0,
+    "status": "verified",
+    "evidence": "data/official_calculator/check_outputs.json",
+    "scope": "Slab/rebate/surcharge/cess validation on independently specified net salary; deductions and language parsing not externally checked",
+    "official_old_raw_display": 0,
+    "evidence_sha256": "7bd59092d5b083fe9b9fc6e887188c8259d5aed13bb78eb5b2b2c59640171292",
+    "validation_method": "Official deployed calculator calculation functions, executed unchanged in isolated Node VM; wrapper selects UI state and captures result. Final display converted with s288B.",
+    "official_new_raw_display": 0
+  },
+  {
+    "case_id": "official-net-05",
+    "input": {
+      "salary": 550000,
+      "financial_year": "2024-25",
+      "age": 35,
+      "resident": true
+    },
+    "engine_expected": {
+      "old": 0,
+      "new": 0
+    },
+    "official_old": 0,
+    "official_new": 0,
+    "status": "verified",
+    "evidence": "data/official_calculator/check_outputs.json",
+    "scope": "Slab/rebate/surcharge/cess validation on independently specified net salary; deductions and language parsing not externally checked",
+    "official_old_raw_display": 0,
+    "evidence_sha256": "7bd59092d5b083fe9b9fc6e887188c8259d5aed13bb78eb5b2b2c59640171292",
+    "validation_method": "Official deployed calculator calculation functions, executed unchanged in isolated Node VM; wrapper selects UI state and captures result. Final display converted with s288B.",
+    "official_new_raw_display": 0
+  },
+  {
+    "case_id": "official-net-06",
+    "input": {
+      "salary": 551000,
+      "financial_year": "2024-25",
+      "age": 35,
+      "resident": true
+    },
+    "engine_expected": {
+      "old": 13210,
+      "new": 0
+    },
+    "official_old": 13210,
+    "official_new": 0,
+    "status": "verified",
+    "evidence": "data/official_calculator/check_outputs.json",
+    "scope": "Slab/rebate/surcharge/cess validation on independently specified net salary; deductions and language parsing not externally checked",
+    "official_old_raw_display": 13208,
+    "evidence_sha256": "7bd59092d5b083fe9b9fc6e887188c8259d5aed13bb78eb5b2b2c59640171292",
+    "validation_method": "Official deployed calculator calculation functions, executed unchanged in isolated Node VM; wrapper selects UI state and captures result. Final display converted with s288B.",
+    "official_new_raw_display": 0
+  },
+  {
+    "case_id": "official-net-07",
+    "input": {
+      "salary": 700000,
+      "financial_year": "2024-25",
+      "age": 35,
+      "resident": true
+    },
+    "engine_expected": {
+      "old": 44200,
+      "new": 0
+    },
+    "official_old": 44200,
+    "official_new": 0,
+    "status": "verified",
+    "evidence": "data/official_calculator/check_outputs.json",
+    "scope": "Slab/rebate/surcharge/cess validation on independently specified net salary; deductions and language parsing not externally checked",
+    "official_old_raw_display": 44200,
+    "evidence_sha256": "7bd59092d5b083fe9b9fc6e887188c8259d5aed13bb78eb5b2b2c59640171292",
+    "validation_method": "Official deployed calculator calculation functions, executed unchanged in isolated Node VM; wrapper selects UI state and captures result. Final display converted with s288B.",
+    "official_new_raw_display": 0
+  },
+  {
+    "case_id": "official-net-08",
+    "input": {
+      "salary": 750000,
+      "financial_year": "2024-25",
+      "age": 35,
+      "resident": true
+    },
+    "engine_expected": {
+      "old": 54600,
+      "new": 0
+    },
+    "official_old": 54600,
+    "official_new": 0,
+    "status": "verified",
+    "evidence": "data/official_calculator/check_outputs.json",
+    "scope": "Slab/rebate/surcharge/cess validation on independently specified net salary; deductions and language parsing not externally checked",
+    "official_old_raw_display": 54600,
+    "evidence_sha256": "7bd59092d5b083fe9b9fc6e887188c8259d5aed13bb78eb5b2b2c59640171292",
+    "validation_method": "Official deployed calculator calculation functions, executed unchanged in isolated Node VM; wrapper selects UI state and captures result. Final display converted with s288B.",
+    "official_new_raw_display": 0
+  },
+  {
+    "case_id": "official-net-09",
+    "input": {
+      "salary": 775000,
+      "financial_year": "2024-25",
+      "age": 35,
+      "resident": true
+    },
+    "engine_expected": {
+      "old": 59800,
+      "new": 0
+    },
+    "official_old": 59800,
+    "official_new": 0,
+    "status": "verified",
+    "evidence": "data/official_calculator/check_outputs.json",
+    "scope": "Slab/rebate/surcharge/cess validation on independently specified net salary; deductions and language parsing not externally checked",
+    "official_old_raw_display": 59800,
+    "evidence_sha256": "7bd59092d5b083fe9b9fc6e887188c8259d5aed13bb78eb5b2b2c59640171292",
+    "validation_method": "Official deployed calculator calculation functions, executed unchanged in isolated Node VM; wrapper selects UI state and captures result. Final display converted with s288B.",
+    "official_new_raw_display": 0
+  },
+  {
+    "case_id": "official-net-10",
+    "input": {
+      "salary": 776000,
+      "financial_year": "2024-25",
+      "age": 35,
+      "resident": true
+    },
+    "engine_expected": {
+      "old": 60010,
+      "new": 1040
+    },
+    "official_old": 60010,
+    "official_new": 1040,
+    "status": "verified",
+    "evidence": "data/official_calculator/check_outputs.json",
+    "scope": "Slab/rebate/surcharge/cess validation on independently specified net salary; deductions and language parsing not externally checked",
+    "official_old_raw_display": 60008,
+    "evidence_sha256": "7bd59092d5b083fe9b9fc6e887188c8259d5aed13bb78eb5b2b2c59640171292",
+    "validation_method": "Official deployed calculator calculation functions, executed unchanged in isolated Node VM; wrapper selects UI state and captures result. Final display converted with s288B.",
+    "official_new_raw_display": 1040
+  },
+  {
+    "case_id": "official-net-11",
+    "input": {
+      "salary": 800000,
+      "financial_year": "2024-25",
+      "age": 35,
+      "resident": true
+    },
+    "engine_expected": {
+      "old": 65000,
+      "new": 23400
+    },
+    "official_old": 65000,
+    "official_new": 23400,
+    "status": "verified",
+    "evidence": "data/official_calculator/check_outputs.json",
+    "scope": "Slab/rebate/surcharge/cess validation on independently specified net salary; deductions and language parsing not externally checked",
+    "official_old_raw_display": 65000,
+    "evidence_sha256": "7bd59092d5b083fe9b9fc6e887188c8259d5aed13bb78eb5b2b2c59640171292",
+    "validation_method": "Official deployed calculator calculation functions, executed unchanged in isolated Node VM; wrapper selects UI state and captures result. Final display converted with s288B.",
+    "official_new_raw_display": 23400
+  },
+  {
+    "case_id": "official-net-12",
+    "input": {
+      "salary": 1000000,
+      "financial_year": "2024-25",
+      "age": 35,
+      "resident": true
+    },
+    "engine_expected": {
+      "old": 106600,
+      "new": 44200
+    },
+    "official_old": 106600,
+    "official_new": 44200,
+    "status": "verified",
+    "evidence": "data/official_calculator/check_outputs.json",
+    "scope": "Slab/rebate/surcharge/cess validation on independently specified net salary; deductions and language parsing not externally checked",
+    "official_old_raw_display": 106600,
+    "evidence_sha256": "7bd59092d5b083fe9b9fc6e887188c8259d5aed13bb78eb5b2b2c59640171292",
+    "validation_method": "Official deployed calculator calculation functions, executed unchanged in isolated Node VM; wrapper selects UI state and captures result. Final display converted with s288B.",
+    "official_new_raw_display": 44200
+  },
+  {
+    "case_id": "official-net-13",
+    "input": {
+      "salary": 1075000,
+      "financial_year": "2024-25",
+      "age": 35,
+      "resident": true
+    },
+    "engine_expected": {
+      "old": 124800,
+      "new": 52000
+    },
+    "official_old": 124800,
+    "official_new": 52000,
+    "status": "verified",
+    "evidence": "data/official_calculator/check_outputs.json",
+    "scope": "Slab/rebate/surcharge/cess validation on independently specified net salary; deductions and language parsing not externally checked",
+    "official_old_raw_display": 124800,
+    "evidence_sha256": "7bd59092d5b083fe9b9fc6e887188c8259d5aed13bb78eb5b2b2c59640171292",
+    "validation_method": "Official deployed calculator calculation functions, executed unchanged in isolated Node VM; wrapper selects UI state and captures result. Final display converted with s288B.",
+    "official_new_raw_display": 52000
+  },
+  {
+    "case_id": "official-net-14",
+    "input": {
+      "salary": 1200000,
+      "financial_year": "2024-25",
+      "age": 35,
+      "resident": true
+    },
+    "engine_expected": {
+      "old": 163800,
+      "new": 71500
+    },
+    "official_old": 163800,
+    "official_new": 71500,
+    "status": "verified",
+    "evidence": "data/official_calculator/check_outputs.json",
+    "scope": "Slab/rebate/surcharge/cess validation on independently specified net salary; deductions and language parsing not externally checked",
+    "official_old_raw_display": 163800,
+    "evidence_sha256": "7bd59092d5b083fe9b9fc6e887188c8259d5aed13bb78eb5b2b2c59640171292",
+    "validation_method": "Official deployed calculator calculation functions, executed unchanged in isolated Node VM; wrapper selects UI state and captures result. Final display converted with s288B.",
+    "official_new_raw_display": 71500
+  },
+  {
+    "case_id": "official-net-15",
+    "input": {
+      "salary": 1275000,
+      "financial_year": "2024-25",
+      "age": 35,
+      "resident": true
+    },
+    "engine_expected": {
+      "old": 187200,
+      "new": 83200
+    },
+    "official_old": 187200,
+    "official_new": 83200,
+    "status": "verified",
+    "evidence": "data/official_calculator/check_outputs.json",
+    "scope": "Slab/rebate/surcharge/cess validation on independently specified net salary; deductions and language parsing not externally checked",
+    "official_old_raw_display": 187200,
+    "evidence_sha256": "7bd59092d5b083fe9b9fc6e887188c8259d5aed13bb78eb5b2b2c59640171292",
+    "validation_method": "Official deployed calculator calculation functions, executed unchanged in isolated Node VM; wrapper selects UI state and captures result. Final display converted with s288B.",
+    "official_new_raw_display": 83200
+  },
+  {
+    "case_id": "official-net-16",
+    "input": {
+      "salary": 1500000,
+      "financial_year": "2024-25",
+      "age": 35,
+      "resident": true
+    },
+    "engine_expected": {
+      "old": 257400,
+      "new": 130000
+    },
+    "official_old": 257400,
+    "official_new": 130000,
+    "status": "verified",
+    "evidence": "data/official_calculator/check_outputs.json",
+    "scope": "Slab/rebate/surcharge/cess validation on independently specified net salary; deductions and language parsing not externally checked",
+    "official_old_raw_display": 257400,
+    "evidence_sha256": "7bd59092d5b083fe9b9fc6e887188c8259d5aed13bb78eb5b2b2c59640171292",
+    "validation_method": "Official deployed calculator calculation functions, executed unchanged in isolated Node VM; wrapper selects UI state and captures result. Final display converted with s288B.",
+    "official_new_raw_display": 130000
+  },
+  {
+    "case_id": "official-net-17",
+    "input": {
+      "salary": 1575000,
+      "financial_year": "2024-25",
+      "age": 35,
+      "resident": true
+    },
+    "engine_expected": {
+      "old": 280800,
+      "new": 145600
+    },
+    "official_old": 280800,
+    "official_new": 145600,
+    "status": "verified",
+    "evidence": "data/official_calculator/check_outputs.json",
+    "scope": "Slab/rebate/surcharge/cess validation on independently specified net salary; deductions and language parsing not externally checked",
+    "official_old_raw_display": 280800,
+    "evidence_sha256": "7bd59092d5b083fe9b9fc6e887188c8259d5aed13bb78eb5b2b2c59640171292",
+    "validation_method": "Official deployed calculator calculation functions, executed unchanged in isolated Node VM; wrapper selects UI state and captures result. Final display converted with s288B.",
+    "official_new_raw_display": 145600
+  },
+  {
+    "case_id": "official-net-18",
+    "input": {
+      "salary": 2000000,
+      "financial_year": "2024-25",
+      "age": 35,
+      "resident": true
+    },
+    "engine_expected": {
+      "old": 413400,
+      "new": 278200
+    },
+    "official_old": 413400,
+    "official_new": 278200,
+    "status": "verified",
+    "evidence": "data/official_calculator/check_outputs.json",
+    "scope": "Slab/rebate/surcharge/cess validation on independently specified net salary; deductions and language parsing not externally checked",
+    "official_old_raw_display": 413400,
+    "evidence_sha256": "7bd59092d5b083fe9b9fc6e887188c8259d5aed13bb78eb5b2b2c59640171292",
+    "validation_method": "Official deployed calculator calculation functions, executed unchanged in isolated Node VM; wrapper selects UI state and captures result. Final display converted with s288B.",
+    "official_new_raw_display": 278200
+  },
+  {
+    "case_id": "official-net-19",
+    "input": {
+      "salary": 2400000,
+      "financial_year": "2024-25",
+      "age": 35,
+      "resident": true
+    },
+    "engine_expected": {
+      "old": 538200,
+      "new": 403000
+    },
+    "official_old": 538200,
+    "official_new": 403000,
+    "status": "verified",
+    "evidence": "data/official_calculator/check_outputs.json",
+    "scope": "Slab/rebate/surcharge/cess validation on independently specified net salary; deductions and language parsing not externally checked",
+    "official_old_raw_display": 538200,
+    "evidence_sha256": "7bd59092d5b083fe9b9fc6e887188c8259d5aed13bb78eb5b2b2c59640171292",
+    "validation_method": "Official deployed calculator calculation functions, executed unchanged in isolated Node VM; wrapper selects UI state and captures result. Final display converted with s288B.",
+    "official_new_raw_display": 403000
+  },
+  {
+    "case_id": "official-net-20",
+    "input": {
+      "salary": 2475000,
+      "financial_year": "2024-25",
+      "age": 35,
+      "resident": true
+    },
+    "engine_expected": {
+      "old": 561600,
+      "new": 426400
+    },
+    "official_old": 561600,
+    "official_new": 426400,
+    "status": "verified",
+    "evidence": "data/official_calculator/check_outputs.json",
+    "scope": "Slab/rebate/surcharge/cess validation on independently specified net salary; deductions and language parsing not externally checked",
+    "official_old_raw_display": 561600,
+    "evidence_sha256": "7bd59092d5b083fe9b9fc6e887188c8259d5aed13bb78eb5b2b2c59640171292",
+    "validation_method": "Official deployed calculator calculation functions, executed unchanged in isolated Node VM; wrapper selects UI state and captures result. Final display converted with s288B.",
+    "official_new_raw_display": 426400
+  },
+  {
+    "case_id": "official-net-21",
+    "input": {
+      "salary": 5000000,
+      "financial_year": "2024-25",
+      "age": 35,
+      "resident": true
+    },
+    "engine_expected": {
+      "old": 1349400,
+      "new": 1214200
+    },
+    "official_old": 1349400,
+    "official_new": 1214200,
+    "status": "verified",
+    "evidence": "data/official_calculator/check_outputs.json",
+    "scope": "Slab/rebate/surcharge/cess validation on independently specified net salary; deductions and language parsing not externally checked",
+    "official_old_raw_display": 1349400,
+    "evidence_sha256": "7bd59092d5b083fe9b9fc6e887188c8259d5aed13bb78eb5b2b2c59640171292",
+    "validation_method": "Official deployed calculator calculation functions, executed unchanged in isolated Node VM; wrapper selects UI state and captures result. Final display converted with s288B.",
+    "official_new_raw_display": 1214200
+  },
+  {
+    "case_id": "official-net-22",
+    "input": {
+      "salary": 5050000,
+      "financial_year": "2024-25",
+      "age": 35,
+      "resident": true
+    },
+    "engine_expected": {
+      "old": 1365000,
+      "new": 1229800
+    },
+    "official_old": 1365000,
+    "official_new": 1229800,
+    "status": "verified",
+    "evidence": "data/official_calculator/check_outputs.json",
+    "scope": "Slab/rebate/surcharge/cess validation on independently specified net salary; deductions and language parsing not externally checked",
+    "official_old_raw_display": 1365000,
+    "evidence_sha256": "7bd59092d5b083fe9b9fc6e887188c8259d5aed13bb78eb5b2b2c59640171292",
+    "validation_method": "Official deployed calculator calculation functions, executed unchanged in isolated Node VM; wrapper selects UI state and captures result. Final display converted with s288B.",
+    "official_new_raw_display": 1229800
+  },
+  {
+    "case_id": "official-net-23",
+    "input": {
+      "salary": 5075000,
+      "financial_year": "2024-25",
+      "age": 35,
+      "resident": true
+    },
+    "engine_expected": {
+      "old": 1391000,
+      "new": 1237600
+    },
+    "official_old": 1391000,
+    "official_new": 1237600,
+    "status": "verified",
+    "evidence": "data/official_calculator/check_outputs.json",
+    "scope": "Slab/rebate/surcharge/cess validation on independently specified net salary; deductions and language parsing not externally checked",
+    "official_old_raw_display": 1391000,
+    "evidence_sha256": "7bd59092d5b083fe9b9fc6e887188c8259d5aed13bb78eb5b2b2c59640171292",
+    "validation_method": "Official deployed calculator calculation functions, executed unchanged in isolated Node VM; wrapper selects UI state and captures result. Final display converted with s288B.",
+    "official_new_raw_display": 1237600
+  },
+  {
+    "case_id": "official-net-24",
+    "input": {
+      "salary": 5100000,
+      "financial_year": "2024-25",
+      "age": 35,
+      "resident": true
+    },
+    "engine_expected": {
+      "old": 1417000,
+      "new": 1263600
+    },
+    "official_old": 1417000,
+    "official_new": 1263600,
+    "status": "verified",
+    "evidence": "data/official_calculator/check_outputs.json",
+    "scope": "Slab/rebate/surcharge/cess validation on independently specified net salary; deductions and language parsing not externally checked",
+    "official_old_raw_display": 1417000,
+    "evidence_sha256": "7bd59092d5b083fe9b9fc6e887188c8259d5aed13bb78eb5b2b2c59640171292",
+    "validation_method": "Official deployed calculator calculation functions, executed unchanged in isolated Node VM; wrapper selects UI state and captures result. Final display converted with s288B.",
+    "official_new_raw_display": 1263600
+  },
+  {
+    "case_id": "official-net-25",
+    "input": {
+      "salary": 10050000,
+      "financial_year": "2024-25",
+      "age": 35,
+      "resident": true
+    },
+    "engine_expected": {
+      "old": 3217500,
+      "new": 3068780
+    },
+    "official_old": 3217500,
+    "official_new": 3068780,
+    "status": "verified",
+    "evidence": "data/official_calculator/check_outputs.json",
+    "scope": "Slab/rebate/surcharge/cess validation on independently specified net salary; deductions and language parsing not externally checked",
+    "official_old_raw_display": 3217500,
+    "evidence_sha256": "7bd59092d5b083fe9b9fc6e887188c8259d5aed13bb78eb5b2b2c59640171292",
+    "validation_method": "Official deployed calculator calculation functions, executed unchanged in isolated Node VM; wrapper selects UI state and captures result. Final display converted with s288B.",
+    "official_new_raw_display": 3068780
+  },
+  {
+    "case_id": "official-net-26",
+    "input": {
+      "salary": 10075000,
+      "financial_year": "2024-25",
+      "age": 35,
+      "resident": true
+    },
+    "engine_expected": {
+      "old": 3243500,
+      "new": 3077360
+    },
+    "official_old": 3243500,
+    "official_new": 3077360,
+    "status": "verified",
+    "evidence": "data/official_calculator/check_outputs.json",
+    "scope": "Slab/rebate/surcharge/cess validation on independently specified net salary; deductions and language parsing not externally checked",
+    "official_old_raw_display": 3243500,
+    "evidence_sha256": "7bd59092d5b083fe9b9fc6e887188c8259d5aed13bb78eb5b2b2c59640171292",
+    "validation_method": "Official deployed calculator calculation functions, executed unchanged in isolated Node VM; wrapper selects UI state and captures result. Final display converted with s288B.",
+    "official_new_raw_display": 3077360
+  },
+  {
+    "case_id": "official-net-27",
+    "input": {
+      "salary": 20050000,
+      "financial_year": "2024-25",
+      "age": 35,
+      "resident": true
+    },
+    "engine_expected": {
+      "old": 6951750,
+      "new": 6796270
+    },
+    "official_old": 6951750,
+    "official_new": 6796270,
+    "status": "verified",
+    "evidence": "data/official_calculator/check_outputs.json",
+    "scope": "Slab/rebate/surcharge/cess validation on independently specified net salary; deductions and language parsing not externally checked",
+    "official_old_raw_display": 6951750,
+    "evidence_sha256": "7bd59092d5b083fe9b9fc6e887188c8259d5aed13bb78eb5b2b2c59640171292",
+    "validation_method": "Official deployed calculator calculation functions, executed unchanged in isolated Node VM; wrapper selects UI state and captures result. Final display converted with s288B.",
+    "official_new_raw_display": 6796270
+  },
+  {
+    "case_id": "official-net-28",
+    "input": {
+      "salary": 20075000,
+      "financial_year": "2024-25",
+      "age": 35,
+      "resident": true
+    },
+    "engine_expected": {
+      "old": 6977750,
+      "new": 6805240
+    },
+    "official_old": 6977750,
+    "official_new": 6805240,
+    "status": "verified",
+    "evidence": "data/official_calculator/check_outputs.json",
+    "scope": "Slab/rebate/surcharge/cess validation on independently specified net salary; deductions and language parsing not externally checked",
+    "official_old_raw_display": 6977750,
+    "evidence_sha256": "7bd59092d5b083fe9b9fc6e887188c8259d5aed13bb78eb5b2b2c59640171292",
+    "validation_method": "Official deployed calculator calculation functions, executed unchanged in isolated Node VM; wrapper selects UI state and captures result. Final display converted with s288B.",
+    "official_new_raw_display": 6805240
+  },
+  {
+    "case_id": "official-net-29",
+    "input": {
+      "salary": 50050000,
+      "financial_year": "2024-25",
+      "age": 35,
+      "resident": true
+    },
+    "engine_expected": {
+      "old": 19256250,
+      "new": 19087250
+    },
+    "official_old": 19256250,
+    "official_new": 19087250,
+    "status": "verified",
+    "evidence": "data/official_calculator/check_outputs.json",
+    "scope": "Slab/rebate/surcharge/cess validation on independently specified net salary; deductions and language parsing not externally checked",
+    "official_old_raw_display": 19256250,
+    "evidence_sha256": "7bd59092d5b083fe9b9fc6e887188c8259d5aed13bb78eb5b2b2c59640171292",
+    "validation_method": "Official deployed calculator calculation functions, executed unchanged in isolated Node VM; wrapper selects UI state and captures result. Final display converted with s288B.",
+    "official_new_raw_display": 19087250
+  },
+  {
+    "case_id": "official-net-30",
+    "input": {
+      "salary": 50075000,
+      "financial_year": "2024-25",
+      "age": 35,
+      "resident": true
+    },
+    "engine_expected": {
+      "old": 19282250,
+      "new": 19097000
+    },
+    "official_old": 19282250,
+    "official_new": 19097000,
+    "status": "verified",
+    "evidence": "data/official_calculator/check_outputs.json",
+    "scope": "Slab/rebate/surcharge/cess validation on independently specified net salary; deductions and language parsing not externally checked",
+    "official_old_raw_display": 19282250,
+    "evidence_sha256": "7bd59092d5b083fe9b9fc6e887188c8259d5aed13bb78eb5b2b2c59640171292",
+    "validation_method": "Official deployed calculator calculation functions, executed unchanged in isolated Node VM; wrapper selects UI state and captures result. Final display converted with s288B.",
+    "official_new_raw_display": 19097000
+  }
+]

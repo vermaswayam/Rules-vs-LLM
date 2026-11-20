@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+.venv/
+.vscode/
+.idea/
+.tools/
+tmp/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+artifacts/live/
+artifacts/live_progress*.json
+*.log
+Rules vs LLMs Take-Home Assignment for AI Eng.pdf
+Thumbs.db
+.DS_Store

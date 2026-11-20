@@ -1,0 +1,5321 @@
+[
+  {
+    "case_id": "2024-25-80c-cap-1200000",
+    "actual": {
+      "old": 145600,
+      "new": 93600
+    },
+    "expected": {
+      "old": 117000,
+      "new": 71500
+    },
+    "exact": false,
+    "latency_seconds": 10.482757900026627,
+    "projected_paid_usd": 0.0017408,
+    "usage": {
+      "promptTokenCount": 1636,
+      "candidatesTokenCount": 500,
+      "totalTokenCount": 2136,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1636
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "e98732e51322a6f2e38746a54b499bf6edbeb3d75c72d92065b113eccecdf348"
+  },
+  {
+    "case_id": "2024-25-80c-cap-2000000",
+    "actual": {
+      "old": 338000,
+      "new": 156000
+    },
+    "expected": {
+      "old": 366600,
+      "new": 278200
+    },
+    "exact": false,
+    "latency_seconds": 2.6903175999759696,
+    "projected_paid_usd": 0.0012408,
+    "usage": {
+      "promptTokenCount": 1636,
+      "candidatesTokenCount": 300,
+      "totalTokenCount": 1936,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1636
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "77c5eec6f055621445b4a3ebe1236328a3fbc0c7bbefa7f146cb1ca5d256bb43"
+  },
+  {
+    "case_id": "2024-25-nps-cap-1200000",
+    "actual": {
+      "old": 139150,
+      "new": 78000
+    },
+    "expected": {
+      "old": 148200,
+      "new": 71500
+    },
+    "exact": false,
+    "latency_seconds": 10.553548500000034,
+    "projected_paid_usd": 0.001668,
+    "usage": {
+      "promptTokenCount": 1635,
+      "candidatesTokenCount": 471,
+      "totalTokenCount": 2106,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1635
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "a1b3944f9089043cd79a9ba0370c4594b8a14d517c87eb6f84e564a55d622e0f"
+  },
+  {
+    "case_id": "2024-25-nps-cap-2000000",
+    "actual": {
+      "old": 371280,
+      "new": 338000
+    },
+    "expected": {
+      "old": 397800,
+      "new": 278200
+    },
+    "exact": false,
+    "latency_seconds": 10.374977400002535,
+    "projected_paid_usd": 0.0012405,
+    "usage": {
+      "promptTokenCount": 1635,
+      "candidatesTokenCount": 300,
+      "totalTokenCount": 1935,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1635
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "3a8e687aee36e2bfc382497e18561b46e67e1e9a272fca18e50b502949396344"
+  },
+  {
+    "case_id": "2024-25-80d-parents-senior-1200000",
+    "actual": {
+      "old": 169000,
+      "new": 93600
+    },
+    "expected": {
+      "old": 140400,
+      "new": 71500
+    },
+    "exact": false,
+    "latency_seconds": 11.077068599988706,
+    "projected_paid_usd": 0.0011692,
+    "usage": {
+      "promptTokenCount": 1639,
+      "candidatesTokenCount": 271,
+      "totalTokenCount": 1910,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1639
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "3af19df407de25360fbcf28c87ba1c0eabb1a31016d550a42e229d1a4bbecd84"
+  },
+  {
+    "case_id": "2024-25-80d-parents-senior-2000000",
+    "actual": {
+      "old": 403000,
+      "new": 312000
+    },
+    "expected": {
+      "old": 390000,
+      "new": 278200
+    },
+    "exact": false,
+    "latency_seconds": 13.204405899974518,
+    "projected_paid_usd": 0.0014417,
+    "usage": {
+      "promptTokenCount": 1639,
+      "candidatesTokenCount": 380,
+      "totalTokenCount": 2019,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1639
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "8e690af4a837944f1276d9340dfa29fee3ba4b67e689ef7aa66d8d9496118a9a"
+  },
+  {
+    "case_id": "2024-25-80d-under60-1200000",
+    "actual": {
+      "old": 171600,
+      "new": 85800
+    },
+    "expected": {
+      "old": 148200,
+      "new": 71500
+    },
+    "exact": false,
+    "latency_seconds": 11.295244399982039,
+    "projected_paid_usd": 0.0022917,
+    "usage": {
+      "promptTokenCount": 1639,
+      "candidatesTokenCount": 720,
+      "totalTokenCount": 2359,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1639
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "e1001b453e92e62205049e50f66fd9638f1c35b737437560461d0b2cff9cee82"
+  },
+  {
+    "case_id": "2024-25-80d-under60-2000000",
+    "actual": {
+      "old": 338000,
+      "new": 312000
+    },
+    "expected": {
+      "old": 397800,
+      "new": 278200
+    },
+    "exact": false,
+    "latency_seconds": 5.456464200047776,
+    "projected_paid_usd": 0.0023466999999999997,
+    "usage": {
+      "promptTokenCount": 1639,
+      "candidatesTokenCount": 742,
+      "totalTokenCount": 2381,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1639
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "b3fd4730e5ec7b4a82b966431f648a3ba8a2063b26dde77e6f31c90032e23ce8"
+  },
+  {
+    "case_id": "2024-25-80d-checkup-global-cap-1200000",
+    "actual": {
+      "old": 17160,
+      "new": 7800
+    },
+    "expected": {
+      "old": 162240,
+      "new": 71500
+    },
+    "exact": false,
+    "latency_seconds": 3.588825299986638,
+    "projected_paid_usd": 0.0019310999999999998,
+    "usage": {
+      "promptTokenCount": 1637,
+      "candidatesTokenCount": 576,
+      "totalTokenCount": 2213,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1637
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "20ac49fee151559ced8a085549d74196f76ea9342fb0bb0df7f724f616a197f0"
+  },
+  {
+    "case_id": "2024-25-80d-checkup-global-cap-2000000",
+    "actual": {
+      "old": 338000,
+      "new": 312000
+    },
+    "expected": {
+      "old": 411840,
+      "new": 278200
+    },
+    "exact": false,
+    "latency_seconds": 10.803038599959109,
+    "projected_paid_usd": 0.0017010999999999999,
+    "usage": {
+      "promptTokenCount": 1637,
+      "candidatesTokenCount": 484,
+      "totalTokenCount": 2121,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1637
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "5675a69f1dc7916c2a32d05609e884cc7fb0248d177fea892402bc00c069b494"
+  },
+  {
+    "case_id": "2024-25-80d-uninsured-senior-1200000",
+    "actual": {
+      "old": 139150,
+      "new": 78000
+    },
+    "expected": {
+      "old": 148200,
+      "new": 71500
+    },
+    "exact": false,
+    "latency_seconds": 25.51099369995063,
+    "projected_paid_usd": 0.0012955,
+    "usage": {
+      "promptTokenCount": 1635,
+      "candidatesTokenCount": 322,
+      "totalTokenCount": 1957,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1635
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "b4383e9706332b1d3baf9d84a63ff42c5902856a2d5c0c7e63ab5a09ca5b9f87"
+  },
+  {
+    "case_id": "2024-25-80d-uninsured-senior-2000000",
+    "actual": {
+      "old": 321750,
+      "new": 182000
+    },
+    "expected": {
+      "old": 397800,
+      "new": 278200
+    },
+    "exact": false,
+    "latency_seconds": 7.236920099996496,
+    "projected_paid_usd": 0.001303,
+    "usage": {
+      "promptTokenCount": 1635,
+      "candidatesTokenCount": 325,
+      "totalTokenCount": 1960,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1635
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "49b2e12a06c28bba181d1ffbb4e96818da969ba8a3cab0ba72a184ac250cbd2c"
+  },
+  {
+    "case_id": "2024-25-loan-qualifying-1200000",
+    "actual": {
+      "old": 93600,
+      "new": 78000
+    },
+    "expected": {
+      "old": 106600,
+      "new": 71500
+    },
+    "exact": false,
+    "latency_seconds": 9.730203800019808,
+    "projected_paid_usd": 0.0022508000000000003,
+    "usage": {
+      "promptTokenCount": 1636,
+      "candidatesTokenCount": 704,
+      "totalTokenCount": 2340,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1636
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "08555f42d0cf379129e25d2541add7609a08260977130e5e14ebcb6f88ee6958"
+  },
+  {
+    "case_id": "2024-25-loan-qualifying-2000000",
+    "actual": {
+      "old": 371280,
+      "new": 312000
+    },
+    "expected": {
+      "old": 351000,
+      "new": 278200
+    },
+    "exact": false,
+    "latency_seconds": 30.270946199947502,
+    "projected_paid_usd": 0.0027783,
+    "usage": {
+      "promptTokenCount": 1636,
+      "candidatesTokenCount": 915,
+      "totalTokenCount": 2551,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1636
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "df35cc374174358ff7a7b90e1a9085655bb4416cad12badff5a9c3205bdac92f"
+  },
+  {
+    "case_id": "2024-25-loan-repairs-1200000",
+    "actual": {
+      "old": 169520,
+      "new": 93600
+    },
+    "expected": {
+      "old": 154440,
+      "new": 71500
+    },
+    "exact": false,
+    "latency_seconds": 25.75751060002949,
+    "projected_paid_usd": 0.0015805,
+    "usage": {
+      "promptTokenCount": 1635,
+      "candidatesTokenCount": 436,
+      "totalTokenCount": 2071,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1635
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "4c49830e831f06a17a06aad4bb8ad6ebc85048285506897a0cd812458339f08a"
+  },
+  {
+    "case_id": "2024-25-loan-repairs-2000000",
+    "actual": {
+      "old": 371280,
+      "new": 312000
+    },
+    "expected": {
+      "old": 404040,
+      "new": 278200
+    },
+    "exact": false,
+    "latency_seconds": 29.206365499994718,
+    "projected_paid_usd": 0.0012555,
+    "usage": {
+      "promptTokenCount": 1635,
+      "candidatesTokenCount": 306,
+      "totalTokenCount": 1941,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1635
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "8bbb7688ce22667b96e9d0e64c123c1c2d2c05473903b35f436a3abb9594c47b"
+  },
+  {
+    "case_id": "2024-25-hra-metro-1200000",
+    "actual": {
+      "old": 109200,
+      "new": 78000
+    },
+    "expected": {
+      "old": 98280,
+      "new": 71500
+    },
+    "exact": false,
+    "latency_seconds": 8.404290200036485,
+    "projected_paid_usd": 0.0026985,
+    "usage": {
+      "promptTokenCount": 1670,
+      "candidatesTokenCount": 879,
+      "totalTokenCount": 2549,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1670
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "1cf49aae44d20d6686d5e4712afddcbdd41095eff10a49d82fb1c059fc33156f"
+  },
+  {
+    "case_id": "2024-25-hra-metro-2000000",
+    "actual": {
+      "old": 323440,
+      "new": 273000
+    },
+    "expected": {
+      "old": 338520,
+      "new": 278200
+    },
+    "exact": false,
+    "latency_seconds": 3.6393922999850474,
+    "projected_paid_usd": 0.0016885,
+    "usage": {
+      "promptTokenCount": 1670,
+      "candidatesTokenCount": 475,
+      "totalTokenCount": 2145,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1670
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "34288e15bcc7fbc9c964ac552a1422117ac1d95da9b47e2465dd2506e2df1da0"
+  },
+  {
+    "case_id": "2024-25-hra-nonmetro-1200000",
+    "actual": {
+      "old": 109200,
+      "new": 78000
+    },
+    "expected": {
+      "old": 98280,
+      "new": 71500
+    },
+    "exact": false,
+    "latency_seconds": 4.555481299990788,
+    "projected_paid_usd": 0.0020785,
+    "usage": {
+      "promptTokenCount": 1670,
+      "candidatesTokenCount": 631,
+      "totalTokenCount": 2301,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1670
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "eb963621ea8281679f15ec2c5d819869f41d29563d09fd8ab230c70942c6a76a"
+  },
+  {
+    "case_id": "2024-25-hra-nonmetro-2000000",
+    "actual": {
+      "old": 338000,
+      "new": 156000
+    },
+    "expected": {
+      "old": 338520,
+      "new": 278200
+    },
+    "exact": false,
+    "latency_seconds": 10.161488700017799,
+    "projected_paid_usd": 0.001071,
+    "usage": {
+      "promptTokenCount": 1670,
+      "candidatesTokenCount": 228,
+      "totalTokenCount": 1898,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1670
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "6c1ab03af93944dd9865de6b7ceb1bf5cf851ebf175a55464edc410eb7de978a"
+  },
+  {
+    "case_id": "2024-25-hra-no-rent-1200000",
+    "actual": {
+      "old": 169000,
+      "new": 85800
+    },
+    "expected": {
+      "old": 163800,
+      "new": 71500
+    },
+    "exact": false,
+    "latency_seconds": 140.29668029997265,
+    "projected_paid_usd": 0.001477,
+    "usage": {
+      "promptTokenCount": 1665,
+      "candidatesTokenCount": 391,
+      "totalTokenCount": 2056,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1665
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "480ea694060375f02f44c1507fe346840b96907856b936c5e9fd73d0cdffb23b"
+  },
+  {
+    "case_id": "2024-25-hra-no-rent-2000000",
+    "actual": {
+      "old": 328120,
+      "new": 338000
+    },
+    "expected": {
+      "old": 413400,
+      "new": 278200
+    },
+    "exact": false,
+    "latency_seconds": 5.744112699991092,
+    "projected_paid_usd": 0.0025045,
+    "usage": {
+      "promptTokenCount": 1665,
+      "candidatesTokenCount": 802,
+      "totalTokenCount": 2467,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1665
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "1ec09cdda8e690ed1ed09b20006f7fa3440096f9d3c4e4ddd632709da1700ab0"
+  },
+  {
+    "case_id": "2024-25-hra-two-periods-1200000",
+    "actual": {
+      "old": 109200,
+      "new": 78000
+    },
+    "expected": {
+      "old": 110760,
+      "new": 71500
+    },
+    "exact": false,
+    "latency_seconds": 176.71380720002344,
+    "projected_paid_usd": 0.0014527,
+    "usage": {
+      "promptTokenCount": 1709,
+      "candidatesTokenCount": 376,
+      "totalTokenCount": 2085,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1709
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "4c49303c7108cd3b0c055ac117352e3a71fec675963b42c7fa34570f52456866"
+  },
+  {
+    "case_id": "2024-25-hra-two-periods-2000000",
+    "actual": {
+      "old": 371280,
+      "new": 306800
+    },
+    "expected": {
+      "old": 357240,
+      "new": 278200
+    },
+    "exact": false,
+    "latency_seconds": 11.65853730001254,
+    "projected_paid_usd": 0.0030177,
+    "usage": {
+      "promptTokenCount": 1709,
+      "candidatesTokenCount": 1002,
+      "totalTokenCount": 2711,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1709
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "93cd770dbffb8d77a0b4cd2fc27f6ab0e715db48342f270a3f5046bd1f9fe0b7"
+  },
+  {
+    "case_id": "2024-25-deduction-boundary-section_80c-150000--1",
+    "actual": {
+      "old": 320830,
+      "new": 145600
+    },
+    "expected": {
+      "old": 366600,
+      "new": 278200
+    },
+    "exact": false,
+    "latency_seconds": 11.618544500030112,
+    "projected_paid_usd": 0.0018457999999999999,
+    "usage": {
+      "promptTokenCount": 1636,
+      "candidatesTokenCount": 542,
+      "totalTokenCount": 2178,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1636
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "7399171dfab49b68f619290b391262373bd866fdfa89cc94da65b531f72c0713"
+  },
+  {
+    "case_id": "2024-25-deduction-boundary-section_80c-150000-0",
+    "actual": {
+      "old": 322400,
+      "new": 273000
+    },
+    "expected": {
+      "old": 366600,
+      "new": 278200
+    },
+    "exact": false,
+    "latency_seconds": 39.61129949998576,
+    "projected_paid_usd": 0.0012607999999999999,
+    "usage": {
+      "promptTokenCount": 1636,
+      "candidatesTokenCount": 308,
+      "totalTokenCount": 1944,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1636
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "fbc325c0018bee049a322014867f8db5b053e13e6fdd3ce5b35d4a2e0ab8bbc0"
+  },
+  {
+    "case_id": "2024-25-deduction-boundary-section_80c-150000-1",
+    "actual": {
+      "old": 322140,
+      "new": 312000
+    },
+    "expected": {
+      "old": 366600,
+      "new": 278200
+    },
+    "exact": false,
+    "latency_seconds": 36.01142980001168,
+    "projected_paid_usd": 0.0017008,
+    "usage": {
+      "promptTokenCount": 1636,
+      "candidatesTokenCount": 484,
+      "totalTokenCount": 2120,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1636
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "1f5c94a8023ddf08e4cc01b56b2c3e7a4fc9249e6875d16a21c4498d5d340bbd"
+  },
+  {
+    "case_id": "2024-25-deduction-boundary-nps_80ccd_1b-50000--1",
+    "actual": {
+      "old": 322400,
+      "new": 306800
+    },
+    "expected": {
+      "old": 397800,
+      "new": 278200
+    },
+    "exact": false,
+    "latency_seconds": 3.652627700008452,
+    "projected_paid_usd": 0.0019905,
+    "usage": {
+      "promptTokenCount": 1635,
+      "candidatesTokenCount": 600,
+      "totalTokenCount": 2235,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1635
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "c7ec1c6c09191ded33396cfbb5dc275aafe11cbb4e49154840973270426bc182"
+  },
+  {
+    "case_id": "2024-25-deduction-boundary-nps_80ccd_1b-50000-0",
+    "actual": {
+      "old": 322400,
+      "new": 273000
+    },
+    "expected": {
+      "old": 397800,
+      "new": 278200
+    },
+    "exact": false,
+    "latency_seconds": 16.078367500042077,
+    "projected_paid_usd": 0.001328,
+    "usage": {
+      "promptTokenCount": 1635,
+      "candidatesTokenCount": 335,
+      "totalTokenCount": 1970,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1635
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "a9812d86f303b730ada5508a2f56f7a0535290e1856d8a39cfff277143e49cdf"
+  },
+  {
+    "case_id": "2024-25-deduction-boundary-nps_80ccd_1b-50000-1",
+    "actual": {
+      "old": 326690,
+      "new": 312000
+    },
+    "expected": {
+      "old": 397800,
+      "new": 278200
+    },
+    "exact": false,
+    "latency_seconds": 4.138655099959578,
+    "projected_paid_usd": 0.001518,
+    "usage": {
+      "promptTokenCount": 1635,
+      "candidatesTokenCount": 411,
+      "totalTokenCount": 2046,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1635
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "89264d50c9ebe3f553e12acba9e76d0e3d9efb827a8638ae668b278ac833ced1"
+  },
+  {
+    "case_id": "2024-25-deduction-boundary-health_self-25000--1",
+    "actual": {
+      "old": 328380,
+      "new": 143520
+    },
+    "expected": {
+      "old": 405600,
+      "new": 278200
+    },
+    "exact": false,
+    "latency_seconds": 39.12451739999233,
+    "projected_paid_usd": 0.001828,
+    "usage": {
+      "promptTokenCount": 1635,
+      "candidatesTokenCount": 535,
+      "totalTokenCount": 2170,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1635
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "2690d4278bc87b72aa6094ae5abacc6f9c823387700bab35c9019078a31d55c4"
+  },
+  {
+    "case_id": "2024-25-deduction-boundary-health_self-25000-0",
+    "actual": {
+      "old": 341250,
+      "new": 300000
+    },
+    "expected": {
+      "old": 405600,
+      "new": 278200
+    },
+    "exact": false,
+    "latency_seconds": 10.700942100025713,
+    "projected_paid_usd": 0.001393,
+    "usage": {
+      "promptTokenCount": 1635,
+      "candidatesTokenCount": 361,
+      "totalTokenCount": 1996,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1635
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "aa39b470b08e7856621feafd8b001c6844d6fa341ea5606deeb3a136a958eef5"
+  },
+  {
+    "case_id": "2024-25-deduction-boundary-health_self-25000-1",
+    "actual": {
+      "old": 374400,
+      "new": 300000
+    },
+    "expected": {
+      "old": 405600,
+      "new": 278200
+    },
+    "exact": false,
+    "latency_seconds": 10.998525100003462,
+    "projected_paid_usd": 0.0019005,
+    "usage": {
+      "promptTokenCount": 1635,
+      "candidatesTokenCount": 564,
+      "totalTokenCount": 2199,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1635
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "0453247285ac6e8aa2362dd7812cd10e238832b7a6c7d7f9b8d6236337fb57df"
+  },
+  {
+    "case_id": "2024-25-deduction-boundary-health_parents-25000--1",
+    "actual": {
+      "old": 338000,
+      "new": 273000
+    },
+    "expected": {
+      "old": 405600,
+      "new": 278200
+    },
+    "exact": false,
+    "latency_seconds": 8.679027300036978,
+    "projected_paid_usd": 0.001088,
+    "usage": {
+      "promptTokenCount": 1635,
+      "candidatesTokenCount": 239,
+      "totalTokenCount": 1874,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1635
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "822a20e185b90fe17b5be6ed6fbdc9df56338734987f1efe39f1275079f8ce05"
+  },
+  {
+    "case_id": "2024-25-deduction-boundary-health_parents-25000-0",
+    "actual": {
+      "old": 338000,
+      "new": 312000
+    },
+    "expected": {
+      "old": 405600,
+      "new": 278200
+    },
+    "exact": false,
+    "latency_seconds": 206.38612119999016,
+    "projected_paid_usd": 0.001178,
+    "usage": {
+      "promptTokenCount": 1635,
+      "candidatesTokenCount": 275,
+      "totalTokenCount": 1910,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1635
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "e62aec01311d4fca86a8941f0a12c6e7617e302218c6ed1eb720e987c860c9fa"
+  },
+  {
+    "case_id": "2024-25-deduction-boundary-health_parents-25000-1",
+    "actual": {
+      "old": 379600,
+      "new": 312000
+    },
+    "expected": {
+      "old": 405600,
+      "new": 278200
+    },
+    "exact": false,
+    "latency_seconds": 11.215398199972697,
+    "projected_paid_usd": 0.002133,
+    "usage": {
+      "promptTokenCount": 1635,
+      "candidatesTokenCount": 657,
+      "totalTokenCount": 2292,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1635
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "1fc232d6d2aeffa63486174e1d8a5aa86b946c7ce9b1d0afeaed0c35d29810d5"
+  },
+  {
+    "case_id": "2024-25-deduction-boundary-health_parents-50000--1",
+    "actual": {
+      "old": 371800,
+      "new": 338000
+    },
+    "expected": {
+      "old": 397800,
+      "new": 278200
+    },
+    "exact": false,
+    "latency_seconds": 6.276072099979501,
+    "projected_paid_usd": 0.002673,
+    "usage": {
+      "promptTokenCount": 1635,
+      "candidatesTokenCount": 873,
+      "totalTokenCount": 2508,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1635
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "3f70bf54a872667c711f9517a3be46135508b30afe5e40148e634680e30ca6f6"
+  },
+  {
+    "case_id": "2024-25-deduction-boundary-health_parents-50000-0",
+    "actual": {
+      "old": 338000,
+      "new": 312000
+    },
+    "expected": {
+      "old": 397800,
+      "new": 278200
+    },
+    "exact": false,
+    "latency_seconds": 87.70765429997118,
+    "projected_paid_usd": 0.002063,
+    "usage": {
+      "promptTokenCount": 1635,
+      "candidatesTokenCount": 629,
+      "totalTokenCount": 2264,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1635
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "a5c5e6955fad287c7989dc1150659d56a15fa9bb107dc12dea3a58b6048b05bd"
+  },
+  {
+    "case_id": "2024-25-deduction-boundary-health_parents-50000-1",
+    "actual": {
+      "old": 338000,
+      "new": 156000
+    },
+    "expected": {
+      "old": 397800,
+      "new": 278200
+    },
+    "exact": false,
+    "latency_seconds": 25.48180259997025,
+    "projected_paid_usd": 0.001148,
+    "usage": {
+      "promptTokenCount": 1635,
+      "candidatesTokenCount": 263,
+      "totalTokenCount": 1898,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1635
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "54617b828027ce72125198ee041a2f12e43e78cc408e870972e6f0594bf9f456"
+  },
+  {
+    "case_id": "2024-25-deduction-boundary-checkup_self-5000--1",
+    "actual": {
+      "old": 338000,
+      "new": 156000
+    },
+    "expected": {
+      "old": 411840,
+      "new": 278200
+    },
+    "exact": false,
+    "latency_seconds": 74.12526159995468,
+    "projected_paid_usd": 0.0010927,
+    "usage": {
+      "promptTokenCount": 1634,
+      "candidatesTokenCount": 241,
+      "totalTokenCount": 1875,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1634
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "0fcd902d447b13073377d8ffe19cd6739f6a10e799b74183644582db29b5d7b3"
+  },
+  {
+    "case_id": "2024-25-deduction-boundary-checkup_self-5000-0",
+    "actual": {
+      "old": 371800,
+      "new": 338000
+    },
+    "expected": {
+      "old": 411840,
+      "new": 278200
+    },
+    "exact": false,
+    "latency_seconds": 14.381535299995448,
+    "projected_paid_usd": 0.0010927,
+    "usage": {
+      "promptTokenCount": 1634,
+      "candidatesTokenCount": 241,
+      "totalTokenCount": 1875,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1634
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "a00b83ce0a43ffa9a86d9fd244e536ea77583c6ac5a7660d4c1cfe2af30de1a8"
+  },
+  {
+    "case_id": "2024-25-deduction-boundary-checkup_self-5000-1",
+    "actual": {
+      "old": 338000,
+      "new": 312000
+    },
+    "expected": {
+      "old": 411840,
+      "new": 278200
+    },
+    "exact": false,
+    "latency_seconds": 3.1765182000235654,
+    "projected_paid_usd": 0.0014677,
+    "usage": {
+      "promptTokenCount": 1634,
+      "candidatesTokenCount": 391,
+      "totalTokenCount": 2025,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1634
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "ab7dd4b0a42d5dd89165c58453436147faa0609c5ab4f4845981ba1ae9388fc7"
+  },
+  {
+    "case_id": "2024-25-deduction-boundary-home_interest-200000--1",
+    "actual": {
+      "old": 371280,
+      "new": 343200
+    },
+    "expected": {
+      "old": 351000,
+      "new": 278200
+    },
+    "exact": false,
+    "latency_seconds": 2.256836599961389,
+    "projected_paid_usd": 0.0013008,
+    "usage": {
+      "promptTokenCount": 1636,
+      "candidatesTokenCount": 324,
+      "totalTokenCount": 1960,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1636
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "bf886746cb8e4f65d885c6d1ddb4a7f8a88166d6b66afd867543d14a4125e4fc"
+  },
+  {
+    "case_id": "2024-25-deduction-boundary-home_interest-200000-0",
+    "actual": {
+      "old": 328120,
+      "new": 312000
+    },
+    "expected": {
+      "old": 351000,
+      "new": 278200
+    },
+    "exact": false,
+    "latency_seconds": 80.27526629995555,
+    "projected_paid_usd": 0.0010908,
+    "usage": {
+      "promptTokenCount": 1636,
+      "candidatesTokenCount": 240,
+      "totalTokenCount": 1876,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1636
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "2ccb7314a86972197386ebf2a3fe5e0cf1dba5689017b1c6a140ff3afd6a9c54"
+  },
+  {
+    "case_id": "2024-25-deduction-boundary-home_interest-200000-1",
+    "actual": {
+      "old": 331760,
+      "new": 300000
+    },
+    "expected": {
+      "old": 351000,
+      "new": 278200
+    },
+    "exact": false,
+    "latency_seconds": 47.18468010000652,
+    "projected_paid_usd": 0.0012108,
+    "usage": {
+      "promptTokenCount": 1636,
+      "candidatesTokenCount": 288,
+      "totalTokenCount": 1924,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1636
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "5cc09c737149be6c33ac53b1ce46a770a97973a1db2809408525234a9a284d5c"
+  },
+  {
+    "case_id": "2024-25-deduction-boundary-home_interest-30000--1",
+    "actual": {
+      "old": 372330,
+      "new": 273000
+    },
+    "expected": {
+      "old": 404040,
+      "new": 278200
+    },
+    "exact": false,
+    "latency_seconds": 2.966610200004652,
+    "projected_paid_usd": 0.0012855,
+    "usage": {
+      "promptTokenCount": 1635,
+      "candidatesTokenCount": 318,
+      "totalTokenCount": 1953,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1635
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "0512c3b05929392adcbbea54830b83070b0a92226614ca70440e6eff28a45db1"
+  },
+  {
+    "case_id": "2024-25-deduction-boundary-home_interest-30000-0",
+    "actual": {
+      "old": 326040,
+      "new": 312000
+    },
+    "expected": {
+      "old": 404040,
+      "new": 278200
+    },
+    "exact": false,
+    "latency_seconds": 8.134818400023505,
+    "projected_paid_usd": 0.002453,
+    "usage": {
+      "promptTokenCount": 1635,
+      "candidatesTokenCount": 785,
+      "totalTokenCount": 2420,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1635
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "1c08fc4f8b94f7bd07107821271170027ca11f5e49981c4ab8cd49603b0b8d31"
+  },
+  {
+    "case_id": "2024-25-deduction-boundary-home_interest-30000-1",
+    "actual": {
+      "old": 372070,
+      "new": 312000
+    },
+    "expected": {
+      "old": 404040,
+      "new": 278200
+    },
+    "exact": false,
+    "latency_seconds": 47.42921390000265,
+    "projected_paid_usd": 0.0013405,
+    "usage": {
+      "promptTokenCount": 1635,
+      "candidatesTokenCount": 340,
+      "totalTokenCount": 1975,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1635
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "45c751c166507784f9e468e7b3c3622c1ca740ed330edb2a58a2ccd900ab0e48"
+  },
+  {
+    "case_id": "2024-25-age35-residentFalse-5050005",
+    "actual": {
+      "old": 1820610,
+      "new": 1391000
+    },
+    "expected": {
+      "old": 1365010,
+      "new": 1229800
+    },
+    "exact": false,
+    "latency_seconds": 7.416389400023036,
+    "projected_paid_usd": 0.0012318,
+    "usage": {
+      "promptTokenCount": 1631,
+      "candidatesTokenCount": 297,
+      "totalTokenCount": 1928,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1631
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "8fcb91a2ab47f375dd3a9fbbf24fea2af638be7bef8b6230f25359613973eed2"
+  },
+  {
+    "case_id": "2024-25-age35-residentFalse-50050005",
+    "actual": {
+      "old": 18274090,
+      "new": 15022510
+    },
+    "expected": {
+      "old": 19256260,
+      "new": 19087250
+    },
+    "exact": false,
+    "latency_seconds": 26.737084699969273,
+    "projected_paid_usd": 0.0013170999999999999,
+    "usage": {
+      "promptTokenCount": 1632,
+      "candidatesTokenCount": 331,
+      "totalTokenCount": 1963,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1632
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "f45eb34c15401189750bce1c6364c95c9d9b3d6ec58436bc25cd9d0180c62bea"
+  },
+  {
+    "case_id": "2024-25-age59-residentTrue-50050005",
+    "actual": {
+      "old": 18274640,
+      "new": 14597400
+    },
+    "expected": {
+      "old": 19256260,
+      "new": 19087250
+    },
+    "exact": false,
+    "latency_seconds": 3.280238100036513,
+    "projected_paid_usd": 0.0020596,
+    "usage": {
+      "promptTokenCount": 1632,
+      "candidatesTokenCount": 628,
+      "totalTokenCount": 2260,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1632
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "b1bf2e35e127d240b506d893851470898737de53d727cca4dcae6eb9f0c6ccab"
+  },
+  {
+    "case_id": "2024-25-age59-residentTrue-10050005",
+    "actual": {
+      "old": 4725510,
+      "new": 3939000
+    },
+    "expected": {
+      "old": 3217510,
+      "new": 3068780
+    },
+    "exact": false,
+    "latency_seconds": 9.11648809997132,
+    "projected_paid_usd": 0.0029096,
+    "usage": {
+      "promptTokenCount": 1632,
+      "candidatesTokenCount": 968,
+      "totalTokenCount": 2600,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1632
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "92f2e7bfb9f9be4fe4444b67b6a6c6d101eed0659b26a4757c79f9eca8489336"
+  },
+  {
+    "case_id": "2024-25-age60-residentTrue-10050005",
+    "actual": {
+      "old": 4014900,
+      "new": 3762200
+    },
+    "expected": {
+      "old": 3214650,
+      "new": 3068780
+    },
+    "exact": false,
+    "latency_seconds": 28.371973800007254,
+    "projected_paid_usd": 0.0025996,
+    "usage": {
+      "promptTokenCount": 1632,
+      "candidatesTokenCount": 844,
+      "totalTokenCount": 2476,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1632
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "d6baa7394478f40a566078ba40cbfe0eb82a02fe33ea72c0cb4d32e6c07b0f68"
+  },
+  {
+    "case_id": "2024-25-age79-residentTrue-1275005",
+    "actual": {
+      "old": 18460,
+      "new": 32240
+    },
+    "expected": {
+      "old": 184600,
+      "new": 83200
+    },
+    "exact": false,
+    "latency_seconds": 22.74392610002542,
+    "projected_paid_usd": 0.0011218,
+    "usage": {
+      "promptTokenCount": 1631,
+      "candidatesTokenCount": 253,
+      "totalTokenCount": 1884,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1631
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "066dc281b3875527b893f76bd4cf745483706e52bfe65fb8b6fbf8428f201fae"
+  },
+  {
+    "case_id": "2024-25-age80-residentFalse-300000",
+    "actual": {
+      "old": 0,
+      "new": 0
+    },
+    "expected": {
+      "old": 0,
+      "new": 0
+    },
+    "exact": true,
+    "latency_seconds": 48.35934259998612,
+    "projected_paid_usd": 0.0011665,
+    "usage": {
+      "promptTokenCount": 1630,
+      "candidatesTokenCount": 271,
+      "totalTokenCount": 1901,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1630
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "9ea591a22be6918bb3ce9fac76324c082b06513c101d4aeeaac0d3c9075bde58"
+  },
+  {
+    "case_id": "2024-25-age80-residentFalse-1275005",
+    "actual": {
+      "old": 182000,
+      "new": 93600
+    },
+    "expected": {
+      "old": 187200,
+      "new": 83200
+    },
+    "exact": false,
+    "latency_seconds": 10.091904300032184,
+    "projected_paid_usd": 0.0017592999999999999,
+    "usage": {
+      "promptTokenCount": 1631,
+      "candidatesTokenCount": 508,
+      "totalTokenCount": 2139,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1631
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "d1200afbad9c703e256f032fdab84eee7f92b7941f4d0cff24f62e57a3b63b9f"
+  },
+  {
+    "case_id": "2024-25-age80-residentTrue-300000",
+    "actual": {
+      "old": 0,
+      "new": 0
+    },
+    "expected": {
+      "old": 0,
+      "new": 0
+    },
+    "exact": true,
+    "latency_seconds": 8.893677499960177,
+    "projected_paid_usd": 0.001169,
+    "usage": {
+      "promptTokenCount": 1630,
+      "candidatesTokenCount": 272,
+      "totalTokenCount": 1902,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1630
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "845ae5ea3ed4c8b9137e391a14fa3eb656427a6565dfe9a5741f233003eef855"
+  },
+  {
+    "case_id": "2024-25-age80-residentTrue-50050005",
+    "actual": {
+      "old": 17290450,
+      "new": 14930690
+    },
+    "expected": {
+      "old": 19240010,
+      "new": 19087250
+    },
+    "exact": false,
+    "latency_seconds": 26.313050199998543,
+    "projected_paid_usd": 0.0014596,
+    "usage": {
+      "promptTokenCount": 1632,
+      "candidatesTokenCount": 388,
+      "totalTokenCount": 2020,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1632
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "c891ee3fc1b5f254f79c22ce29e08a1e117bfb439f7d0b44a404286c4335230a"
+  },
+  {
+    "case_id": "2024-25-salary-300000",
+    "actual": {
+      "old": 0,
+      "new": 0
+    },
+    "expected": {
+      "old": 0,
+      "new": 0
+    },
+    "exact": true,
+    "latency_seconds": 87.03355839999858,
+    "projected_paid_usd": 0.001164,
+    "usage": {
+      "promptTokenCount": 1630,
+      "candidatesTokenCount": 270,
+      "totalTokenCount": 1900,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1630
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "74277390300db4a991a23aae81a10737cf7608c2bcb011c373df75751ecc241e"
+  },
+  {
+    "case_id": "2024-25-salary-300005",
+    "actual": {
+      "old": 0,
+      "new": 0
+    },
+    "expected": {
+      "old": 0,
+      "new": 0
+    },
+    "exact": true,
+    "latency_seconds": 4.090032999985851,
+    "projected_paid_usd": 0.001394,
+    "usage": {
+      "promptTokenCount": 1630,
+      "candidatesTokenCount": 362,
+      "totalTokenCount": 1992,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1630
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "344354a3e2118b383154b6f9f57db6e3ff93559f08eb46368c9b0133420331e3"
+  },
+  {
+    "case_id": "2024-25-salary-550000",
+    "actual": {
+      "old": 13000,
+      "new": 0
+    },
+    "expected": {
+      "old": 0,
+      "new": 0
+    },
+    "exact": false,
+    "latency_seconds": 35.96313170000212,
+    "projected_paid_usd": 0.0014665,
+    "usage": {
+      "promptTokenCount": 1630,
+      "candidatesTokenCount": 391,
+      "totalTokenCount": 2021,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1630
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "ad5a83fad16feca41daffa630d65fccbb046f44d68569e87a44039fdb23ac445"
+  },
+  {
+    "case_id": "2024-25-salary-550005",
+    "actual": {
+      "old": 12870,
+      "new": 10400
+    },
+    "expected": {
+      "old": 13000,
+      "new": 0
+    },
+    "exact": false,
+    "latency_seconds": 10.564932700013742,
+    "projected_paid_usd": 0.0011815,
+    "usage": {
+      "promptTokenCount": 1630,
+      "candidatesTokenCount": 277,
+      "totalTokenCount": 1907,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1630
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "d5a9e5258ea09cd436460664f97dddfc5bf486606a73ecf7a8642caf54809830"
+  },
+  {
+    "case_id": "2024-25-salary-1050000",
+    "actual": {
+      "old": 117000,
+      "new": 54600
+    },
+    "expected": {
+      "old": 117000,
+      "new": 49400
+    },
+    "exact": false,
+    "latency_seconds": 76.68144079996273,
+    "projected_paid_usd": 0.0012217999999999999,
+    "usage": {
+      "promptTokenCount": 1631,
+      "candidatesTokenCount": 293,
+      "totalTokenCount": 1924,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1631
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "f804bd2f553a027a598c67e37e813bda48fed6fac4bbf7b70bc8c35f02e6fc33"
+  },
+  {
+    "case_id": "2024-25-salary-1050005",
+    "actual": {
+      "old": 126150,
+      "new": 62400
+    },
+    "expected": {
+      "old": 117000,
+      "new": 49400
+    },
+    "exact": false,
+    "latency_seconds": 22.31693579995772,
+    "projected_paid_usd": 0.0023993,
+    "usage": {
+      "promptTokenCount": 1631,
+      "candidatesTokenCount": 764,
+      "totalTokenCount": 2395,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1631
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "380a59cf2d5054bef8c6fe2e16a9b968f77e2c5d27806a938aeb255938eacf8d"
+  },
+  {
+    "case_id": "2024-25-salary-5050000",
+    "actual": {
+      "old": 1585800,
+      "new": 1391000
+    },
+    "expected": {
+      "old": 1365000,
+      "new": 1229800
+    },
+    "exact": false,
+    "latency_seconds": 2.7193875999655575,
+    "projected_paid_usd": 0.0020518000000000003,
+    "usage": {
+      "promptTokenCount": 1631,
+      "candidatesTokenCount": 625,
+      "totalTokenCount": 2256,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1631
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "cff1a005d5db5999aeb4e0f9e524642e6b1bd1f855131d353cc193c44d302934"
+  },
+  {
+    "case_id": "2024-25-salary-5050005",
+    "actual": {
+      "old": 1640980,
+      "new": 1461910
+    },
+    "expected": {
+      "old": 1365010,
+      "new": 1229800
+    },
+    "exact": false,
+    "latency_seconds": 4.974549500038847,
+    "projected_paid_usd": 0.0016668,
+    "usage": {
+      "promptTokenCount": 1631,
+      "candidatesTokenCount": 471,
+      "totalTokenCount": 2102,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1631
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "7d27f036ebe9d93103102fd19fc671e5417ae4ce6d13a1d371cf4a113e8ce490"
+  },
+  {
+    "case_id": "2024-25-salary-10050000",
+    "actual": {
+      "old": 4357600,
+      "new": 3288480
+    },
+    "expected": {
+      "old": 3217500,
+      "new": 3068780
+    },
+    "exact": false,
+    "latency_seconds": 39.243721599981654,
+    "projected_paid_usd": 0.0014870999999999999,
+    "usage": {
+      "promptTokenCount": 1632,
+      "candidatesTokenCount": 399,
+      "totalTokenCount": 2031,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1632
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "eaa60ee033fc8166f422da20b8b223c5dd24bbe44533779f6d6a930613b39f7d"
+  },
+  {
+    "case_id": "2024-25-salary-10050005",
+    "actual": {
+      "old": 4545220,
+      "new": 3717520
+    },
+    "expected": {
+      "old": 3217510,
+      "new": 3068780
+    },
+    "exact": false,
+    "latency_seconds": 8.293759200023487,
+    "projected_paid_usd": 0.0015346,
+    "usage": {
+      "promptTokenCount": 1632,
+      "candidatesTokenCount": 418,
+      "totalTokenCount": 2050,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1632
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "766c31fbd1294a759b532a128497ac79548dd42080c0cce7426cd590c498219a"
+  },
+  {
+    "case_id": "2024-25-salary-20050000",
+    "actual": {
+      "old": 6867380,
+      "new": 5937960
+    },
+    "expected": {
+      "old": 6951750,
+      "new": 6796270
+    },
+    "exact": false,
+    "latency_seconds": 48.59105670003919,
+    "projected_paid_usd": 0.0012920999999999998,
+    "usage": {
+      "promptTokenCount": 1632,
+      "candidatesTokenCount": 321,
+      "totalTokenCount": 1953,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1632
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "c60a94f93a1025f8bd7e2e1d484c616b670d50962f4b18ae5079daf678854311"
+  },
+  {
+    "case_id": "2024-25-salary-20050005",
+    "actual": {
+      "old": 4767170,
+      "new": 4010300
+    },
+    "expected": {
+      "old": 6951760,
+      "new": 6796270
+    },
+    "exact": false,
+    "latency_seconds": 2.5594303000252694,
+    "projected_paid_usd": 0.0013296,
+    "usage": {
+      "promptTokenCount": 1632,
+      "candidatesTokenCount": 336,
+      "totalTokenCount": 1968,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1632
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "b440b42177cb4993c5da8afb3f89cb3a5a25f9be88d47a2ae66fcb4ca638ef44"
+  },
+  {
+    "case_id": "2024-25-salary-50050000",
+    "actual": {
+      "old": 18454210,
+      "new": 15456480
+    },
+    "expected": {
+      "old": 19256250,
+      "new": 19087250
+    },
+    "exact": false,
+    "latency_seconds": 28.373932799964678,
+    "projected_paid_usd": 0.0016320999999999998,
+    "usage": {
+      "promptTokenCount": 1632,
+      "candidatesTokenCount": 457,
+      "totalTokenCount": 2089,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1632
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "baedf92e9e5b91b3d2f16d7976fb63d8ac818eefe3597ee3c55b08a66c700d01"
+  },
+  {
+    "case_id": "2024-25-salary-50050005",
+    "actual": {
+      "old": 18270740,
+      "new": 14289450
+    },
+    "expected": {
+      "old": 19256260,
+      "new": 19087250
+    },
+    "exact": false,
+    "latency_seconds": 9.347109100024682,
+    "projected_paid_usd": 0.0011296,
+    "usage": {
+      "promptTokenCount": 1632,
+      "candidatesTokenCount": 256,
+      "totalTokenCount": 1888,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1632
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "1bed949d1a688fd40a161355e7350c896ed0646c9e7942f48a56e0ef2da3cca4"
+  },
+  {
+    "case_id": "2024-25-salary-375000",
+    "actual": {
+      "old": 0,
+      "new": 0
+    },
+    "expected": {
+      "old": 0,
+      "new": 0
+    },
+    "exact": true,
+    "latency_seconds": 9.445320900005754,
+    "projected_paid_usd": 0.0012415,
+    "usage": {
+      "promptTokenCount": 1630,
+      "candidatesTokenCount": 301,
+      "totalTokenCount": 1931,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1630
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "6f95efa4e81255ccd3e6d8582fade4c78f35344e3e4ae8dfb4ab4c8fc3605005"
+  },
+  {
+    "case_id": "2024-25-salary-375005",
+    "actual": {
+      "old": 0,
+      "new": 0
+    },
+    "expected": {
+      "old": 0,
+      "new": 0
+    },
+    "exact": true,
+    "latency_seconds": 3.6906361999572255,
+    "projected_paid_usd": 0.0013965,
+    "usage": {
+      "promptTokenCount": 1630,
+      "candidatesTokenCount": 363,
+      "totalTokenCount": 1993,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1630
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "9f340fd03216548116fae6edb6a876ca3a2d7c0b05609b9f432644d718f9abc4"
+  },
+  {
+    "case_id": "2024-25-salary-775000",
+    "actual": {
+      "old": 39000,
+      "new": 26000
+    },
+    "expected": {
+      "old": 59800,
+      "new": 0
+    },
+    "exact": false,
+    "latency_seconds": 3.3914703000336885,
+    "projected_paid_usd": 0.001869,
+    "usage": {
+      "promptTokenCount": 1630,
+      "candidatesTokenCount": 552,
+      "totalTokenCount": 2182,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1630
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "f6c51c3c31ea6aed563de2d334261b44b7705c9b781a633ac8d80c38b499f6af"
+  },
+  {
+    "case_id": "2024-25-salary-775005",
+    "actual": {
+      "old": 37230,
+      "new": 19760
+    },
+    "expected": {
+      "old": 59800,
+      "new": 10
+    },
+    "exact": false,
+    "latency_seconds": 81.29592770000454,
+    "projected_paid_usd": 0.0018565,
+    "usage": {
+      "promptTokenCount": 1630,
+      "candidatesTokenCount": 547,
+      "totalTokenCount": 2177,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1630
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "476ed1c585a40cda4c3476e28c041293469eb2fd560d1d3f30e55453d9652256"
+  },
+  {
+    "case_id": "2024-25-salary-1075000",
+    "actual": {
+      "old": 101400,
+      "new": 46800
+    },
+    "expected": {
+      "old": 124800,
+      "new": 52000
+    },
+    "exact": false,
+    "latency_seconds": 10.690320599998813,
+    "projected_paid_usd": 0.0018043,
+    "usage": {
+      "promptTokenCount": 1631,
+      "candidatesTokenCount": 526,
+      "totalTokenCount": 2157,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1631
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "5f7b4d7d41b8c1874a269252b38506b56bd979e4ac499fcef06d4b1623128f33"
+  },
+  {
+    "case_id": "2024-25-salary-1075005",
+    "actual": {
+      "old": 128970,
+      "new": 62400
+    },
+    "expected": {
+      "old": 124800,
+      "new": 52000
+    },
+    "exact": false,
+    "latency_seconds": 9.489845100033563,
+    "projected_paid_usd": 0.0013143,
+    "usage": {
+      "promptTokenCount": 1631,
+      "candidatesTokenCount": 330,
+      "totalTokenCount": 1961,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1631
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "35e4b46958a66edab5233aa879120c474e35bc7ac0bc63be07eef1df69fc2ef5"
+  },
+  {
+    "case_id": "2024-25-salary-1275000",
+    "actual": {
+      "old": 195000,
+      "new": 90000
+    },
+    "expected": {
+      "old": 187200,
+      "new": 83200
+    },
+    "exact": false,
+    "latency_seconds": 32.752295700018294,
+    "projected_paid_usd": 0.0016893,
+    "usage": {
+      "promptTokenCount": 1631,
+      "candidatesTokenCount": 480,
+      "totalTokenCount": 2111,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1631
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "446a4fe52a3595b7e5e89e340b3acde9da708f258e6952387a4fa008535fc6ad"
+  },
+  {
+    "case_id": "2024-25-salary-1275005",
+    "actual": {
+      "old": 105820,
+      "new": 93600
+    },
+    "expected": {
+      "old": 187200,
+      "new": 83200
+    },
+    "exact": false,
+    "latency_seconds": 9.133861400012393,
+    "projected_paid_usd": 0.0012193,
+    "usage": {
+      "promptTokenCount": 1631,
+      "candidatesTokenCount": 292,
+      "totalTokenCount": 1923,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1631
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "7a5906a4bcd9aea7ba1cb7fa32d9bf32240a1c1258abb0dd1dcc84f567facaa1"
+  },
+  {
+    "case_id": "2024-25-salary-1575000",
+    "actual": {
+      "old": 274560,
+      "new": 166400
+    },
+    "expected": {
+      "old": 280800,
+      "new": 145600
+    },
+    "exact": false,
+    "latency_seconds": 35.476609400007874,
+    "projected_paid_usd": 0.0011792999999999999,
+    "usage": {
+      "promptTokenCount": 1631,
+      "candidatesTokenCount": 276,
+      "totalTokenCount": 1907,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1631
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "9987296119827c258106246924ab597051f77467ff66c3ecf999bc43fb161c29"
+  },
+  {
+    "case_id": "2024-25-salary-1575005",
+    "actual": {
+      "old": 274290,
+      "new": 166400
+    },
+    "expected": {
+      "old": 280800,
+      "new": 145600
+    },
+    "exact": false,
+    "latency_seconds": 2.1538271000026725,
+    "projected_paid_usd": 0.0016718,
+    "usage": {
+      "promptTokenCount": 1631,
+      "candidatesTokenCount": 473,
+      "totalTokenCount": 2104,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1631
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "8e6620175cda17173e88724c10dee00012abef422479b61ec9767f2fdfd09736"
+  },
+  {
+    "case_id": "2024-25-salary-10075005",
+    "actual": {
+      "old": 4539600,
+      "new": 3770000
+    },
+    "expected": {
+      "old": 3243510,
+      "new": 3077370
+    },
+    "exact": false,
+    "latency_seconds": 26.961472800001502,
+    "projected_paid_usd": 0.0020396,
+    "usage": {
+      "promptTokenCount": 1632,
+      "candidatesTokenCount": 620,
+      "totalTokenCount": 2252,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1632
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "e2998456a57a7a2e29b8471dd00d8dc97c11df33053190ef9cd9e9ed970453b3"
+  },
+  {
+    "case_id": "2024-25-salary-575004",
+    "actual": {
+      "old": 12870,
+      "new": 0
+    },
+    "expected": {
+      "old": 18200,
+      "new": 0
+    },
+    "exact": false,
+    "latency_seconds": 75.66285389999393,
+    "projected_paid_usd": 0.002069,
+    "usage": {
+      "promptTokenCount": 1630,
+      "candidatesTokenCount": 632,
+      "totalTokenCount": 2262,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1630
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "3390c8f0a0fa81bee80213a619e4e3505ec04d5102d67c0b9a6f15b143c800b5"
+  },
+  {
+    "case_id": "2024-25-salary-797225",
+    "actual": {
+      "old": 47250,
+      "new": 27720
+    },
+    "expected": {
+      "old": 64420,
+      "new": 23110
+    },
+    "exact": false,
+    "latency_seconds": 28.805190699989907,
+    "projected_paid_usd": 0.0020815,
+    "usage": {
+      "promptTokenCount": 1630,
+      "candidatesTokenCount": 637,
+      "totalTokenCount": 2267,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1630
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "07502a798423cf375af3645832e3b01437c76ede9df553e4e777e63292089a41"
+  },
+  {
+    "case_id": "2024-25-salary-1275004",
+    "actual": {
+      "old": 189490,
+      "new": 93600
+    },
+    "expected": {
+      "old": 187200,
+      "new": 83200
+    },
+    "exact": false,
+    "latency_seconds": 20.934111099981237,
+    "projected_paid_usd": 0.0018493,
+    "usage": {
+      "promptTokenCount": 1631,
+      "candidatesTokenCount": 544,
+      "totalTokenCount": 2175,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1631
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "9bd36396339d156e62580c9261740686ff3d39083bdd49dd6e851be31c6ff8bd"
+  },
+  {
+    "case_id": "2024-25-salary-1050004",
+    "actual": {
+      "old": 115960,
+      "new": 54600
+    },
+    "expected": {
+      "old": 117000,
+      "new": 49400
+    },
+    "exact": false,
+    "latency_seconds": 27.66833910002606,
+    "projected_paid_usd": 0.0020693,
+    "usage": {
+      "promptTokenCount": 1631,
+      "candidatesTokenCount": 632,
+      "totalTokenCount": 2263,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1631
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "a3295e915577e4ed7cb7ded0189ff723a13b3dfcbaef3628c27f8578541c4578"
+  },
+  {
+    "case_id": "2024-25-salary-475004",
+    "actual": {
+      "old": 0,
+      "new": 0
+    },
+    "expected": {
+      "old": 0,
+      "new": 0
+    },
+    "exact": true,
+    "latency_seconds": 20.949763800017536,
+    "projected_paid_usd": 0.0011665,
+    "usage": {
+      "promptTokenCount": 1630,
+      "candidatesTokenCount": 271,
+      "totalTokenCount": 1901,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1630
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "b8814d0cb757f851f3802b0bab57a372eaa03860f23e537912d60dbb9fa97daf"
+  },
+  {
+    "case_id": "2024-25-salary-20075000",
+    "actual": {
+      "old": 6842420,
+      "new": 5934570
+    },
+    "expected": {
+      "old": 6977750,
+      "new": 6805240
+    },
+    "exact": false,
+    "latency_seconds": 7.700495800003409,
+    "projected_paid_usd": 0.0012645999999999998,
+    "usage": {
+      "promptTokenCount": 1632,
+      "candidatesTokenCount": 310,
+      "totalTokenCount": 1942,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1632
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "e5128cc0fb429a742e94ecbe3c9cf4ea9ec137d5ce6b924e22a3025351f3f1d8"
+  },
+  {
+    "case_id": "2024-25-salary-474995",
+    "actual": {
+      "old": 0,
+      "new": 0
+    },
+    "expected": {
+      "old": 0,
+      "new": 0
+    },
+    "exact": true,
+    "latency_seconds": 45.84656570001971,
+    "projected_paid_usd": 0.0013815,
+    "usage": {
+      "promptTokenCount": 1630,
+      "candidatesTokenCount": 357,
+      "totalTokenCount": 1987,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1630
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "86ed55cfe2a90da280c83e88603f913a80e44056383503649b19c01103e6df66"
+  },
+  {
+    "case_id": "2024-25-salary-300011",
+    "actual": {
+      "old": 0,
+      "new": 0
+    },
+    "expected": {
+      "old": 0,
+      "new": 0
+    },
+    "exact": true,
+    "latency_seconds": 70.52260460000252,
+    "projected_paid_usd": 0.001204,
+    "usage": {
+      "promptTokenCount": 1630,
+      "candidatesTokenCount": 286,
+      "totalTokenCount": 1916,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1630
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "190225c84e26e1c619f83ed598b4092122106b6c0b17c53c7b4eb2e566423e80"
+  },
+  {
+    "case_id": "2024-25-salary-374989",
+    "actual": {
+      "old": 0,
+      "new": 0
+    },
+    "expected": {
+      "old": 0,
+      "new": 0
+    },
+    "exact": true,
+    "latency_seconds": 10.565636500017717,
+    "projected_paid_usd": 0.0013315,
+    "usage": {
+      "promptTokenCount": 1630,
+      "candidatesTokenCount": 337,
+      "totalTokenCount": 1967,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1630
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "87758177d6cd00833b6dc361b3a0f27dd44d0519490860e93d9351818c4681e4"
+  },
+  {
+    "case_id": "2024-25-salary-850005",
+    "actual": {
+      "old": 80080,
+      "new": 46800
+    },
+    "expected": {
+      "old": 75400,
+      "new": 28600
+    },
+    "exact": false,
+    "latency_seconds": 16.756931200041436,
+    "projected_paid_usd": 0.0016565,
+    "usage": {
+      "promptTokenCount": 1630,
+      "candidatesTokenCount": 467,
+      "totalTokenCount": 2097,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1630
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "b427dab0b127e3a1249654903e99ecb8b6b3f5a3d70ca94658dee292d4f254bf"
+  },
+  {
+    "case_id": "2024-25-salary-749999",
+    "actual": {
+      "old": 43260,
+      "new": 22880
+    },
+    "expected": {
+      "old": 54600,
+      "new": 0
+    },
+    "exact": false,
+    "latency_seconds": 8.358531399979256,
+    "projected_paid_usd": 0.0020815,
+    "usage": {
+      "promptTokenCount": 1630,
+      "candidatesTokenCount": 637,
+      "totalTokenCount": 2267,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1630
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "2ecdf032b5cc8eb4ad1def87223b49b78c195f7b7daa0ef5c9f83923128be0d4"
+  },
+  {
+    "case_id": "2024-25-salary-2050005",
+    "actual": {
+      "old": 372330,
+      "new": 338000
+    },
+    "expected": {
+      "old": 429000,
+      "new": 293800
+    },
+    "exact": false,
+    "latency_seconds": 9.708864899992477,
+    "projected_paid_usd": 0.0022643000000000003,
+    "usage": {
+      "promptTokenCount": 1631,
+      "candidatesTokenCount": 710,
+      "totalTokenCount": 2341,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1631
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "c702454c4f2b12a916b1a9e60676c04f3dbb82887c881ba724080a4c63a1ecce"
+  },
+  {
+    "case_id": "2024-25-salary-10075011",
+    "actual": {
+      "old": 3716610,
+      "new": 3762490
+    },
+    "expected": {
+      "old": 3243510,
+      "new": 3077370
+    },
+    "exact": false,
+    "latency_seconds": 8.954053000023123,
+    "projected_paid_usd": 0.0013345999999999998,
+    "usage": {
+      "promptTokenCount": 1632,
+      "candidatesTokenCount": 338,
+      "totalTokenCount": 1970,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1632
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "55f3f157faaef80f514a5d0fb35ea0ca9dfa9434b0d5cffb9e19cafd7f4670fb"
+  },
+  {
+    "case_id": "2024-25-salary-1250004",
+    "actual": {
+      "old": 190320,
+      "new": 93600
+    },
+    "expected": {
+      "old": 179400,
+      "new": 79300
+    },
+    "exact": false,
+    "latency_seconds": 9.228984099987429,
+    "projected_paid_usd": 0.0017718,
+    "usage": {
+      "promptTokenCount": 1631,
+      "candidatesTokenCount": 513,
+      "totalTokenCount": 2144,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1631
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "66fe3ecba1a0bd30439135ac2a6e026725aea9d382cfeaedcd9e4101ad277399"
+  },
+  {
+    "case_id": "2024-25-salary-450000",
+    "actual": {
+      "old": 0,
+      "new": 0
+    },
+    "expected": {
+      "old": 0,
+      "new": 0
+    },
+    "exact": true,
+    "latency_seconds": 9.385143099993002,
+    "projected_paid_usd": 0.0010465,
+    "usage": {
+      "promptTokenCount": 1630,
+      "candidatesTokenCount": 223,
+      "totalTokenCount": 1853,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1630
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "75c35a094f50c8bfee697d83b2b192080881536f58aa277087646fa41365369b"
+  },
+  {
+    "case_id": "2025-26-80c-cap-1200000",
+    "actual": {
+      "old": 113360,
+      "new": 78000
+    },
+    "expected": {
+      "old": 117000,
+      "new": 0
+    },
+    "exact": false,
+    "latency_seconds": 9.222457099996973,
+    "projected_paid_usd": 0.0014818,
+    "usage": {
+      "promptTokenCount": 2231,
+      "candidatesTokenCount": 325,
+      "totalTokenCount": 2556,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2231
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "1b200068bdd833369ced414702be5f098c9594c99660604a4fa0483b8fd5c74d"
+  },
+  {
+    "case_id": "2025-26-80c-cap-2000000",
+    "actual": {
+      "old": 371980,
+      "new": 273000
+    },
+    "expected": {
+      "old": 366600,
+      "new": 192400
+    },
+    "exact": false,
+    "latency_seconds": 9.36621530004777,
+    "projected_paid_usd": 0.0016193,
+    "usage": {
+      "promptTokenCount": 2231,
+      "candidatesTokenCount": 380,
+      "totalTokenCount": 2611,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2231
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "36ece8d6587f100b4720502b1ce292e36a8ae3dcd07e8ba1a62865b756c04779"
+  },
+  {
+    "case_id": "2025-26-nps-cap-1200000",
+    "actual": {
+      "old": 141960,
+      "new": 78000
+    },
+    "expected": {
+      "old": 148200,
+      "new": 0
+    },
+    "exact": false,
+    "latency_seconds": 20.979269499948714,
+    "projected_paid_usd": 0.0014565,
+    "usage": {
+      "promptTokenCount": 2230,
+      "candidatesTokenCount": 315,
+      "totalTokenCount": 2545,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2230
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "43c89826bbc3ab013dc9f2b592f9e9775531c95f0b17a9d0a30cc23bba1da851"
+  },
+  {
+    "case_id": "2025-26-nps-cap-2000000",
+    "actual": {
+      "old": 372190,
+      "new": 273000
+    },
+    "expected": {
+      "old": 397800,
+      "new": 192400
+    },
+    "exact": false,
+    "latency_seconds": 8.97718950000126,
+    "projected_paid_usd": 0.001624,
+    "usage": {
+      "promptTokenCount": 2230,
+      "candidatesTokenCount": 382,
+      "totalTokenCount": 2612,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2230
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "0fa6331b9b1f6d225fd6743f34efba3829ffa6cef0e6f8103c4f27c8237fdc7d"
+  },
+  {
+    "case_id": "2025-26-80d-parents-senior-1200000",
+    "actual": {
+      "old": 171600,
+      "new": 78000
+    },
+    "expected": {
+      "old": 140400,
+      "new": 0
+    },
+    "exact": false,
+    "latency_seconds": 23.009118399990257,
+    "projected_paid_usd": 0.0026401999999999997,
+    "usage": {
+      "promptTokenCount": 2234,
+      "candidatesTokenCount": 788,
+      "totalTokenCount": 3022,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2234
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "363ec32c1ce2c79a7c633a819c8c08679933e84501a0d0f1009d4c9eebe450cb"
+  },
+  {
+    "case_id": "2025-26-80d-parents-senior-2000000",
+    "actual": {
+      "old": 371800,
+      "new": 273000
+    },
+    "expected": {
+      "old": 390000,
+      "new": 192400
+    },
+    "exact": false,
+    "latency_seconds": 33.33161150000524,
+    "projected_paid_usd": 0.0017376999999999998,
+    "usage": {
+      "promptTokenCount": 2234,
+      "candidatesTokenCount": 427,
+      "totalTokenCount": 2661,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2234
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "598cd41a1bbef67c7bca8b18c71cf1423d0b054e41ab60e61b606c54ccfc645a"
+  },
+  {
+    "case_id": "2025-26-80d-under60-1200000",
+    "actual": {
+      "old": 171600,
+      "new": 78000
+    },
+    "expected": {
+      "old": 148200,
+      "new": 0
+    },
+    "exact": false,
+    "latency_seconds": 50.61880649998784,
+    "projected_paid_usd": 0.0015651999999999999,
+    "usage": {
+      "promptTokenCount": 2234,
+      "candidatesTokenCount": 358,
+      "totalTokenCount": 2592,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2234
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "41f1b4b6dd006c6d325cae10cb93a76c2a077c32b3eec5d2df4c55ba59387e8c"
+  },
+  {
+    "case_id": "2025-26-80d-under60-2000000",
+    "actual": {
+      "old": 371280,
+      "new": 273000
+    },
+    "expected": {
+      "old": 397800,
+      "new": 192400
+    },
+    "exact": false,
+    "latency_seconds": 3.251357899978757,
+    "projected_paid_usd": 0.0017976999999999997,
+    "usage": {
+      "promptTokenCount": 2234,
+      "candidatesTokenCount": 451,
+      "totalTokenCount": 2685,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2234
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "d2992cc31d92305d911c3a500b5a2de9e77193693131d957e907f68c5e7e68bf"
+  },
+  {
+    "case_id": "2025-26-80d-checkup-global-cap-1200000",
+    "actual": {
+      "old": 171600,
+      "new": 78000
+    },
+    "expected": {
+      "old": 162240,
+      "new": 0
+    },
+    "exact": false,
+    "latency_seconds": 81.77350900002057,
+    "projected_paid_usd": 0.0025696,
+    "usage": {
+      "promptTokenCount": 2232,
+      "candidatesTokenCount": 760,
+      "totalTokenCount": 2992,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2232
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "599e50fa2bb26512e546cac2774ccc531be5add714b3aa12a2de0c1a96974fe0"
+  },
+  {
+    "case_id": "2025-26-80d-checkup-global-cap-2000000",
+    "actual": {
+      "old": 379600,
+      "new": 273000
+    },
+    "expected": {
+      "old": 411840,
+      "new": 192400
+    },
+    "exact": false,
+    "latency_seconds": 28.09297300002072,
+    "projected_paid_usd": 0.0026471,
+    "usage": {
+      "promptTokenCount": 2232,
+      "candidatesTokenCount": 791,
+      "totalTokenCount": 3023,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2232
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "b4cd70ba0d9be17f30d3f6323eeb22de13e0d3f4ac7c88a9a0e35401ce216d73"
+  },
+  {
+    "case_id": "2025-26-80d-uninsured-senior-1200000",
+    "actual": {
+      "old": 142070,
+      "new": 78000
+    },
+    "expected": {
+      "old": 148200,
+      "new": 0
+    },
+    "exact": false,
+    "latency_seconds": 74.66003689996433,
+    "projected_paid_usd": 0.0024715,
+    "usage": {
+      "promptTokenCount": 2230,
+      "candidatesTokenCount": 721,
+      "totalTokenCount": 2951,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2230
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "2292f1f132a438ede948823223a4f756b05ba6e76d442e4eeb5cf74923481354"
+  },
+  {
+    "case_id": "2025-26-80d-uninsured-senior-2000000",
+    "actual": {
+      "old": 372480,
+      "new": 275600
+    },
+    "expected": {
+      "old": 397800,
+      "new": 192400
+    },
+    "exact": false,
+    "latency_seconds": 20.663155299960636,
+    "projected_paid_usd": 0.0016565,
+    "usage": {
+      "promptTokenCount": 2230,
+      "candidatesTokenCount": 395,
+      "totalTokenCount": 2625,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2230
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "02a8bebf826f173736a901fc3ed6befa0da062511fb422b4ac5e1d7828a1e870"
+  },
+  {
+    "case_id": "2025-26-loan-qualifying-1200000",
+    "actual": {
+      "old": 141960,
+      "new": 78000
+    },
+    "expected": {
+      "old": 106600,
+      "new": 0
+    },
+    "exact": false,
+    "latency_seconds": 4.765807199990377,
+    "projected_paid_usd": 0.0027543000000000003,
+    "usage": {
+      "promptTokenCount": 2231,
+      "candidatesTokenCount": 834,
+      "totalTokenCount": 3065,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2231
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "1c01d50524932801f2a235a2820ce93b6b4f0a03c2856784169e740e60207239"
+  },
+  {
+    "case_id": "2025-26-loan-qualifying-2000000",
+    "actual": {
+      "old": 372320,
+      "new": 273000
+    },
+    "expected": {
+      "old": 351000,
+      "new": 192400
+    },
+    "exact": false,
+    "latency_seconds": 8.724146299995482,
+    "projected_paid_usd": 0.0015668,
+    "usage": {
+      "promptTokenCount": 2231,
+      "candidatesTokenCount": 359,
+      "totalTokenCount": 2590,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2231
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "6c03182da4f533911a0c9ebb8dce048d6905f8b4e15070a9d8f594841bf6928a"
+  },
+  {
+    "case_id": "2025-26-loan-repairs-1200000",
+    "actual": {
+      "old": 160160,
+      "new": 75400
+    },
+    "expected": {
+      "old": 154440,
+      "new": 0
+    },
+    "exact": false,
+    "latency_seconds": 8.969975699961651,
+    "projected_paid_usd": 0.001669,
+    "usage": {
+      "promptTokenCount": 2230,
+      "candidatesTokenCount": 400,
+      "totalTokenCount": 2630,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2230
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "8f2457b66596453f95eabcc9cfbe63a1a27dcb1d0891ccbf7a9000dcd5fefeb8"
+  },
+  {
+    "case_id": "2025-26-loan-repairs-2000000",
+    "actual": {
+      "old": 372330,
+      "new": 273000
+    },
+    "expected": {
+      "old": 404040,
+      "new": 192400
+    },
+    "exact": false,
+    "latency_seconds": 6.75905450002756,
+    "projected_paid_usd": 0.001624,
+    "usage": {
+      "promptTokenCount": 2230,
+      "candidatesTokenCount": 382,
+      "totalTokenCount": 2612,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2230
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "e8d42287cb4b776df95ea6531cbb0c6aa79ae349cd271da482c4775264342883"
+  },
+  {
+    "case_id": "2025-26-hra-metro-1200000",
+    "actual": {
+      "old": 105660,
+      "new": 72800
+    },
+    "expected": {
+      "old": 98280,
+      "new": 0
+    },
+    "exact": false,
+    "latency_seconds": 26.870959599968046,
+    "projected_paid_usd": 0.0014845,
+    "usage": {
+      "promptTokenCount": 2265,
+      "candidatesTokenCount": 322,
+      "totalTokenCount": 2587,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2265
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "de2c5e2f5351b7e53983b1ede8d110feb363ccb9b56ed83172f8b56cc29dc1c8"
+  },
+  {
+    "case_id": "2025-26-hra-metro-2000000",
+    "actual": {
+      "old": 331760,
+      "new": 273000
+    },
+    "expected": {
+      "old": 338520,
+      "new": 192400
+    },
+    "exact": false,
+    "latency_seconds": 28.222053100005724,
+    "projected_paid_usd": 0.001767,
+    "usage": {
+      "promptTokenCount": 2265,
+      "candidatesTokenCount": 435,
+      "totalTokenCount": 2700,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2265
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "4ffa0ff02725353f4fb63d4470bd264867feb7a169adc045c473a8c6b336345e"
+  },
+  {
+    "case_id": "2025-26-hra-nonmetro-1200000",
+    "actual": {
+      "old": 93080,
+      "new": 46800
+    },
+    "expected": {
+      "old": 98280,
+      "new": 0
+    },
+    "exact": false,
+    "latency_seconds": 29.661485100048594,
+    "projected_paid_usd": 0.003307,
+    "usage": {
+      "promptTokenCount": 2265,
+      "candidatesTokenCount": 1051,
+      "totalTokenCount": 3316,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2265
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "bed94230f5c976c6c33551fe8f0bfbd9a7a582519cf28f9071d272f9d99d0abf"
+  },
+  {
+    "case_id": "2025-26-hra-nonmetro-2000000",
+    "actual": {
+      "old": 331760,
+      "new": 249600
+    },
+    "expected": {
+      "old": 338520,
+      "new": 192400
+    },
+    "exact": false,
+    "latency_seconds": 2.789746800030116,
+    "projected_paid_usd": 0.0023245,
+    "usage": {
+      "promptTokenCount": 2265,
+      "candidatesTokenCount": 658,
+      "totalTokenCount": 2923,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2265
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "20eab55106e493d82611308b6858c662d073cc1517452112b4a1030c7041bda4"
+  },
+  {
+    "case_id": "2025-26-hra-no-rent-1200000",
+    "actual": {
+      "old": 142480,
+      "new": 78000
+    },
+    "expected": {
+      "old": 163800,
+      "new": 0
+    },
+    "exact": false,
+    "latency_seconds": 26.59880360000534,
+    "projected_paid_usd": 0.001663,
+    "usage": {
+      "promptTokenCount": 2260,
+      "candidatesTokenCount": 394,
+      "totalTokenCount": 2654,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2260
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "1c64dca0f329a3881811753fa17b449406a12ee18234e680089f315a667b308c"
+  },
+  {
+    "case_id": "2025-26-hra-no-rent-2000000",
+    "actual": {
+      "old": 329420,
+      "new": 273000
+    },
+    "expected": {
+      "old": 413400,
+      "new": 192400
+    },
+    "exact": false,
+    "latency_seconds": 76.03946600004565,
+    "projected_paid_usd": 0.0015105,
+    "usage": {
+      "promptTokenCount": 2260,
+      "candidatesTokenCount": 333,
+      "totalTokenCount": 2593,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2260
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "243a52c83987b239265a46f12d4352dd3c99a7cec01cbfd9a50edda3bfa59ee8"
+  },
+  {
+    "case_id": "2025-26-hra-two-periods-1200000",
+    "actual": {
+      "old": 174200,
+      "new": 78000
+    },
+    "expected": {
+      "old": 110760,
+      "new": 0
+    },
+    "exact": false,
+    "latency_seconds": 86.95368610002333,
+    "projected_paid_usd": 0.0017636999999999998,
+    "usage": {
+      "promptTokenCount": 2304,
+      "candidatesTokenCount": 429,
+      "totalTokenCount": 2733,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2304
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "fe6341f4a3ac83d430deb5c510eabcd52902b23d98a97ff22e010d9292ac0409"
+  },
+  {
+    "case_id": "2025-26-hra-two-periods-2000000",
+    "actual": {
+      "old": 371540,
+      "new": 273000
+    },
+    "expected": {
+      "old": 357240,
+      "new": 192400
+    },
+    "exact": false,
+    "latency_seconds": 2.7733708000159822,
+    "projected_paid_usd": 0.0017536999999999997,
+    "usage": {
+      "promptTokenCount": 2304,
+      "candidatesTokenCount": 425,
+      "totalTokenCount": 2729,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2304
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "04fe29bffda80f0f0f08d0a947ef378dd2c21531a6b0b224b16a172fa8b0a060"
+  },
+  {
+    "case_id": "2025-26-deduction-boundary-section_80c-150000--1",
+    "actual": {
+      "old": 328320,
+      "new": 195000
+    },
+    "expected": {
+      "old": 366600,
+      "new": 192400
+    },
+    "exact": false,
+    "latency_seconds": 9.310279599973,
+    "projected_paid_usd": 0.0017117999999999999,
+    "usage": {
+      "promptTokenCount": 2231,
+      "candidatesTokenCount": 417,
+      "totalTokenCount": 2648,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2231
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "ecbbbe6a2c80277fc636dd49a18f05f4d0a00ab2668324f7aae556be5c47c44c"
+  },
+  {
+    "case_id": "2025-26-deduction-boundary-section_80c-150000-0",
+    "actual": {
+      "old": 328010,
+      "new": 273000
+    },
+    "expected": {
+      "old": 366600,
+      "new": 192400
+    },
+    "exact": false,
+    "latency_seconds": 2.633527399972081,
+    "projected_paid_usd": 0.0017167999999999999,
+    "usage": {
+      "promptTokenCount": 2231,
+      "candidatesTokenCount": 419,
+      "totalTokenCount": 2650,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2231
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "45d4dde364bd15a1d3cb271e4365f39f8d7186db58efc3e1afe400ef5e005487"
+  },
+  {
+    "case_id": "2025-26-deduction-boundary-section_80c-150000-1",
+    "actual": {
+      "old": 328850,
+      "new": 273000
+    },
+    "expected": {
+      "old": 366600,
+      "new": 192400
+    },
+    "exact": false,
+    "latency_seconds": 3.699279699998442,
+    "projected_paid_usd": 0.0016518,
+    "usage": {
+      "promptTokenCount": 2231,
+      "candidatesTokenCount": 393,
+      "totalTokenCount": 2624,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2231
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "f38861f65f512b83d59369279694cd1e3eae88d7402a561e23959006ffef2998"
+  },
+  {
+    "case_id": "2025-26-deduction-boundary-nps_80ccd_1b-50000--1",
+    "actual": {
+      "old": 371980,
+      "new": 273000
+    },
+    "expected": {
+      "old": 397800,
+      "new": 192400
+    },
+    "exact": false,
+    "latency_seconds": 38.907132100022864,
+    "projected_paid_usd": 0.001524,
+    "usage": {
+      "promptTokenCount": 2230,
+      "candidatesTokenCount": 342,
+      "totalTokenCount": 2572,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2230
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "ffb4d81f811a221e200d4d2a8d2ade8c17c8ba010ed421e64043017ce12a7292"
+  },
+  {
+    "case_id": "2025-26-deduction-boundary-nps_80ccd_1b-50000-0",
+    "actual": {
+      "old": 377000,
+      "new": 247000
+    },
+    "expected": {
+      "old": 397800,
+      "new": 192400
+    },
+    "exact": false,
+    "latency_seconds": 27.272024500009138,
+    "projected_paid_usd": 0.001389,
+    "usage": {
+      "promptTokenCount": 2230,
+      "candidatesTokenCount": 288,
+      "totalTokenCount": 2518,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2230
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "b06335c8100591ebec7d44b859cd7bbb3b2ec27070f58fc8d4c24a93ce76833b"
+  },
+  {
+    "case_id": "2025-26-deduction-boundary-nps_80ccd_1b-50000-1",
+    "actual": {
+      "old": 372320,
+      "new": 273000
+    },
+    "expected": {
+      "old": 397800,
+      "new": 192400
+    },
+    "exact": false,
+    "latency_seconds": 6.749162599968258,
+    "projected_paid_usd": 0.0014865,
+    "usage": {
+      "promptTokenCount": 2230,
+      "candidatesTokenCount": 327,
+      "totalTokenCount": 2557,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2230
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "e2276455349a1ee141f1eedbddddbffc1721fa2d42249eba4137d054044e1647"
+  },
+  {
+    "case_id": "2025-26-deduction-boundary-health_self-25000--1",
+    "actual": {
+      "old": 349440,
+      "new": 273000
+    },
+    "expected": {
+      "old": 405600,
+      "new": 192400
+    },
+    "exact": false,
+    "latency_seconds": 6.886899800039828,
+    "projected_paid_usd": 0.001699,
+    "usage": {
+      "promptTokenCount": 2230,
+      "candidatesTokenCount": 412,
+      "totalTokenCount": 2642,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2230
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "aa70ce362d14362031863e84ddb5eda12a1457e6f26a67140ff5d53642ae4422"
+  },
+  {
+    "case_id": "2025-26-deduction-boundary-health_self-25000-0",
+    "actual": {
+      "old": 403880,
+      "new": 270400
+    },
+    "expected": {
+      "old": 405600,
+      "new": 192400
+    },
+    "exact": false,
+    "latency_seconds": 2.6815102000255138,
+    "projected_paid_usd": 0.001679,
+    "usage": {
+      "promptTokenCount": 2230,
+      "candidatesTokenCount": 404,
+      "totalTokenCount": 2634,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2230
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "81eef4f27d7f76a5b0baf32a9cec0dbec146d75455e2d388ea89b7ddbee1fb91"
+  },
+  {
+    "case_id": "2025-26-deduction-boundary-health_self-25000-1",
+    "actual": {
+      "old": 401440,
+      "new": 273000
+    },
+    "expected": {
+      "old": 405600,
+      "new": 192400
+    },
+    "exact": false,
+    "latency_seconds": 7.229495499981567,
+    "projected_paid_usd": 0.001749,
+    "usage": {
+      "promptTokenCount": 2230,
+      "candidatesTokenCount": 432,
+      "totalTokenCount": 2662,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2230
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "e7d58a82d488a00b0c63cbff4e7a6a7d66cb695c3941302670f3cf017030d481"
+  },
+  {
+    "case_id": "2025-26-deduction-boundary-health_parents-25000--1",
+    "actual": {
+      "old": 371880,
+      "new": 273000
+    },
+    "expected": {
+      "old": 405600,
+      "new": 192400
+    },
+    "exact": false,
+    "latency_seconds": 7.0669063000241295,
+    "projected_paid_usd": 0.001724,
+    "usage": {
+      "promptTokenCount": 2230,
+      "candidatesTokenCount": 422,
+      "totalTokenCount": 2652,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2230
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "bd90fad0e91f0510c3530cc59a87e1f7092093c423cd00787032c155bedc83fd"
+  },
+  {
+    "case_id": "2025-26-deduction-boundary-health_parents-25000-0",
+    "actual": {
+      "old": 372320,
+      "new": 312000
+    },
+    "expected": {
+      "old": 405600,
+      "new": 192400
+    },
+    "exact": false,
+    "latency_seconds": 6.976309999998193,
+    "projected_paid_usd": 0.001554,
+    "usage": {
+      "promptTokenCount": 2230,
+      "candidatesTokenCount": 354,
+      "totalTokenCount": 2584,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2230
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "a410a1660a2395e0e2a8c4fa96758d74fe147c331a69d02650f6df173b51a825"
+  },
+  {
+    "case_id": "2025-26-deduction-boundary-health_parents-25000-1",
+    "actual": {
+      "old": 372190,
+      "new": 312000
+    },
+    "expected": {
+      "old": 405600,
+      "new": 192400
+    },
+    "exact": false,
+    "latency_seconds": 26.91352519998327,
+    "projected_paid_usd": 0.001589,
+    "usage": {
+      "promptTokenCount": 2230,
+      "candidatesTokenCount": 368,
+      "totalTokenCount": 2598,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2230
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "d430022a13c5d15e24a830ddd7811f7e7bb436684b23860bf6a8f8e5d9edb42d"
+  },
+  {
+    "case_id": "2025-26-deduction-boundary-health_parents-50000--1",
+    "actual": {
+      "old": 403810,
+      "new": 273000
+    },
+    "expected": {
+      "old": 397800,
+      "new": 192400
+    },
+    "exact": false,
+    "latency_seconds": 2.6857828000211157,
+    "projected_paid_usd": 0.0022815,
+    "usage": {
+      "promptTokenCount": 2230,
+      "candidatesTokenCount": 645,
+      "totalTokenCount": 2875,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2230
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "c011390c169a966f387f246ac1bf78baf31837a60e13759d7fb4c1cb0cf28a7c"
+  },
+  {
+    "case_id": "2025-26-deduction-boundary-health_parents-50000-0",
+    "actual": {
+      "old": 371930,
+      "new": 312000
+    },
+    "expected": {
+      "old": 397800,
+      "new": 192400
+    },
+    "exact": false,
+    "latency_seconds": 7.439641900011338,
+    "projected_paid_usd": 0.0016515,
+    "usage": {
+      "promptTokenCount": 2230,
+      "candidatesTokenCount": 393,
+      "totalTokenCount": 2623,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2230
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "438b9b18e4428ad18748d02dca4b8a62a992afbc5ee02d90333d1dd597bd4336"
+  },
+  {
+    "case_id": "2025-26-deduction-boundary-health_parents-50000-1",
+    "actual": {
+      "old": 403880,
+      "new": 273000
+    },
+    "expected": {
+      "old": 397800,
+      "new": 192400
+    },
+    "exact": false,
+    "latency_seconds": 30.628271499997936,
+    "projected_paid_usd": 0.0015465,
+    "usage": {
+      "promptTokenCount": 2230,
+      "candidatesTokenCount": 351,
+      "totalTokenCount": 2581,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2230
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "73eca450c7930523ad25a359406bc3767b260c17350c64ea39a43d68919a78a9"
+  },
+  {
+    "case_id": "2025-26-deduction-boundary-checkup_self-5000--1",
+    "actual": {
+      "old": 374400,
+      "new": 273000
+    },
+    "expected": {
+      "old": 411840,
+      "new": 192400
+    },
+    "exact": false,
+    "latency_seconds": 24.784751900006086,
+    "projected_paid_usd": 0.0016461999999999998,
+    "usage": {
+      "promptTokenCount": 2229,
+      "candidatesTokenCount": 391,
+      "totalTokenCount": 2620,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2229
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "fc40a50bc1683ba74ffa0034f44197ba1dff6251181813162c90493362ddb1bd"
+  },
+  {
+    "case_id": "2025-26-deduction-boundary-checkup_self-5000-0",
+    "actual": {
+      "old": 371800,
+      "new": 273000
+    },
+    "expected": {
+      "old": 411840,
+      "new": 192400
+    },
+    "exact": false,
+    "latency_seconds": 25.19503750000149,
+    "projected_paid_usd": 0.0016161999999999997,
+    "usage": {
+      "promptTokenCount": 2229,
+      "candidatesTokenCount": 379,
+      "totalTokenCount": 2608,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2229
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "6a89e271fdffb824dab378ef96b18aad3ca3338eae08cc91078abcaa731b3ee3"
+  },
+  {
+    "case_id": "2025-26-deduction-boundary-checkup_self-5000-1",
+    "actual": {
+      "old": 372430,
+      "new": 273000
+    },
+    "expected": {
+      "old": 411840,
+      "new": 192400
+    },
+    "exact": false,
+    "latency_seconds": 21.215528599976096,
+    "projected_paid_usd": 0.0017361999999999998,
+    "usage": {
+      "promptTokenCount": 2229,
+      "candidatesTokenCount": 427,
+      "totalTokenCount": 2656,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2229
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "0570701afbb571bc7042252e82a7a573b9c6adde454ac6c911bbabca6744cd1e"
+  },
+  {
+    "case_id": "2025-26-deduction-boundary-home_interest-200000--1",
+    "actual": {
+      "old": 322140,
+      "new": 273000
+    },
+    "expected": {
+      "old": 351000,
+      "new": 192400
+    },
+    "exact": false,
+    "latency_seconds": 20.612866200041026,
+    "projected_paid_usd": 0.0017993,
+    "usage": {
+      "promptTokenCount": 2231,
+      "candidatesTokenCount": 452,
+      "totalTokenCount": 2683,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2231
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "5163c6179d123895c83f13daa4ba7a1fcc9bb5649c928de038b96ae3d5beb22e"
+  },
+  {
+    "case_id": "2025-26-deduction-boundary-home_interest-200000-0",
+    "actual": {
+      "old": 371790,
+      "new": 273000
+    },
+    "expected": {
+      "old": 351000,
+      "new": 192400
+    },
+    "exact": false,
+    "latency_seconds": 6.404179600009229,
+    "projected_paid_usd": 0.0014443,
+    "usage": {
+      "promptTokenCount": 2231,
+      "candidatesTokenCount": 310,
+      "totalTokenCount": 2541,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2231
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "79445e5ec0d61da09b23cd0e10f7e6d0b621cc5421a8c491e6369cd318e4572c"
+  },
+  {
+    "case_id": "2025-26-deduction-boundary-home_interest-200000-1",
+    "actual": {
+      "old": 372480,
+      "new": 273000
+    },
+    "expected": {
+      "old": 351000,
+      "new": 192400
+    },
+    "exact": false,
+    "latency_seconds": 21.628633600019384,
+    "projected_paid_usd": 0.0014093,
+    "usage": {
+      "promptTokenCount": 2231,
+      "candidatesTokenCount": 296,
+      "totalTokenCount": 2527,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2231
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "4674b35235247d5dcec10dc49c99b7c60cc60c99600b26a658eb36ad910eacfd"
+  },
+  {
+    "case_id": "2025-26-deduction-boundary-home_interest-30000--1",
+    "actual": {
+      "old": 372410,
+      "new": 273000
+    },
+    "expected": {
+      "old": 404040,
+      "new": 192400
+    },
+    "exact": false,
+    "latency_seconds": 6.3604067999986,
+    "projected_paid_usd": 0.001639,
+    "usage": {
+      "promptTokenCount": 2230,
+      "candidatesTokenCount": 388,
+      "totalTokenCount": 2618,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2230
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "1b4428806f6075650a115df9f5e4987a8c9ddc0eb0ee1681d4ad229c7e5626a5"
+  },
+  {
+    "case_id": "2025-26-deduction-boundary-home_interest-30000-0",
+    "actual": {
+      "old": 372190,
+      "new": 218400
+    },
+    "expected": {
+      "old": 404040,
+      "new": 192400
+    },
+    "exact": false,
+    "latency_seconds": 2.715083799965214,
+    "projected_paid_usd": 0.0016465,
+    "usage": {
+      "promptTokenCount": 2230,
+      "candidatesTokenCount": 391,
+      "totalTokenCount": 2621,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2230
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "04cff3bfbe0027ab28cfc56eb1f64086a713255fc61d48fa6fd2d5d268d5336d"
+  },
+  {
+    "case_id": "2025-26-deduction-boundary-home_interest-30000-1",
+    "actual": {
+      "old": 371940,
+      "new": 270400
+    },
+    "expected": {
+      "old": 404040,
+      "new": 192400
+    },
+    "exact": false,
+    "latency_seconds": 6.45647520001512,
+    "projected_paid_usd": 0.001819,
+    "usage": {
+      "promptTokenCount": 2230,
+      "candidatesTokenCount": 460,
+      "totalTokenCount": 2690,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2230
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "48a829e1082a2f04ac56fb94c0a604f6afe8d11ed32ffc4d0b67acce045a9952"
+  },
+  {
+    "case_id": "2025-26-age35-residentFalse-50050005",
+    "actual": {
+      "old": 16401490,
+      "new": 15003010
+    },
+    "expected": {
+      "old": 19256260,
+      "new": 18944250
+    },
+    "exact": false,
+    "latency_seconds": 20.74228150001727,
+    "projected_paid_usd": 0.0013631,
+    "usage": {
+      "promptTokenCount": 2227,
+      "candidatesTokenCount": 278,
+      "totalTokenCount": 2505,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2227
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "2666e12d551c519d153c57ace2043739157bdaba15b8f4cc23b433603850e5ba"
+  },
+  {
+    "case_id": "2025-26-age35-residentFalse-10050005",
+    "actual": {
+      "old": 4323210,
+      "new": 3224320
+    },
+    "expected": {
+      "old": 3217510,
+      "new": 2942940
+    },
+    "exact": false,
+    "latency_seconds": 14.226375300029758,
+    "projected_paid_usd": 0.0015106,
+    "usage": {
+      "promptTokenCount": 2227,
+      "candidatesTokenCount": 337,
+      "totalTokenCount": 2564,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2227
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "030b34954328a696d2af1df955156e4ce4d64c2d777d3abcbb770b99323ce78d"
+  },
+  {
+    "case_id": "2025-26-age59-residentTrue-50050005",
+    "actual": {
+      "old": 16900250,
+      "new": 14197580
+    },
+    "expected": {
+      "old": 19256260,
+      "new": 18944250
+    },
+    "exact": false,
+    "latency_seconds": 2.146185500023421,
+    "projected_paid_usd": 0.0014156,
+    "usage": {
+      "promptTokenCount": 2227,
+      "candidatesTokenCount": 299,
+      "totalTokenCount": 2526,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2227
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "05b629716670bd53f8f97f1065dc9d398aa271824709c4471329bb0c517bfe66"
+  },
+  {
+    "case_id": "2025-26-age59-residentTrue-775005",
+    "actual": {
+      "old": 45340,
+      "new": 19500
+    },
+    "expected": {
+      "old": 59800,
+      "new": 0
+    },
+    "exact": false,
+    "latency_seconds": 3.9199438999639824,
+    "projected_paid_usd": 0.0023775,
+    "usage": {
+      "promptTokenCount": 2225,
+      "candidatesTokenCount": 684,
+      "totalTokenCount": 2909,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2225
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "a23f88760d4b51bb02e52c5f4fc37468700169ca66adb7cb599bfb28a7e78010"
+  },
+  {
+    "case_id": "2025-26-age60-residentTrue-5050005",
+    "actual": {
+      "old": 1475760,
+      "new": 1380600
+    },
+    "expected": {
+      "old": 1362410,
+      "new": 1115400
+    },
+    "exact": false,
+    "latency_seconds": 21.283576000016183,
+    "projected_paid_usd": 0.0026203000000000003,
+    "usage": {
+      "promptTokenCount": 2226,
+      "candidatesTokenCount": 781,
+      "totalTokenCount": 3007,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2226
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "6d6dc5099b3304d10ada186421912cd13cf6ed5f8b08856b67bd34b064655a5f"
+  },
+  {
+    "case_id": "2025-26-age60-residentTrue-10050005",
+    "actual": {
+      "old": 4443900,
+      "new": 2736460
+    },
+    "expected": {
+      "old": 3214650,
+      "new": 2942940
+    },
+    "exact": false,
+    "latency_seconds": 2.787112799996976,
+    "projected_paid_usd": 0.0014781,
+    "usage": {
+      "promptTokenCount": 2227,
+      "candidatesTokenCount": 324,
+      "totalTokenCount": 2551,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2227
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "d5d8b0fa6ce7ccc2d9ca31001700a7e139c7c14258823e62405016e23389f042"
+  },
+  {
+    "case_id": "2025-26-age79-residentTrue-50050005",
+    "actual": {
+      "old": 18274710,
+      "new": 14217150
+    },
+    "expected": {
+      "old": 19253010,
+      "new": 18944250
+    },
+    "exact": false,
+    "latency_seconds": 4.003547300002538,
+    "projected_paid_usd": 0.0025406,
+    "usage": {
+      "promptTokenCount": 2227,
+      "candidatesTokenCount": 749,
+      "totalTokenCount": 2976,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2227
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "41bfe60055d0c828440e2bb14dce777e0e690606cedddf2416cb6db95246a039"
+  },
+  {
+    "case_id": "2025-26-age79-residentTrue-1275005",
+    "actual": {
+      "old": 194910,
+      "new": 93600
+    },
+    "expected": {
+      "old": 184600,
+      "new": 10
+    },
+    "exact": false,
+    "latency_seconds": 23.018038399983197,
+    "projected_paid_usd": 0.0038728,
+    "usage": {
+      "promptTokenCount": 2226,
+      "candidatesTokenCount": 1282,
+      "totalTokenCount": 3508,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2226
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "c3f4b58b395681055c54fdb88d24310c24f848e0c0bbf89e1fa7c9d00676ef8b"
+  },
+  {
+    "case_id": "2025-26-age80-residentFalse-550000",
+    "actual": {
+      "old": 10400,
+      "new": 12380
+    },
+    "expected": {
+      "old": 13000,
+      "new": 3900
+    },
+    "exact": false,
+    "latency_seconds": 4.994591100024991,
+    "projected_paid_usd": 0.00185,
+    "usage": {
+      "promptTokenCount": 2225,
+      "candidatesTokenCount": 473,
+      "totalTokenCount": 2698,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2225
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "b331ee41eae7a649613667b7c9789c7218f8fd2c5cae56c498bd628cac3c79de"
+  },
+  {
+    "case_id": "2025-26-age80-residentFalse-10050005",
+    "actual": {
+      "old": 4547960,
+      "new": 3719810
+    },
+    "expected": {
+      "old": 3217510,
+      "new": 2942940
+    },
+    "exact": false,
+    "latency_seconds": 2.9247235999791883,
+    "projected_paid_usd": 0.0018631,
+    "usage": {
+      "promptTokenCount": 2227,
+      "candidatesTokenCount": 478,
+      "totalTokenCount": 2705,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2227
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "e24d4c027f9b4a37fb7363d5c07043ab28041d501766b6f4f944188c6b6dda50"
+  },
+  {
+    "case_id": "2025-26-age80-residentTrue-300000",
+    "actual": {
+      "old": 0,
+      "new": 0
+    },
+    "expected": {
+      "old": 0,
+      "new": 0
+    },
+    "exact": true,
+    "latency_seconds": 2.6891695000231266,
+    "projected_paid_usd": 0.001275,
+    "usage": {
+      "promptTokenCount": 2225,
+      "candidatesTokenCount": 243,
+      "totalTokenCount": 2468,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2225
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "c66f7e030fc06ee31dd2ecf0467daa81439ac42c77114e0f66f6e6b53ece5a78"
+  },
+  {
+    "case_id": "2025-26-age80-residentTrue-775005",
+    "actual": {
+      "old": 37960,
+      "new": 18200
+    },
+    "expected": {
+      "old": 46800,
+      "new": 0
+    },
+    "exact": false,
+    "latency_seconds": 67.54685779998545,
+    "projected_paid_usd": 0.0024525,
+    "usage": {
+      "promptTokenCount": 2225,
+      "candidatesTokenCount": 714,
+      "totalTokenCount": 2939,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2225
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "940513466ebec2110613e0a6f88b91af416750a68f0a5f03f83d3497f529de36"
+  },
+  {
+    "case_id": "2025-26-salary-300000",
+    "actual": {
+      "old": 0,
+      "new": 0
+    },
+    "expected": {
+      "old": 0,
+      "new": 0
+    },
+    "exact": true,
+    "latency_seconds": 8.093148300016765,
+    "projected_paid_usd": 0.0012325,
+    "usage": {
+      "promptTokenCount": 2225,
+      "candidatesTokenCount": 226,
+      "totalTokenCount": 2451,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2225
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "16da669eb4d7cb278838074fc3174a2b004b20ead968aa4a51c5c08e0e12a5ee"
+  },
+  {
+    "case_id": "2025-26-salary-300005",
+    "actual": {
+      "old": 0,
+      "new": 0
+    },
+    "expected": {
+      "old": 0,
+      "new": 0
+    },
+    "exact": true,
+    "latency_seconds": 26.128312599961646,
+    "projected_paid_usd": 0.001425,
+    "usage": {
+      "promptTokenCount": 2225,
+      "candidatesTokenCount": 303,
+      "totalTokenCount": 2528,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2225
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "953d6cbdf6816cbd3e643be33917d9b9770a74c8aa68bfd36733f2113c57cd73"
+  },
+  {
+    "case_id": "2025-26-salary-550000",
+    "actual": {
+      "old": 10400,
+      "new": 0
+    },
+    "expected": {
+      "old": 0,
+      "new": 0
+    },
+    "exact": false,
+    "latency_seconds": 7.458588499983307,
+    "projected_paid_usd": 0.0020125,
+    "usage": {
+      "promptTokenCount": 2225,
+      "candidatesTokenCount": 538,
+      "totalTokenCount": 2763,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2225
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "375afbe1250935a104d68a5ebe1582db04e0351fd5e8cdb4eb248467a50d119a"
+  },
+  {
+    "case_id": "2025-26-salary-550005",
+    "actual": {
+      "old": 7800,
+      "new": 0
+    },
+    "expected": {
+      "old": 13000,
+      "new": 0
+    },
+    "exact": false,
+    "latency_seconds": 20.212680299999192,
+    "projected_paid_usd": 0.00145,
+    "usage": {
+      "promptTokenCount": 2225,
+      "candidatesTokenCount": 313,
+      "totalTokenCount": 2538,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2225
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "a9b7d78a4a9fec6a1fe71441e2137a726f838f40865e20a48e679f52b9f71228"
+  },
+  {
+    "case_id": "2025-26-salary-1050000",
+    "actual": {
+      "old": 78000,
+      "new": 46800
+    },
+    "expected": {
+      "old": 117000,
+      "new": 0
+    },
+    "exact": false,
+    "latency_seconds": 2.492297100019641,
+    "projected_paid_usd": 0.0013453,
+    "usage": {
+      "promptTokenCount": 2226,
+      "candidatesTokenCount": 271,
+      "totalTokenCount": 2497,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2226
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "2a09efaa601a06da4ab388b537a653fcd8f66d54043df5a4f984195f62955499"
+  },
+  {
+    "case_id": "2025-26-salary-1050005",
+    "actual": {
+      "old": 113310,
+      "new": 46800
+    },
+    "expected": {
+      "old": 117000,
+      "new": 0
+    },
+    "exact": false,
+    "latency_seconds": 8.385829099977855,
+    "projected_paid_usd": 0.0026103000000000003,
+    "usage": {
+      "promptTokenCount": 2226,
+      "candidatesTokenCount": 777,
+      "totalTokenCount": 3003,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2226
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "ae4905c673079d4b1de22c4599656588b493ebac147ef7d29948c3741cf5e151"
+  },
+  {
+    "case_id": "2025-26-salary-5050000",
+    "actual": {
+      "old": 1546760,
+      "new": 1421680
+    },
+    "expected": {
+      "old": 1365000,
+      "new": 1115400
+    },
+    "exact": false,
+    "latency_seconds": 3.0791473999852315,
+    "projected_paid_usd": 0.0015378,
+    "usage": {
+      "promptTokenCount": 2226,
+      "candidatesTokenCount": 348,
+      "totalTokenCount": 2574,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2226
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "e0bd2afcaa3fbb92dc12f2116d773a2e6e84fbf3c5d3ecb8f14a60cbbb0362fb"
+  },
+  {
+    "case_id": "2025-26-salary-5050005",
+    "actual": {
+      "old": 1690020,
+      "new": 1419750
+    },
+    "expected": {
+      "old": 1365010,
+      "new": 1115400
+    },
+    "exact": false,
+    "latency_seconds": 9.037370899983216,
+    "projected_paid_usd": 0.0018103,
+    "usage": {
+      "promptTokenCount": 2226,
+      "candidatesTokenCount": 457,
+      "totalTokenCount": 2683,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2226
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "a8de480528b07c4e69c03de195a5f10aee0330841ff5e07bd0e23689823fc8f4"
+  },
+  {
+    "case_id": "2025-26-salary-10050000",
+    "actual": {
+      "old": 4768320,
+      "new": 4515200
+    },
+    "expected": {
+      "old": 3217500,
+      "new": 2942940
+    },
+    "exact": false,
+    "latency_seconds": 7.193666899984237,
+    "projected_paid_usd": 0.0015056,
+    "usage": {
+      "promptTokenCount": 2227,
+      "candidatesTokenCount": 335,
+      "totalTokenCount": 2562,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2227
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "91c84c98bec7d35ea024f2a3f92d02310068059e802584c2c63d8d1385d3aac4"
+  },
+  {
+    "case_id": "2025-26-salary-10050005",
+    "actual": {
+      "old": 4353450,
+      "new": 3288210
+    },
+    "expected": {
+      "old": 3217510,
+      "new": 2942940
+    },
+    "exact": false,
+    "latency_seconds": 2.912079999980051,
+    "projected_paid_usd": 0.0016580999999999998,
+    "usage": {
+      "promptTokenCount": 2227,
+      "candidatesTokenCount": 396,
+      "totalTokenCount": 2623,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2227
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "52ca9932f5261666faaa14cc3c329ff913d38d3315afdc3b3338bfc7763d4e29"
+  },
+  {
+    "case_id": "2025-26-salary-20050000",
+    "actual": {
+      "old": 6890310,
+      "new": 4810000
+    },
+    "expected": {
+      "old": 6951750,
+      "new": 6664710
+    },
+    "exact": false,
+    "latency_seconds": 2.8869054000242613,
+    "projected_paid_usd": 0.0015730999999999998,
+    "usage": {
+      "promptTokenCount": 2227,
+      "candidatesTokenCount": 362,
+      "totalTokenCount": 2589,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2227
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "a23d06d366074514e3bc1cf10940e6ba71bafb10f6cb5530f5e31e1a076f2991"
+  },
+  {
+    "case_id": "2025-26-salary-20050005",
+    "actual": {
+      "old": 5937100,
+      "new": 4547900
+    },
+    "expected": {
+      "old": 6951760,
+      "new": 6664710
+    },
+    "exact": false,
+    "latency_seconds": 2.0214262999943458,
+    "projected_paid_usd": 0.0012981,
+    "usage": {
+      "promptTokenCount": 2227,
+      "candidatesTokenCount": 252,
+      "totalTokenCount": 2479,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2227
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "a5ef456466236eb061e6eca1a2076d57d65559794e5cd8ca5267b5f774a19232"
+  },
+  {
+    "case_id": "2025-26-salary-50050000",
+    "actual": {
+      "old": 19445160,
+      "new": 14032500
+    },
+    "expected": {
+      "old": 19256250,
+      "new": 18944250
+    },
+    "exact": false,
+    "latency_seconds": 21.54022789996816,
+    "projected_paid_usd": 0.0021081,
+    "usage": {
+      "promptTokenCount": 2227,
+      "candidatesTokenCount": 576,
+      "totalTokenCount": 2803,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2227
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "ff0492b795fb0ae5d2c1fe1446bd7013b786bf2095f3e96feca95bf77363058b"
+  },
+  {
+    "case_id": "2025-26-salary-50050005",
+    "actual": {
+      "old": 18274710,
+      "new": 14197500
+    },
+    "expected": {
+      "old": 19256260,
+      "new": 18944250
+    },
+    "exact": false,
+    "latency_seconds": 2.143284499994479,
+    "projected_paid_usd": 0.0014330999999999999,
+    "usage": {
+      "promptTokenCount": 2227,
+      "candidatesTokenCount": 306,
+      "totalTokenCount": 2533,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2227
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "95a95ad51cfac929bf3a80923df68ea6d17bebe1686816b89ad21cb5f6c1d6a2"
+  },
+  {
+    "case_id": "2025-26-salary-475000",
+    "actual": {
+      "old": 0,
+      "new": 0
+    },
+    "expected": {
+      "old": 0,
+      "new": 0
+    },
+    "exact": true,
+    "latency_seconds": 3.4742069000494666,
+    "projected_paid_usd": 0.001325,
+    "usage": {
+      "promptTokenCount": 2225,
+      "candidatesTokenCount": 263,
+      "totalTokenCount": 2488,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2225
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "c3cd10226d522fe0f5dca9adad649a086636fb328cee801d43e1bd4c555d520e"
+  },
+  {
+    "case_id": "2025-26-salary-475005",
+    "actual": {
+      "old": 0,
+      "new": 0
+    },
+    "expected": {
+      "old": 0,
+      "new": 0
+    },
+    "exact": true,
+    "latency_seconds": 3.2466998000163585,
+    "projected_paid_usd": 0.00161,
+    "usage": {
+      "promptTokenCount": 2225,
+      "candidatesTokenCount": 377,
+      "totalTokenCount": 2602,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2225
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "87368d2f0e361d35a461b7760a110e164a648f9456451bd776f45228f7ba4be3"
+  },
+  {
+    "case_id": "2025-26-salary-875000",
+    "actual": {
+      "old": 78000,
+      "new": 21840
+    },
+    "expected": {
+      "old": 80600,
+      "new": 0
+    },
+    "exact": false,
+    "latency_seconds": 2.954965299984906,
+    "projected_paid_usd": 0.0019225,
+    "usage": {
+      "promptTokenCount": 2225,
+      "candidatesTokenCount": 502,
+      "totalTokenCount": 2727,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2225
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "8ea12dec9411967ad1f7ecaf76e45f5158bdf527192afb011b644e94bcdfd18f"
+  },
+  {
+    "case_id": "2025-26-salary-875005",
+    "actual": {
+      "old": 80250,
+      "new": 37910
+    },
+    "expected": {
+      "old": 80600,
+      "new": 0
+    },
+    "exact": false,
+    "latency_seconds": 4.254799899994396,
+    "projected_paid_usd": 0.0024075,
+    "usage": {
+      "promptTokenCount": 2225,
+      "candidatesTokenCount": 696,
+      "totalTokenCount": 2921,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2225
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "0975780b680d160f419d646a70e65e9b1ead5e600fc89a451ff4800f93cffc7d"
+  },
+  {
+    "case_id": "2025-26-salary-1275000",
+    "actual": {
+      "old": 182000,
+      "new": 93600
+    },
+    "expected": {
+      "old": 187200,
+      "new": 0
+    },
+    "exact": false,
+    "latency_seconds": 45.43024690001039,
+    "projected_paid_usd": 0.0026278,
+    "usage": {
+      "promptTokenCount": 2226,
+      "candidatesTokenCount": 784,
+      "totalTokenCount": 3010,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2226
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "23aa75c12aac0b3a493fecee7053218b96fe91e6389bf822987400be03373e7e"
+  },
+  {
+    "case_id": "2025-26-salary-1275005",
+    "actual": {
+      "old": 189540,
+      "new": 93600
+    },
+    "expected": {
+      "old": 187200,
+      "new": 10
+    },
+    "exact": false,
+    "latency_seconds": 21.584695800032932,
+    "projected_paid_usd": 0.0015803,
+    "usage": {
+      "promptTokenCount": 2226,
+      "candidatesTokenCount": 365,
+      "totalTokenCount": 2591,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2226
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "7f42b40feb7ad2ef245da089618a8cb3fd2f92c6bd03b38168ec39d07ba3dfb1"
+  },
+  {
+    "case_id": "2025-26-salary-1675000",
+    "actual": {
+      "old": 274300,
+      "new": 174200
+    },
+    "expected": {
+      "old": 312000,
+      "new": 124800
+    },
+    "exact": false,
+    "latency_seconds": 21.139265900012106,
+    "projected_paid_usd": 0.0016252999999999999,
+    "usage": {
+      "promptTokenCount": 2226,
+      "candidatesTokenCount": 383,
+      "totalTokenCount": 2609,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2226
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "7b041e054fcfbc00c6206cd97434d4d9ebe1f6b5f8f34aed66a196c237f28904"
+  },
+  {
+    "case_id": "2025-26-salary-1675005",
+    "actual": {
+      "old": 273610,
+      "new": 169000
+    },
+    "expected": {
+      "old": 312000,
+      "new": 124800
+    },
+    "exact": false,
+    "latency_seconds": 3.025506599980872,
+    "projected_paid_usd": 0.0016078,
+    "usage": {
+      "promptTokenCount": 2226,
+      "candidatesTokenCount": 376,
+      "totalTokenCount": 2602,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2226
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "36952513226417355cc98266f24dd22c3271eb187653d174ca504867081ccfbb"
+  },
+  {
+    "case_id": "2025-26-salary-2075000",
+    "actual": {
+      "old": 403000,
+      "new": 322400
+    },
+    "expected": {
+      "old": 436800,
+      "new": 208000
+    },
+    "exact": false,
+    "latency_seconds": 4.70087360002799,
+    "projected_paid_usd": 0.0031228000000000002,
+    "usage": {
+      "promptTokenCount": 2226,
+      "candidatesTokenCount": 982,
+      "totalTokenCount": 3208,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2226
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "fde550744b5edb9e7c2e21f30022169fc6da206be6b275492dd1cc53ad2f9068"
+  },
+  {
+    "case_id": "2025-26-salary-2075005",
+    "actual": {
+      "old": 401660,
+      "new": 312000
+    },
+    "expected": {
+      "old": 436800,
+      "new": 208000
+    },
+    "exact": false,
+    "latency_seconds": 3.0916672000312246,
+    "projected_paid_usd": 0.0017278,
+    "usage": {
+      "promptTokenCount": 2226,
+      "candidatesTokenCount": 424,
+      "totalTokenCount": 2650,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2226
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "e51c4afa13d6a301b2276eaa14dbd87f9a54f4ea14f6eacd2161af0f5c83e237"
+  },
+  {
+    "case_id": "2025-26-salary-2475000",
+    "actual": {
+      "old": 542480,
+      "new": 455000
+    },
+    "expected": {
+      "old": 561600,
+      "new": 312000
+    },
+    "exact": false,
+    "latency_seconds": 3.0447770999744534,
+    "projected_paid_usd": 0.0015953,
+    "usage": {
+      "promptTokenCount": 2226,
+      "candidatesTokenCount": 371,
+      "totalTokenCount": 2597,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2226
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "ee29accacc494cf8d38de289003a6c03a08bbb63b6eb979bc364d57f1ec86bf2"
+  },
+  {
+    "case_id": "2025-26-salary-2475005",
+    "actual": {
+      "old": 544070,
+      "new": 473200
+    },
+    "expected": {
+      "old": 561600,
+      "new": 312000
+    },
+    "exact": false,
+    "latency_seconds": 3.1813900000415742,
+    "projected_paid_usd": 0.0021428000000000003,
+    "usage": {
+      "promptTokenCount": 2226,
+      "candidatesTokenCount": 590,
+      "totalTokenCount": 2816,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2226
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "ec3ab7dbba1a9c9afe38c26a469f1b3cf535489199c1908cd48c68bcc263e1d6"
+  },
+  {
+    "case_id": "2025-26-salary-1275010",
+    "actual": {
+      "old": 182780,
+      "new": 91000
+    },
+    "expected": {
+      "old": 187200,
+      "new": 10
+    },
+    "exact": false,
+    "latency_seconds": 10.179037400055677,
+    "projected_paid_usd": 0.0016202999999999999,
+    "usage": {
+      "promptTokenCount": 2226,
+      "candidatesTokenCount": 381,
+      "totalTokenCount": 2607,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2226
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "bb2d11fe0b75fa5824418af9e1f192729631137016177b410d6178e9fe219619"
+  },
+  {
+    "case_id": "2025-26-salary-350010",
+    "actual": {
+      "old": 0,
+      "new": 0
+    },
+    "expected": {
+      "old": 0,
+      "new": 0
+    },
+    "exact": true,
+    "latency_seconds": 45.02227459999267,
+    "projected_paid_usd": 0.00142,
+    "usage": {
+      "promptTokenCount": 2225,
+      "candidatesTokenCount": 301,
+      "totalTokenCount": 2526,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2225
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "4014f53385e52427cf46e44738aa3b0323106e9b70e6a75d15df65ace1e2d4aa"
+  },
+  {
+    "case_id": "2025-26-salary-375005",
+    "actual": {
+      "old": 0,
+      "new": 0
+    },
+    "expected": {
+      "old": 0,
+      "new": 0
+    },
+    "exact": true,
+    "latency_seconds": 2.8334343999740668,
+    "projected_paid_usd": 0.00134,
+    "usage": {
+      "promptTokenCount": 2225,
+      "candidatesTokenCount": 269,
+      "totalTokenCount": 2494,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2225
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "4da08e62551796d29ecd6981f1fd79f39faa0e82868d6a7b088b50905403beda"
+  },
+  {
+    "case_id": "2025-26-salary-797231",
+    "actual": {
+      "old": 47250,
+      "new": 21110
+    },
+    "expected": {
+      "old": 64420,
+      "new": 0
+    },
+    "exact": false,
+    "latency_seconds": 7.1257884000078775,
+    "projected_paid_usd": 0.0023025,
+    "usage": {
+      "promptTokenCount": 2225,
+      "candidatesTokenCount": 654,
+      "totalTokenCount": 2879,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2225
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "b0903bf8a318c2b4fffd408f8b3298f39322c39073fe6288327c76c519b63427"
+  },
+  {
+    "case_id": "2025-26-salary-549995",
+    "actual": {
+      "old": 10920,
+      "new": 0
+    },
+    "expected": {
+      "old": 0,
+      "new": 0
+    },
+    "exact": false,
+    "latency_seconds": 40.10236509999959,
+    "projected_paid_usd": 0.0019475,
+    "usage": {
+      "promptTokenCount": 2225,
+      "candidatesTokenCount": 512,
+      "totalTokenCount": 2737,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2225
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "2dda42801ad3f552eab6852acec6435c0c2036cae9a81a55d8747b657b448b1a"
+  },
+  {
+    "case_id": "2025-26-salary-1050004",
+    "actual": {
+      "old": 105050,
+      "new": 46800
+    },
+    "expected": {
+      "old": 117000,
+      "new": 0
+    },
+    "exact": false,
+    "latency_seconds": 23.32851209997898,
+    "projected_paid_usd": 0.0019303,
+    "usage": {
+      "promptTokenCount": 2226,
+      "candidatesTokenCount": 505,
+      "totalTokenCount": 2731,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2226
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "ca9a7c11356aeef9c3758a8f8f890d5c6d1089dadb1c6510de121a6d6da85bfb"
+  },
+  {
+    "case_id": "2025-26-salary-75000",
+    "actual": {
+      "old": 0,
+      "new": 0
+    },
+    "expected": {
+      "old": 0,
+      "new": 0
+    },
+    "exact": true,
+    "latency_seconds": 7.07783979998203,
+    "projected_paid_usd": 0.0011321999999999999,
+    "usage": {
+      "promptTokenCount": 2224,
+      "candidatesTokenCount": 186,
+      "totalTokenCount": 2410,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2224
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "8197c5851ded80890bbebc138379af5f12b5b6c9e0c6d83ed1978abe02d0ad8e"
+  },
+  {
+    "case_id": "2025-26-salary-50050001",
+    "actual": {
+      "old": 16900650,
+      "new": 14930630
+    },
+    "expected": {
+      "old": 19256250,
+      "new": 18944250
+    },
+    "exact": false,
+    "latency_seconds": 2.4976033000275493,
+    "projected_paid_usd": 0.0015481,
+    "usage": {
+      "promptTokenCount": 2227,
+      "candidatesTokenCount": 352,
+      "totalTokenCount": 2579,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2227
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "72b155f3cd7a9b17bca6fc0e2e2d90365750261963e194228319f79108084cdb"
+  },
+  {
+    "case_id": "2025-26-salary-549989",
+    "actual": {
+      "old": 0,
+      "new": 0
+    },
+    "expected": {
+      "old": 0,
+      "new": 0
+    },
+    "exact": true,
+    "latency_seconds": 33.72030620003352,
+    "projected_paid_usd": 0.001365,
+    "usage": {
+      "promptTokenCount": 2225,
+      "candidatesTokenCount": 279,
+      "totalTokenCount": 2504,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2225
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "cfaedcb6f789541cc7076b76ac34249166eefc8c80b949468d7e964f6685c80c"
+  },
+  {
+    "case_id": "2025-26-salary-50049989",
+    "actual": {
+      "old": 19169120,
+      "new": 14216740
+    },
+    "expected": {
+      "old": 19256250,
+      "new": 18944250
+    },
+    "exact": false,
+    "latency_seconds": 2.4689084999845363,
+    "projected_paid_usd": 0.0015631,
+    "usage": {
+      "promptTokenCount": 2227,
+      "candidatesTokenCount": 358,
+      "totalTokenCount": 2585,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2227
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "7053bd45bb7864df956168dbbe569780e2b1d031d2be1172166032561fe3f9a2"
+  },
+  {
+    "case_id": "2025-26-salary-1250004",
+    "actual": {
+      "old": 182700,
+      "new": 78000
+    },
+    "expected": {
+      "old": 179400,
+      "new": 0
+    },
+    "exact": false,
+    "latency_seconds": 15.263068199972622,
+    "projected_paid_usd": 0.0014303,
+    "usage": {
+      "promptTokenCount": 2226,
+      "candidatesTokenCount": 305,
+      "totalTokenCount": 2531,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2226
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "c43b6e53dbbabfcf25ea9391a07d910b2c53b274d5605b11c0147373a212a0d1"
+  },
+  {
+    "case_id": "2025-26-salary-1249995",
+    "actual": {
+      "old": 184510,
+      "new": 88400
+    },
+    "expected": {
+      "old": 179400,
+      "new": 0
+    },
+    "exact": false,
+    "latency_seconds": 3.3006607000133954,
+    "projected_paid_usd": 0.0024528,
+    "usage": {
+      "promptTokenCount": 2226,
+      "candidatesTokenCount": 714,
+      "totalTokenCount": 2940,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2226
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "bb08181335bb5f69c8e55d817db4cecbb90cae263192dba50082ea97a018b438"
+  },
+  {
+    "case_id": "2025-26-salary-549999",
+    "actual": {
+      "old": 12870,
+      "new": 5200
+    },
+    "expected": {
+      "old": 0,
+      "new": 0
+    },
+    "exact": false,
+    "latency_seconds": 2.8490517999744043,
+    "projected_paid_usd": 0.00171,
+    "usage": {
+      "promptTokenCount": 2225,
+      "candidatesTokenCount": 417,
+      "totalTokenCount": 2642,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2225
+        }
+      ],
+      "serviceTier": "standard"
+    },
+    "request_sha256": "492c4380f0361038f151e328d6152d67b11ac81c856517151bc244bfa51838a2"
+  }
+]

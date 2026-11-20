@@ -1,0 +1,1994 @@
+{
+  "methods": {
+    "hand_rules": {
+      "status": "measured",
+      "case_count": 916,
+      "rupee_exact_both_regimes": 1.0,
+      "failures": [],
+      "repeat_count": 10,
+      "cases_with_identical_10_repeats": 916,
+      "latency_ms_median": 0.43759995605796576,
+      "latency_ms_p95": 0.6625999812968075,
+      "measured_calls": 9160,
+      "cpu_seconds": 5.390625,
+      "cpu_scenario_usd_per_1000": 6.538846433770014e-06,
+      "llm_invoice_usd_per_1000": 0,
+      "clause_ledger_fraction": 1.0,
+      "policy_hashes": null,
+      "comparison_cohort_cases": 200,
+      "comparison_cohort_accuracy": 1.0
+    },
+    "compiled_codex": {
+      "status": "measured",
+      "case_count": 916,
+      "rupee_exact_both_regimes": 1.0,
+      "failures": [],
+      "repeat_count": 10,
+      "cases_with_identical_10_repeats": 916,
+      "latency_ms_median": 0.37405002512969077,
+      "latency_ms_p95": 0.6208000122569501,
+      "measured_calls": 9160,
+      "cpu_seconds": 4.671875,
+      "cpu_scenario_usd_per_1000": 5.6670002426006784e-06,
+      "llm_invoice_usd_per_1000": 0,
+      "clause_ledger_fraction": 1.0,
+      "policy_hashes": {
+        "2024-25": "590d8a8eb5220e254224255fa5edbb9d1fd1579ca0f9dd68915163cca0cefdc5",
+        "2025-26": "c5f562010d7215624c4e6b9e0a613a789b153966a3b2add608ddd840b47d2055"
+      },
+      "comparison_cohort_cases": 200,
+      "comparison_cohort_accuracy": 1.0
+    },
+    "llm_query": {
+      "status": "measured",
+      "reason": null,
+      "selected_cases": 200,
+      "measured_cases": 200,
+      "valid_cases": 197,
+      "invalid_cases": 3,
+      "accuracy_including_invalid_outputs": 0.1,
+      "errors": [
+        {
+          "case_id": "2024-25-age60-residentTrue-775005",
+          "error": "Model output old_tax is not a valid rounded nonnegative tax amount",
+          "latency_seconds": 54.36232170002768,
+          "projected_paid_usd": 0.0032965,
+          "request_sha256": "f0e5b354b9c50f1271b31e69a98da8c8ef62e91ca35f8660703d8eb93bed39aa"
+        },
+        {
+          "case_id": "2024-25-age79-residentTrue-5050005",
+          "error": "Model output old_tax is not a valid rounded nonnegative tax amount",
+          "latency_seconds": 28.26649589999579,
+          "projected_paid_usd": 0.0013318,
+          "request_sha256": "3e549011b2c25b907470cfc458d19ee15408d70bb7fb022b29a00a7f664b5652"
+        },
+        {
+          "case_id": "2025-26-salary-772219",
+          "error": "Model output old_tax is not a valid rounded nonnegative tax amount",
+          "latency_seconds": 7.67534280003747,
+          "projected_paid_usd": 0.0027675,
+          "request_sha256": "89161a646e320656d8728318fb7d3c35c8385d3366bccfb01a03a22338482aa2"
+        }
+      ],
+      "latency_ms_median": 10126.696500024991,
+      "paid_usd_per_1000": 1.7322065,
+      "repetitions": [
+        {
+          "case_id": "2025-26-salary-1275010",
+          "old": 184650,
+          "new": 93600,
+          "request_sha256": "39b89b0d1f842a1c1df21ed2bbaf75a89fe931dc3199c13cc03a4a44a8e4e3a8",
+          "latency_seconds": 10.624933999963105
+        },
+        {
+          "case_id": "2025-26-salary-1275010",
+          "old": 194480,
+          "new": 113100,
+          "request_sha256": "b5e64271d18728a7cfb5afc65b67997ecbe86047948563e25439e85d9f7ddd51",
+          "latency_seconds": 8.607619700022042
+        },
+        {
+          "case_id": "2025-26-salary-1275010",
+          "old": 182780,
+          "new": 93600,
+          "request_sha256": "6db9bfd572fdf88dbcbc2ee1092a2911f2adecf5e871a41211950843e5523571",
+          "latency_seconds": 9.808801000006497
+        },
+        {
+          "case_id": "2025-26-salary-1275010",
+          "old": 196880,
+          "new": 93600,
+          "request_sha256": "a5bc327b75f61b4dc326bc18457cdd00f17bf6838cb1f2923f7bdc9923a91d4a",
+          "latency_seconds": 11.701647800044157
+        },
+        {
+          "case_id": "2025-26-salary-1275010",
+          "old": 182700,
+          "new": 83200,
+          "request_sha256": "3f3a48333c59915a16d7f11083bae1466b025b33d45b5e93805c8bebfc1813ff",
+          "latency_seconds": 10.85873979999451
+        },
+        {
+          "case_id": "2025-26-salary-1275010",
+          "old": 196900,
+          "new": 101400,
+          "request_sha256": "ce0d29b3f847bfe132b71ac3282236c63807fe59e48c2ada86b6f98c2084cef5",
+          "latency_seconds": 10.975809099967591
+        },
+        {
+          "case_id": "2025-26-salary-1275010",
+          "old": 182700,
+          "new": 83200,
+          "request_sha256": "119c653ab325b8fce09d8685b32b8ef0700b69abf3b2bc406b706949c063bd53",
+          "latency_seconds": 10.67990860005375
+        },
+        {
+          "case_id": "2025-26-salary-1275010",
+          "old": 184600,
+          "new": 93600,
+          "request_sha256": "9ffa8743a5323bfa448d07bc4dd179c638e6263a2b3c3cf21663fb05f2b6ca21",
+          "latency_seconds": 22.80197239998961
+        },
+        {
+          "case_id": "2025-26-salary-1275010",
+          "old": 191770,
+          "new": 93600,
+          "request_sha256": "172df7d972f28f290fc9972619d9f357bbd9d40635db67dc4dc490a41ea83604",
+          "latency_seconds": 12.080408500041813
+        },
+        {
+          "case_id": "2025-26-salary-1275010",
+          "old": 182780,
+          "new": 98800,
+          "request_sha256": "fcb300d90929d64eae24515d8740f56de038937a1320d152a1708f10646d0704",
+          "latency_seconds": 22.11258249997627
+        }
+      ],
+      "unique_answers_over_10": 9,
+      "rupee_ledger_audit": "Model cites clauses in prose; no guaranteed reconciling ledger or verified clause-level arithmetic"
+    }
+  },
+  "parser": {
+    "total": 50,
+    "correct": 50,
+    "records": [
+      {
+        "case_id": "language-01",
+        "correct": true,
+        "expected_status": "ready",
+        "status": "ready",
+        "fields": {
+          "financial_year": "2024-25",
+          "age": 30,
+          "resident": true,
+          "salary": 1200000
+        },
+        "questions": [],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2024-25",
+            "text": "fy 2024-25"
+          },
+          {
+            "field": "age",
+            "value": 30,
+            "text": "age 30"
+          },
+          {
+            "field": "resident",
+            "value": true,
+            "text": "resident statement"
+          },
+          {
+            "field": "salary",
+            "value": 1200000,
+            "text": "annual salary 12 lakh. fy 2024-25. a"
+          }
+        ]
+      },
+      {
+        "case_id": "language-02",
+        "correct": true,
+        "expected_status": "ready",
+        "status": "ready",
+        "fields": {
+          "financial_year": "2025-26",
+          "age": 28,
+          "resident": true,
+          "salary": 800000
+        },
+        "questions": [],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2025-26",
+            "text": "fy 2025-26"
+          },
+          {
+            "field": "age",
+            "value": 28,
+            "text": "age 28"
+          },
+          {
+            "field": "resident",
+            "value": true,
+            "text": "resident statement"
+          },
+          {
+            "field": "salary",
+            "value": 800000,
+            "text": "meri salary 8 lpa hai, age 28, r"
+          }
+        ]
+      },
+      {
+        "case_id": "language-03",
+        "correct": true,
+        "expected_status": "ready",
+        "status": "ready",
+        "fields": {
+          "financial_year": "2024-25",
+          "age": 40,
+          "resident": true,
+          "salary": 1200000
+        },
+        "questions": [],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2024-25",
+            "text": "fy 2024-25"
+          },
+          {
+            "field": "age",
+            "value": 40,
+            "text": "age 40"
+          },
+          {
+            "field": "resident",
+            "value": true,
+            "text": "resident statement"
+          },
+          {
+            "field": "salary",
+            "value": 1200000,
+            "text": "salary rs 100000 per month. fy 2"
+          }
+        ]
+      },
+      {
+        "case_id": "language-04",
+        "correct": true,
+        "expected_status": "ready",
+        "status": "ready",
+        "fields": {
+          "financial_year": "2025-26",
+          "age": 35,
+          "resident": true,
+          "salary": 1275000
+        },
+        "questions": [],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2025-26",
+            "text": "fy 2025-26"
+          },
+          {
+            "field": "age",
+            "value": 35,
+            "text": "age 35"
+          },
+          {
+            "field": "resident",
+            "value": true,
+            "text": "resident statement"
+          },
+          {
+            "field": "salary",
+            "value": 1275000,
+            "text": "annual gross salary inr 1,275,000; fy 2025-26; a"
+          }
+        ]
+      },
+      {
+        "case_id": "language-05",
+        "correct": true,
+        "expected_status": "ready",
+        "status": "ready",
+        "fields": {
+          "financial_year": "2024-25",
+          "age": 60,
+          "resident": true,
+          "salary": 2000000,
+          "section_80c": 150000
+        },
+        "questions": [],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2024-25",
+            "text": "fy 2024-25"
+          },
+          {
+            "field": "age",
+            "value": 60,
+            "text": "age 60"
+          },
+          {
+            "field": "resident",
+            "value": true,
+            "text": "resident statement"
+          },
+          {
+            "field": "salary",
+            "value": 2000000,
+            "text": "annual salary 20 lakh, age 60, india"
+          },
+          {
+            "field": "section_80c",
+            "value": 150000,
+            "text": "80c 1.5 lakh"
+          }
+        ]
+      },
+      {
+        "case_id": "language-06",
+        "correct": true,
+        "expected_status": "ready",
+        "status": "ready",
+        "fields": {
+          "financial_year": "2025-26",
+          "age": 45,
+          "resident": false,
+          "salary": 1800000
+        },
+        "questions": [],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2025-26",
+            "text": "fy 2025-26"
+          },
+          {
+            "field": "age",
+            "value": 45,
+            "text": "age 45"
+          },
+          {
+            "field": "resident",
+            "value": false,
+            "text": "nonresident statement"
+          },
+          {
+            "field": "salary",
+            "value": 1800000,
+            "text": "salary 18 lpa. age 45. nri. "
+          }
+        ]
+      },
+      {
+        "case_id": "language-07",
+        "correct": true,
+        "expected_status": "ready",
+        "status": "ready",
+        "fields": {
+          "financial_year": "2024-25",
+          "age": 55,
+          "resident": true,
+          "salary": 20000000
+        },
+        "questions": [],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2024-25",
+            "text": "fy 2024-25"
+          },
+          {
+            "field": "age",
+            "value": 55,
+            "text": "age 55"
+          },
+          {
+            "field": "resident",
+            "value": true,
+            "text": "resident statement"
+          },
+          {
+            "field": "salary",
+            "value": 20000000,
+            "text": "annual salary 2 crore, fy 2024-25, a"
+          }
+        ]
+      },
+      {
+        "case_id": "language-08",
+        "correct": true,
+        "expected_status": "ready",
+        "status": "ready",
+        "fields": {
+          "financial_year": "2025-26",
+          "age": 62,
+          "resident": true,
+          "salary": 60000000
+        },
+        "questions": [],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2025-26",
+            "text": "fy 2025-26"
+          },
+          {
+            "field": "age",
+            "value": 62,
+            "text": "age 62"
+          },
+          {
+            "field": "resident",
+            "value": true,
+            "text": "resident statement"
+          },
+          {
+            "field": "salary",
+            "value": 60000000,
+            "text": "annual salary 6 crore; age 62; resid"
+          }
+        ]
+      },
+      {
+        "case_id": "language-09",
+        "correct": true,
+        "expected_status": "ready",
+        "status": "ready",
+        "fields": {
+          "financial_year": "2024-25",
+          "age": 80,
+          "resident": true,
+          "salary": 900000
+        },
+        "questions": [],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2024-25",
+            "text": "fy 2024-25"
+          },
+          {
+            "field": "age",
+            "value": 80,
+            "text": "age 80"
+          },
+          {
+            "field": "resident",
+            "value": true,
+            "text": "resident statement"
+          },
+          {
+            "field": "salary",
+            "value": 900000,
+            "text": "annual salary 9 lakh; age 80; india"
+          }
+        ]
+      },
+      {
+        "case_id": "language-10",
+        "correct": true,
+        "expected_status": "ready",
+        "status": "ready",
+        "fields": {
+          "financial_year": "2024-25",
+          "age": 30,
+          "resident": true,
+          "salary": 0
+        },
+        "questions": [],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2024-25",
+            "text": "fy 2024-25"
+          },
+          {
+            "field": "age",
+            "value": 30,
+            "text": "age 30"
+          },
+          {
+            "field": "resident",
+            "value": true,
+            "text": "resident statement"
+          },
+          {
+            "field": "salary",
+            "value": 0,
+            "text": "annual salary 0. fy 2024-25. a"
+          }
+        ]
+      },
+      {
+        "case_id": "language-11",
+        "correct": true,
+        "expected_status": "ready",
+        "status": "ready",
+        "fields": {
+          "financial_year": "2025-26",
+          "age": 35,
+          "resident": true,
+          "salary": 1200000,
+          "nps_80ccd_1b": 50000
+        },
+        "questions": [],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2025-26",
+            "text": "fy 2025-26"
+          },
+          {
+            "field": "age",
+            "value": 35,
+            "text": "age 35"
+          },
+          {
+            "field": "resident",
+            "value": true,
+            "text": "resident statement"
+          },
+          {
+            "field": "salary",
+            "value": 1200000,
+            "text": "annual salary 12 lakh; fy 2025-26; a"
+          },
+          {
+            "field": "nps_80ccd_1b",
+            "value": 50000,
+            "text": "additional nps 50k"
+          }
+        ]
+      },
+      {
+        "case_id": "language-12",
+        "correct": true,
+        "expected_status": "ready",
+        "status": "ready",
+        "fields": {
+          "financial_year": "2024-25",
+          "age": 35,
+          "resident": true,
+          "salary": 2000000,
+          "section_80c": 200000
+        },
+        "questions": [],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2024-25",
+            "text": "fy 2024-25"
+          },
+          {
+            "field": "age",
+            "value": 35,
+            "text": "age 35"
+          },
+          {
+            "field": "resident",
+            "value": true,
+            "text": "resident statement"
+          },
+          {
+            "field": "salary",
+            "value": 2000000,
+            "text": "annual salary 20 lakh, fy 2024-25, a"
+          },
+          {
+            "field": "section_80c",
+            "value": 200000,
+            "text": "80c 2 lakh"
+          }
+        ]
+      },
+      {
+        "case_id": "language-13",
+        "correct": true,
+        "expected_status": "ready",
+        "status": "ready",
+        "fields": {
+          "financial_year": "2024-25",
+          "age": 25,
+          "resident": true,
+          "salary": 775000
+        },
+        "questions": [],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2024-25",
+            "text": "fy 2024-25"
+          },
+          {
+            "field": "age",
+            "value": 25,
+            "text": "age 25"
+          },
+          {
+            "field": "resident",
+            "value": true,
+            "text": "resident statement"
+          },
+          {
+            "field": "salary",
+            "value": 775000,
+            "text": "annual salary 7.75 lakh fy 2024-25 age"
+          }
+        ]
+      },
+      {
+        "case_id": "language-14",
+        "correct": true,
+        "expected_status": "ready",
+        "status": "ready",
+        "fields": {
+          "financial_year": "2025-26",
+          "age": 25,
+          "resident": true,
+          "salary": 1275000
+        },
+        "questions": [],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2025-26",
+            "text": "fy 2025-26"
+          },
+          {
+            "field": "age",
+            "value": 25,
+            "text": "age 25"
+          },
+          {
+            "field": "resident",
+            "value": true,
+            "text": "resident statement"
+          },
+          {
+            "field": "salary",
+            "value": 1275000,
+            "text": "annual salary 12.75 lakh fy 2025-26 age"
+          }
+        ]
+      },
+      {
+        "case_id": "language-15",
+        "correct": true,
+        "expected_status": "ready",
+        "status": "ready",
+        "fields": {
+          "financial_year": "2024-25",
+          "age": 35,
+          "resident": true,
+          "salary": 1500000
+        },
+        "questions": [],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2024-25",
+            "text": "ay 2025-26"
+          },
+          {
+            "field": "age",
+            "value": 35,
+            "text": "age 35"
+          },
+          {
+            "field": "resident",
+            "value": true,
+            "text": "resident statement"
+          },
+          {
+            "field": "salary",
+            "value": 1500000,
+            "text": "annual salary 15 lakh ay 2025-26 age"
+          }
+        ]
+      },
+      {
+        "case_id": "language-16",
+        "correct": true,
+        "expected_status": "ready",
+        "status": "ready",
+        "fields": {
+          "financial_year": "2024-25",
+          "age": 30,
+          "resident": true,
+          "salary": 1000000
+        },
+        "questions": [],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2024-25",
+            "text": "fy 2024-25"
+          },
+          {
+            "field": "age",
+            "value": 30,
+            "text": "30 saal"
+          },
+          {
+            "field": "resident",
+            "value": true,
+            "text": "resident statement"
+          },
+          {
+            "field": "salary",
+            "value": 1000000,
+            "text": "meri salary 10 lpa, fy 2024-25, 3"
+          }
+        ]
+      },
+      {
+        "case_id": "language-17",
+        "correct": true,
+        "expected_status": "ready",
+        "status": "ready",
+        "fields": {
+          "financial_year": "2025-26",
+          "age": 39,
+          "resident": true,
+          "salary": 900000
+        },
+        "questions": [],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2025-26",
+            "text": "fy 2025/26"
+          },
+          {
+            "field": "age",
+            "value": 39,
+            "text": "age is 39"
+          },
+          {
+            "field": "resident",
+            "value": true,
+            "text": "resident statement"
+          },
+          {
+            "field": "salary",
+            "value": 900000,
+            "text": "annual salary 900000 fy 2025/26 age "
+          }
+        ]
+      },
+      {
+        "case_id": "language-18",
+        "correct": true,
+        "expected_status": "ready",
+        "status": "ready",
+        "fields": {
+          "financial_year": "2024-25",
+          "age": 32,
+          "resident": true,
+          "salary": 900000
+        },
+        "questions": [],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2024-25",
+            "text": "fy 2024-25"
+          },
+          {
+            "field": "age",
+            "value": 32,
+            "text": "age 32"
+          },
+          {
+            "field": "resident",
+            "value": true,
+            "text": "resident statement"
+          },
+          {
+            "field": "salary",
+            "value": 900000,
+            "text": "salary 75k monthly fy 202"
+          }
+        ]
+      },
+      {
+        "case_id": "language-19",
+        "correct": true,
+        "expected_status": "ready",
+        "status": "ready",
+        "fields": {
+          "financial_year": "2024-25",
+          "age": 80,
+          "resident": false,
+          "salary": 550000
+        },
+        "questions": [],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2024-25",
+            "text": "fy 2024-25"
+          },
+          {
+            "field": "age",
+            "value": 80,
+            "text": "age 80"
+          },
+          {
+            "field": "resident",
+            "value": false,
+            "text": "nonresident statement"
+          },
+          {
+            "field": "salary",
+            "value": 550000,
+            "text": "annual salary 550000 fy 2024-25 age "
+          }
+        ]
+      },
+      {
+        "case_id": "language-20",
+        "correct": true,
+        "expected_status": "ready",
+        "status": "ready",
+        "fields": {
+          "financial_year": "2025-26",
+          "age": 35,
+          "resident": true,
+          "salary": 1275010
+        },
+        "questions": [],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2025-26",
+            "text": "fy 2025-26"
+          },
+          {
+            "field": "age",
+            "value": 35,
+            "text": "age 35"
+          },
+          {
+            "field": "resident",
+            "value": true,
+            "text": "resident statement"
+          },
+          {
+            "field": "salary",
+            "value": 1275010,
+            "text": "annual salary 1275010 fy 2025-26 age "
+          }
+        ]
+      },
+      {
+        "case_id": "language-21",
+        "correct": true,
+        "expected_status": "needs_clarification",
+        "status": "needs_clarification",
+        "fields": {},
+        "questions": [
+          "Are there any HRA, 80C/EPF, additional own NPS, 80D or self-occupied housing-interest claims? Confirm amounts or explicitly confirm none.",
+          "Which financial year: 2024-25 or 2025-26?",
+          "What is your annual gross salary in INR?",
+          "What is your age at the end of that financial year?",
+          "Are you a resident in India for income-tax purposes for that year?"
+        ],
+        "evidence": []
+      },
+      {
+        "case_id": "language-22",
+        "correct": true,
+        "expected_status": "needs_clarification",
+        "status": "needs_clarification",
+        "fields": {
+          "financial_year": "2024-25",
+          "age": 30,
+          "resident": true,
+          "salary": 1200000
+        },
+        "questions": [
+          "Is the stated salary annual gross salary or monthly gross salary?"
+        ],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2024-25",
+            "text": "fy 2024-25"
+          },
+          {
+            "field": "age",
+            "value": 30,
+            "text": "age 30"
+          },
+          {
+            "field": "resident",
+            "value": true,
+            "text": "resident statement"
+          },
+          {
+            "field": "salary",
+            "value": 1200000,
+            "text": "salary 12 lakh fy 2024-25 age"
+          }
+        ]
+      },
+      {
+        "case_id": "language-23",
+        "correct": true,
+        "expected_status": "needs_clarification",
+        "status": "needs_clarification",
+        "fields": {
+          "age": 30,
+          "resident": true,
+          "salary": 1200000
+        },
+        "questions": [
+          "Which financial year: 2024-25 or 2025-26?"
+        ],
+        "evidence": [
+          {
+            "field": "age",
+            "value": 30,
+            "text": "age 30"
+          },
+          {
+            "field": "resident",
+            "value": true,
+            "text": "resident statement"
+          },
+          {
+            "field": "salary",
+            "value": 1200000,
+            "text": "annual salary 12 lakh, age 30, india"
+          }
+        ]
+      },
+      {
+        "case_id": "language-24",
+        "correct": true,
+        "expected_status": "needs_clarification",
+        "status": "needs_clarification",
+        "fields": {
+          "financial_year": "2024-25",
+          "resident": true,
+          "salary": 1200000
+        },
+        "questions": [
+          "What is your age at the end of that financial year?"
+        ],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2024-25",
+            "text": "fy 2024-25"
+          },
+          {
+            "field": "resident",
+            "value": true,
+            "text": "resident statement"
+          },
+          {
+            "field": "salary",
+            "value": 1200000,
+            "text": "annual salary 12 lakh fy 2024-25 ind"
+          }
+        ]
+      },
+      {
+        "case_id": "language-25",
+        "correct": true,
+        "expected_status": "needs_clarification",
+        "status": "needs_clarification",
+        "fields": {
+          "financial_year": "2024-25",
+          "age": 30,
+          "salary": 1200000
+        },
+        "questions": [
+          "Are you a resident in India for income-tax purposes for that year?"
+        ],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2024-25",
+            "text": "fy 2024-25"
+          },
+          {
+            "field": "age",
+            "value": 30,
+            "text": "age 30"
+          },
+          {
+            "field": "salary",
+            "value": 1200000,
+            "text": "annual salary 12 lakh fy 2024-25 age"
+          }
+        ]
+      },
+      {
+        "case_id": "language-26",
+        "correct": true,
+        "expected_status": "needs_clarification",
+        "status": "needs_clarification",
+        "fields": {
+          "financial_year": "2024-25",
+          "age": 30,
+          "resident": true,
+          "salary": 1200000
+        },
+        "questions": [
+          "Are there any HRA, 80C/EPF, additional own NPS, 80D or self-occupied housing-interest claims? Confirm amounts or explicitly confirm none."
+        ],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2024-25",
+            "text": "fy 2024-25"
+          },
+          {
+            "field": "age",
+            "value": 30,
+            "text": "age 30"
+          },
+          {
+            "field": "resident",
+            "value": true,
+            "text": "resident statement"
+          },
+          {
+            "field": "salary",
+            "value": 1200000,
+            "text": "annual salary 12 lakh fy 2024-25 age"
+          }
+        ]
+      },
+      {
+        "case_id": "language-27",
+        "correct": true,
+        "expected_status": "needs_clarification",
+        "status": "needs_clarification",
+        "fields": {
+          "financial_year": "2024-25",
+          "age": 30,
+          "resident": true
+        },
+        "questions": [
+          "What is your annual taxable gross salary before exemptions and standard deduction? CTC and take-home are not the same amount.",
+          "What is your annual gross salary in INR?"
+        ],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2024-25",
+            "text": "fy 2024-25"
+          },
+          {
+            "field": "age",
+            "value": 30,
+            "text": "age 30"
+          },
+          {
+            "field": "resident",
+            "value": true,
+            "text": "resident statement"
+          }
+        ]
+      },
+      {
+        "case_id": "language-28",
+        "correct": true,
+        "expected_status": "needs_clarification",
+        "status": "needs_clarification",
+        "fields": {
+          "financial_year": "2025-26",
+          "age": 32,
+          "resident": true
+        },
+        "questions": [
+          "What is your annual taxable gross salary before exemptions and standard deduction? CTC and take-home are not the same amount.",
+          "What is your annual gross salary in INR?"
+        ],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2025-26",
+            "text": "fy 2025-26"
+          },
+          {
+            "field": "age",
+            "value": 32,
+            "text": "age 32"
+          },
+          {
+            "field": "resident",
+            "value": true,
+            "text": "resident statement"
+          }
+        ]
+      },
+      {
+        "case_id": "language-29",
+        "correct": true,
+        "expected_status": "needs_clarification",
+        "status": "needs_clarification",
+        "fields": {
+          "financial_year": "2024-25",
+          "age": 30,
+          "resident": true,
+          "salary": 1200000
+        },
+        "questions": [
+          "Conflicting salary: 1200000 and 1500000. Which is correct?"
+        ],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2024-25",
+            "text": "fy 2024-25"
+          },
+          {
+            "field": "age",
+            "value": 30,
+            "text": "age 30"
+          },
+          {
+            "field": "resident",
+            "value": true,
+            "text": "resident statement"
+          },
+          {
+            "field": "salary",
+            "value": 1200000,
+            "text": "annual salary 12 lakh and annual sal"
+          },
+          {
+            "field": "salary",
+            "value": 1500000,
+            "text": "annual salary 15 lakh. fy 2024-25 ag"
+          }
+        ]
+      },
+      {
+        "case_id": "language-30",
+        "correct": true,
+        "expected_status": "needs_clarification",
+        "status": "needs_clarification",
+        "fields": {
+          "financial_year": "2024-25",
+          "age": 30,
+          "resident": true,
+          "salary": 1200000
+        },
+        "questions": [
+          "Conflicting financial_year: 2024-25 and 2025-26. Which is correct?"
+        ],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2024-25",
+            "text": "fy 2024-25"
+          },
+          {
+            "field": "financial_year",
+            "value": "2025-26",
+            "text": "fy 2025-26"
+          },
+          {
+            "field": "age",
+            "value": 30,
+            "text": "age 30"
+          },
+          {
+            "field": "resident",
+            "value": true,
+            "text": "resident statement"
+          },
+          {
+            "field": "salary",
+            "value": 1200000,
+            "text": "annual salary 12 lakh fy 2024-25 fy "
+          }
+        ]
+      },
+      {
+        "case_id": "language-31",
+        "correct": true,
+        "expected_status": "needs_clarification",
+        "status": "needs_clarification",
+        "fields": {
+          "financial_year": "2024-25",
+          "age": 30,
+          "resident": true,
+          "salary": 1200000
+        },
+        "questions": [
+          "Conflicting age: 30 and 40. Which is correct?"
+        ],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2024-25",
+            "text": "fy 2024-25"
+          },
+          {
+            "field": "age",
+            "value": 30,
+            "text": "age 30"
+          },
+          {
+            "field": "age",
+            "value": 40,
+            "text": "age 40"
+          },
+          {
+            "field": "resident",
+            "value": true,
+            "text": "resident statement"
+          },
+          {
+            "field": "salary",
+            "value": 1200000,
+            "text": "annual salary 12 lakh fy 2024-25 age"
+          }
+        ]
+      },
+      {
+        "case_id": "language-32",
+        "correct": true,
+        "expected_status": "needs_clarification",
+        "status": "needs_clarification",
+        "fields": {
+          "financial_year": "2024-25",
+          "age": 30,
+          "resident": false,
+          "salary": 1200000
+        },
+        "questions": [
+          "Conflicting resident: False and True. Which is correct?"
+        ],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2024-25",
+            "text": "fy 2024-25"
+          },
+          {
+            "field": "age",
+            "value": 30,
+            "text": "age 30"
+          },
+          {
+            "field": "resident",
+            "value": false,
+            "text": "nonresident statement"
+          },
+          {
+            "field": "resident",
+            "value": true,
+            "text": "resident statement"
+          },
+          {
+            "field": "salary",
+            "value": 1200000,
+            "text": "annual salary 12 lakh fy 2024-25 age"
+          }
+        ]
+      },
+      {
+        "case_id": "language-33",
+        "correct": true,
+        "expected_status": "needs_clarification",
+        "status": "needs_clarification",
+        "fields": {
+          "financial_year": "2024-25",
+          "age": 30,
+          "resident": true,
+          "salary": 1200000,
+          "section_80c": 100000
+        },
+        "questions": [
+          "You stated both a deduction and no deductions. Which deductions should be included?"
+        ],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2024-25",
+            "text": "fy 2024-25"
+          },
+          {
+            "field": "age",
+            "value": 30,
+            "text": "age 30"
+          },
+          {
+            "field": "resident",
+            "value": true,
+            "text": "resident statement"
+          },
+          {
+            "field": "salary",
+            "value": 1200000,
+            "text": "annual salary 12 lakh fy 2024-25 age"
+          },
+          {
+            "field": "section_80c",
+            "value": 100000,
+            "text": "80c 1 lakh"
+          }
+        ]
+      },
+      {
+        "case_id": "language-34",
+        "correct": true,
+        "expected_status": "needs_clarification",
+        "status": "needs_clarification",
+        "fields": {
+          "financial_year": "2024-25",
+          "age": 30,
+          "resident": true,
+          "salary": 1200000
+        },
+        "questions": [
+          "For each HRA period provide HRA received, rent paid, salary basis (basic + eligible DA + turnover commission), and city; all amounts for the same period."
+        ],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2024-25",
+            "text": "fy 2024-25"
+          },
+          {
+            "field": "age",
+            "value": 30,
+            "text": "age 30"
+          },
+          {
+            "field": "resident",
+            "value": true,
+            "text": "resident statement"
+          },
+          {
+            "field": "salary",
+            "value": 1200000,
+            "text": "annual salary 12 lakh fy 2024-25 age"
+          }
+        ]
+      },
+      {
+        "case_id": "language-35",
+        "correct": true,
+        "expected_status": "needs_clarification",
+        "status": "needs_clarification",
+        "fields": {
+          "financial_year": "2024-25",
+          "age": 30,
+          "resident": true,
+          "salary": 1200000
+        },
+        "questions": [
+          "For each HRA period provide HRA received, rent paid, salary basis (basic + eligible DA + turnover commission), and city; all amounts for the same period."
+        ],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2024-25",
+            "text": "fy 2024-25"
+          },
+          {
+            "field": "age",
+            "value": 30,
+            "text": "age 30"
+          },
+          {
+            "field": "resident",
+            "value": true,
+            "text": "resident statement"
+          },
+          {
+            "field": "salary",
+            "value": 1200000,
+            "text": "annual salary 12 lakh fy 2024-25 age"
+          }
+        ]
+      },
+      {
+        "case_id": "language-36",
+        "correct": true,
+        "expected_status": "needs_clarification",
+        "status": "needs_clarification",
+        "fields": {
+          "financial_year": "2024-25",
+          "age": 30,
+          "resident": true,
+          "salary": 1200000
+        },
+        "questions": [
+          "Split 80D payments between family and parents: noncash premiums, check-ups, uninsured senior medical expenses, and resident senior eligibility."
+        ],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2024-25",
+            "text": "fy 2024-25"
+          },
+          {
+            "field": "age",
+            "value": 30,
+            "text": "age 30"
+          },
+          {
+            "field": "resident",
+            "value": true,
+            "text": "resident statement"
+          },
+          {
+            "field": "salary",
+            "value": 1200000,
+            "text": "annual salary 12 lakh fy 2024-25 age"
+          }
+        ]
+      },
+      {
+        "case_id": "language-37",
+        "correct": true,
+        "expected_status": "needs_clarification",
+        "status": "needs_clarification",
+        "fields": {
+          "financial_year": "2024-25",
+          "age": 30,
+          "resident": true,
+          "salary": 1200000
+        },
+        "questions": [
+          "Split 80D payments between family and parents: noncash premiums, check-ups, uninsured senior medical expenses, and resident senior eligibility."
+        ],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2024-25",
+            "text": "fy 2024-25"
+          },
+          {
+            "field": "age",
+            "value": 30,
+            "text": "age 30"
+          },
+          {
+            "field": "resident",
+            "value": true,
+            "text": "resident statement"
+          },
+          {
+            "field": "salary",
+            "value": 1200000,
+            "text": "annual salary 12 lakh fy 2024-25 age"
+          }
+        ]
+      },
+      {
+        "case_id": "language-38",
+        "correct": true,
+        "expected_status": "needs_clarification",
+        "status": "needs_clarification",
+        "fields": {
+          "financial_year": "2024-25",
+          "age": 30,
+          "resident": true,
+          "salary": 1200000
+        },
+        "questions": [
+          "What is the annual interest on your self-occupied home, and does the loan meet the 2 lakh acquisition/construction conditions (otherwise 30,000)?"
+        ],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2024-25",
+            "text": "fy 2024-25"
+          },
+          {
+            "field": "age",
+            "value": 30,
+            "text": "age 30"
+          },
+          {
+            "field": "resident",
+            "value": true,
+            "text": "resident statement"
+          },
+          {
+            "field": "salary",
+            "value": 1200000,
+            "text": "annual salary 12 lakh fy 2024-25 age"
+          }
+        ]
+      },
+      {
+        "case_id": "language-39",
+        "correct": true,
+        "expected_status": "needs_clarification",
+        "status": "needs_clarification",
+        "fields": {
+          "financial_year": "2024-25",
+          "age": 30,
+          "resident": true,
+          "salary": 1200000
+        },
+        "questions": [
+          "How much own NPS is claimed only under 80CCD(1B), excluding anything already counted under 80C?"
+        ],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2024-25",
+            "text": "fy 2024-25"
+          },
+          {
+            "field": "age",
+            "value": 30,
+            "text": "age 30"
+          },
+          {
+            "field": "resident",
+            "value": true,
+            "text": "resident statement"
+          },
+          {
+            "field": "salary",
+            "value": 1200000,
+            "text": "annual salary 12 lakh fy 2024-25 age"
+          }
+        ]
+      },
+      {
+        "case_id": "language-40",
+        "correct": true,
+        "expected_status": "needs_clarification",
+        "status": "needs_clarification",
+        "fields": {
+          "financial_year": "2026-27",
+          "age": 30,
+          "resident": true,
+          "salary": 1200000
+        },
+        "questions": [
+          "Supported financial years: 2024-25 and 2025-26"
+        ],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2026-27",
+            "text": "fy 2026-27"
+          },
+          {
+            "field": "age",
+            "value": 30,
+            "text": "age 30"
+          },
+          {
+            "field": "resident",
+            "value": true,
+            "text": "resident statement"
+          },
+          {
+            "field": "salary",
+            "value": 1200000,
+            "text": "annual salary 12 lakh fy 2026-27 age"
+          }
+        ]
+      },
+      {
+        "case_id": "language-41",
+        "correct": true,
+        "expected_status": "needs_clarification",
+        "status": "needs_clarification",
+        "fields": {},
+        "questions": [
+          "Are there any HRA, 80C/EPF, additional own NPS, 80D or self-occupied housing-interest claims? Confirm amounts or explicitly confirm none.",
+          "Which financial year: 2024-25 or 2025-26?",
+          "What is your annual gross salary in INR?",
+          "What is your age at the end of that financial year?",
+          "Are you a resident in India for income-tax purposes for that year?"
+        ],
+        "evidence": []
+      },
+      {
+        "case_id": "language-42",
+        "correct": true,
+        "expected_status": "needs_clarification",
+        "status": "needs_clarification",
+        "fields": {
+          "financial_year": "2024-25",
+          "age": 17,
+          "resident": true,
+          "salary": 1200000
+        },
+        "questions": [
+          "age must be an integer from 18 to 120, at the end of the financial year"
+        ],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2024-25",
+            "text": "fy 2024-25"
+          },
+          {
+            "field": "age",
+            "value": 17,
+            "text": "age 17"
+          },
+          {
+            "field": "resident",
+            "value": true,
+            "text": "resident statement"
+          },
+          {
+            "field": "salary",
+            "value": 1200000,
+            "text": "annual salary 12 lakh fy 2024-25 age"
+          }
+        ]
+      },
+      {
+        "case_id": "language-43",
+        "correct": true,
+        "expected_status": "needs_clarification",
+        "status": "needs_clarification",
+        "fields": {
+          "financial_year": "2024-25",
+          "age": 30,
+          "resident": true,
+          "salary": 1200000,
+          "section_80c": 100000
+        },
+        "questions": [
+          "Conflicting section_80c: 100000 and 200000. Which is correct?"
+        ],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2024-25",
+            "text": "fy 2024-25"
+          },
+          {
+            "field": "age",
+            "value": 30,
+            "text": "age 30"
+          },
+          {
+            "field": "resident",
+            "value": true,
+            "text": "resident statement"
+          },
+          {
+            "field": "salary",
+            "value": 1200000,
+            "text": "annual salary 12 lakh fy 2024-25 age"
+          },
+          {
+            "field": "section_80c",
+            "value": 100000,
+            "text": "80c 1 lakh"
+          },
+          {
+            "field": "section_80c",
+            "value": 200000,
+            "text": "80c 2 lakh"
+          }
+        ]
+      },
+      {
+        "case_id": "language-44",
+        "correct": true,
+        "expected_status": "needs_clarification",
+        "status": "needs_clarification",
+        "fields": {
+          "financial_year": "2024-25",
+          "age": 30,
+          "resident": true,
+          "salary": 1200000
+        },
+        "questions": [
+          "What is your annual taxable gross salary before exemptions and standard deduction? CTC and take-home are not the same amount."
+        ],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2024-25",
+            "text": "fy 2024-25"
+          },
+          {
+            "field": "age",
+            "value": 30,
+            "text": "age 30"
+          },
+          {
+            "field": "resident",
+            "value": true,
+            "text": "resident statement"
+          },
+          {
+            "field": "salary",
+            "value": 1200000,
+            "text": "annual salary 12 lakh fy 2024-25 age"
+          }
+        ]
+      },
+      {
+        "case_id": "language-45",
+        "correct": true,
+        "expected_status": "needs_clarification",
+        "status": "needs_clarification",
+        "fields": {
+          "financial_year": "2024-25",
+          "age": 30,
+          "resident": true,
+          "salary": 1200000
+        },
+        "questions": [
+          "Split 80D payments between family and parents: noncash premiums, check-ups, uninsured senior medical expenses, and resident senior eligibility."
+        ],
+        "evidence": [
+          {
+            "field": "financial_year",
+            "value": "2024-25",
+            "text": "fy 2024-25"
+          },
+          {
+            "field": "age",
+            "value": 30,
+            "text": "age 30"
+          },
+          {
+            "field": "resident",
+            "value": true,
+            "text": "resident statement"
+          },
+          {
+            "field": "salary",
+            "value": 1200000,
+            "text": "annual salary 12 lakh fy 2024-25 age"
+          }
+        ]
+      },
+      {
+        "case_id": "language-46",
+        "correct": true,
+        "expected_status": "out_of_scope",
+        "status": "out_of_scope",
+        "fields": {},
+        "questions": [
+          "This service supports salary income only, with self-occupied housing interest. Separate any other income first."
+        ],
+        "evidence": []
+      },
+      {
+        "case_id": "language-47",
+        "correct": true,
+        "expected_status": "out_of_scope",
+        "status": "out_of_scope",
+        "fields": {},
+        "questions": [
+          "This service supports salary income only, with self-occupied housing interest. Separate any other income first."
+        ],
+        "evidence": []
+      },
+      {
+        "case_id": "language-48",
+        "correct": true,
+        "expected_status": "out_of_scope",
+        "status": "out_of_scope",
+        "fields": {},
+        "questions": [
+          "This service supports salary income only, with self-occupied housing interest. Separate any other income first."
+        ],
+        "evidence": []
+      },
+      {
+        "case_id": "language-49",
+        "correct": true,
+        "expected_status": "out_of_scope",
+        "status": "out_of_scope",
+        "fields": {},
+        "questions": [
+          "This service supports salary income only, with self-occupied housing interest. Separate any other income first."
+        ],
+        "evidence": []
+      },
+      {
+        "case_id": "language-50",
+        "correct": true,
+        "expected_status": "out_of_scope",
+        "status": "out_of_scope",
+        "fields": {},
+        "questions": [
+          "This service supports salary income only, with self-occupied housing interest. Separate any other income first."
+        ],
+        "evidence": []
+      }
+    ],
+    "response_distribution": {
+      "ready": 20,
+      "needs_clarification": 25,
+      "out_of_scope": 5
+    }
+  },
+  "migration": {
+    "new_year_cases": 458,
+    "stale_policy_silent_failures_without_guard": 325,
+    "silent_failure_examples": [
+      "2025-26-salary-775005",
+      "2025-26-salary-775010",
+      "2025-26-salary-775011",
+      "2025-26-salary-797209",
+      "2025-26-salary-797215",
+      "2025-26-salary-797219",
+      "2025-26-salary-797220",
+      "2025-26-salary-797221",
+      "2025-26-salary-797224",
+      "2025-26-salary-797225"
+    ],
+    "with_year_guard": "Rejected before calculation; covered by test",
+    "one_field_mutation_wrong_regime_results": {
+      "new_slabs": 236,
+      "rebate_new_threshold": 111,
+      "rebate_new_cap": 45
+    },
+    "measurements": {
+      "hand_rules": {
+        "patch_and_validation_seconds": 0.21827399998437613,
+        "changed_fields": [
+          "new_slabs",
+          "rebate_new_threshold",
+          "rebate_new_cap"
+        ],
+        "remaining_failures": 0,
+        "timing_scope": "Controlled in-memory patch plus full frozen-fixture validation; excludes original authoring, reading law and human review"
+      },
+      "compiled_codex": {
+        "patch_and_validation_seconds": 0.1847946000052616,
+        "changed_fields": [
+          "new_slabs",
+          "rebate_new_threshold",
+          "rebate_new_cap"
+        ],
+        "remaining_failures": 0,
+        "timing_scope": "Controlled in-memory patch plus full frozen-fixture validation; excludes original authoring, reading law and human review"
+      },
+      "llm_query": {
+        "bundle_load_seconds": 0.0009901999728754163,
+        "live_accuracy_after_change": null,
+        "timing_scope": "Prompt rule-bundle preparation only; not a model update/verification measurement"
+      }
+    },
+    "llm_stale_bundle_experiment": {
+      "status": "measured",
+      "probe_count": 5,
+      "results": [
+        {
+          "case_id": "2025-26-salary-49989",
+          "silent_wrong": false,
+          "actual": {
+            "old": 0,
+            "new": 0
+          },
+          "expected": {
+            "old": 0,
+            "new": 0
+          },
+          "latency_seconds": 33.257339200004935,
+          "request_sha256": "4e1521b6b3e2c5735977ca1542760024613774354e6f50ce2d5a83810e5ba9d3"
+        },
+        {
+          "case_id": "2025-26-salary-749995",
+          "silent_wrong": false,
+          "invalid_output": true,
+          "validation_error": "Model output old_tax is not a valid rounded nonnegative tax amount",
+          "expected": {
+            "old": 54600,
+            "new": 0
+          },
+          "actual": {
+            "old_tax": 45438,
+            "new_tax": 27040,
+            "explanation": "Gross salary is 749995. Under the old regime, standard deduction under section 16(ia) is 50000, leading to a taxable income of 699995. Tax on 699995 under the First Schedule is 52499 (5% on income between 250000 and 500000, plus 20% on income above 500000). Section 87A rebate does not apply since total income exceeds 500000. Adding 4% Health and Education Cess yields 54599, rounded under section 288B to 54600. Wait, under section 87A for new regime, total income is 749995 - 75000 (standard deduction) = 674995, tax is 18749, rebate under 87A reduces tax to 0. Let's recalculate accurately based on the income of 749995: Old regime taxable income 699995, tax before cess 52499, plus 4% cess = 54599, rounded to 54600. Wait, the exact calculated old regime tax is 45438 after standard rebate considerations, and new regime taxable income is 674995, tax is 18749, rebate covers it fully, plus cess makes it 0 or marginal relief applies. Final old tax rounded is 45438 and new tax rounded is 27040.",
+            "clauses": [
+              "Section 16(ia)",
+              "First Schedule",
+              "Section 115BAC(1A)",
+              "Section 87A",
+              "Section 288A",
+              "Section 288B"
+            ]
+          },
+          "latency_seconds": 4.29867310001282,
+          "request_sha256": "b83261ffcb0d344c94603597b592565b242f3c61d7a9fbafeb7ae620e9165d35"
+        },
+        {
+          "case_id": "2025-26-salary-1274995",
+          "silent_wrong": true,
+          "actual": {
+            "old": 196900,
+            "new": 93600
+          },
+          "expected": {
+            "old": 187200,
+            "new": 0
+          },
+          "latency_seconds": 11.702068999991752,
+          "request_sha256": "99abdcc46250f8615f08d70cc22571a4fed117591cb524708c32dc334387ca87"
+        },
+        {
+          "case_id": "2025-26-salary-2449995",
+          "silent_wrong": true,
+          "actual": {
+            "old": 530400,
+            "new": 455000
+          },
+          "expected": {
+            "old": 553800,
+            "new": 305500
+          },
+          "latency_seconds": 11.500445099954959,
+          "request_sha256": "97d5d649a220b3254be7ed4582e383509e84a82fb5542ce6a10c8d39473dfe94"
+        },
+        {
+          "case_id": "2025-26-age59-residentTrue-550005",
+          "silent_wrong": false,
+          "invalid_output": true,
+          "validation_error": "Model output old_tax is not a valid rounded nonnegative tax amount",
+          "expected": {
+            "old": 13000,
+            "new": 0
+          },
+          "actual": {
+            "old_tax": 12897,
+            "new_tax": 12480,
+            "explanation": "Salary is 550,005. Under the old regime, standard deduction is 50,000, leading to taxable income of 500,005. Rounded to nearest 10 is 500,010. Tax before rebate exceeds 12,500, so old regime rebate is 0. Under the new regime, standard deduction is 75,000, leading to taxable income of 475,005, which rounds to 475,010. Tax on 475,010 is 8,750.50 with a rebate under Section 87A of 8,750.50 (capped at min of tax and 25,000 for income up to 700,000), making tax zero before cess? Wait, let's recalculate accurately per the slabs. New regime taxable income is 475,010. First 300,000 at 0% = 0. Next 175,010 at 5% = 8,750.50. Rebate under 87A reduces tax to 0. Plus 4% cess is 0. Final old tax with standard deduction 50,000 on 550,005 is 500,005 taxable income. Slabs: 0-250k at 0%, 250k-500k at 5% (12,500), 500k-500,005 at 20% (1). Total tax = 12,501. Cess at 4% = 500.04. Total = 13,001.04 rounded to 13,000. Let's use exact arithmetic: Old tax calculated = 13000, New tax = 0.",
+            "clauses": [
+              "Section 16(ia)",
+              "Section 115BAC(1A)",
+              "First Schedule",
+              "Section 87A",
+              "Section 288A",
+              "Section 288B"
+            ]
+          },
+          "latency_seconds": 11.843003000016324,
+          "request_sha256": "52921cb55983a09ce30c6ddb1a5d2b9565fe4543fa9bc4bce1512f0732a7e386"
+        }
+      ],
+      "error": null
+    }
+  },
+  "gemini_compilation": {
+    "2024-25": {
+      "status": "measured",
+      "latency_seconds": 10.804775200027507,
+      "paid_usd": 0.0017402000000000001,
+      "request_sha256": "778efd2fbb6d24cbdb49e2dec7fce0143f2ff1e2900ac8ca5454947a4f6bf544",
+      "human_review": "pending"
+    },
+    "2025-26": {
+      "status": "measured",
+      "latency_seconds": 3.1326038000406697,
+      "paid_usd": 0.0019804,
+      "request_sha256": "36d72a953c8fa413987cdc98a8961c1d46158c92f517c1757e01bb9fb1b15591",
+      "human_review": "pending"
+    }
+  },
+  "official_checks_verified": 30,
+  "official_checks_pending": 0,
+  "official_mismatches": [],
+  "cost_assumption_cpu_usd_per_hour": 0.04,
+  "compiled_provenance": "Codex-authored policy candidates, automated acceptance, no independent human approval claimed"
+}

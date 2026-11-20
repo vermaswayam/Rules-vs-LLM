@@ -1,0 +1,612 @@
+{
+  "official_asset_sha256": "f08c70ba2c5711d89c7a21644ec37830c9578df35085d13d1cfb2a6c4607c1e9",
+  "inputs_sha256": "7cd5bef93ed8970db460a32a92c0c1070366187fcce45e8fa1edd8cd651a4655",
+  "extraction": {
+    "constants": 246,
+    "slab_functions": 2584,
+    "component_calculations": 6857
+  },
+  "outputs": [
+    {
+      "incomeTax": 0,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 0,
+      "surcharge": 0,
+      "healthAndEducationCess": 0,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 0
+    },
+    {
+      "incomeTax": 0,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 0,
+      "surcharge": 0,
+      "healthAndEducationCess": 0,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 0
+    },
+    {
+      "incomeTax": 0,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 0,
+      "surcharge": 0,
+      "healthAndEducationCess": 0,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 0
+    },
+    {
+      "incomeTax": 0,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 0,
+      "surcharge": 0,
+      "healthAndEducationCess": 0,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 0
+    },
+    {
+      "incomeTax": 0,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 0,
+      "surcharge": 0,
+      "healthAndEducationCess": 0,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 0
+    },
+    {
+      "incomeTax": 0,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 0,
+      "surcharge": 0,
+      "healthAndEducationCess": 0,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 0
+    },
+    {
+      "incomeTax": 10000,
+      "rebateUnder87A": 10000,
+      "incomeTaxAfter87A": 0,
+      "surcharge": 0,
+      "healthAndEducationCess": 0,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 0
+    },
+    {
+      "incomeTax": 6250,
+      "rebateUnder87A": 6250,
+      "incomeTaxAfter87A": 0,
+      "surcharge": 0,
+      "healthAndEducationCess": 0,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 0
+    },
+    {
+      "incomeTax": 12500,
+      "rebateUnder87A": 12500,
+      "incomeTaxAfter87A": 0,
+      "surcharge": 0,
+      "healthAndEducationCess": 0,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 0
+    },
+    {
+      "incomeTax": 8750,
+      "rebateUnder87A": 8750,
+      "incomeTaxAfter87A": 0,
+      "surcharge": 0,
+      "healthAndEducationCess": 0,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 0
+    },
+    {
+      "incomeTax": 12700,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 12700,
+      "surcharge": 0,
+      "healthAndEducationCess": 508,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 13208
+    },
+    {
+      "incomeTax": 8800,
+      "rebateUnder87A": 8800,
+      "incomeTaxAfter87A": 0,
+      "surcharge": 0,
+      "healthAndEducationCess": 0,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 0
+    },
+    {
+      "incomeTax": 42500,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 42500,
+      "surcharge": 0,
+      "healthAndEducationCess": 1700,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 44200
+    },
+    {
+      "incomeTax": 16250,
+      "rebateUnder87A": 16250,
+      "incomeTaxAfter87A": 0,
+      "surcharge": 0,
+      "healthAndEducationCess": 0,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 0
+    },
+    {
+      "incomeTax": 52500,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 52500,
+      "surcharge": 0,
+      "healthAndEducationCess": 2100,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 54600
+    },
+    {
+      "incomeTax": 18750,
+      "rebateUnder87A": 18750,
+      "incomeTaxAfter87A": 0,
+      "surcharge": 0,
+      "healthAndEducationCess": 0,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 0
+    },
+    {
+      "incomeTax": 57500,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 57500,
+      "surcharge": 0,
+      "healthAndEducationCess": 2300,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 59800
+    },
+    {
+      "incomeTax": 20000,
+      "rebateUnder87A": 20000,
+      "incomeTaxAfter87A": 0,
+      "surcharge": 0,
+      "healthAndEducationCess": 0,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 0
+    },
+    {
+      "incomeTax": 57700,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 57700,
+      "surcharge": 0,
+      "healthAndEducationCess": 2308,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 60008
+    },
+    {
+      "incomeTax": 20100,
+      "rebateUnder87A": 19100,
+      "incomeTaxAfter87A": 1000,
+      "surcharge": 0,
+      "healthAndEducationCess": 40,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 1040
+    },
+    {
+      "incomeTax": 62500,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 62500,
+      "surcharge": 0,
+      "healthAndEducationCess": 2500,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 65000
+    },
+    {
+      "incomeTax": 22500,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 22500,
+      "surcharge": 0,
+      "healthAndEducationCess": 900,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 23400
+    },
+    {
+      "incomeTax": 102500,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 102500,
+      "surcharge": 0,
+      "healthAndEducationCess": 4100,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 106600
+    },
+    {
+      "incomeTax": 42500,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 42500,
+      "surcharge": 0,
+      "healthAndEducationCess": 1700,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 44200
+    },
+    {
+      "incomeTax": 120000,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 120000,
+      "surcharge": 0,
+      "healthAndEducationCess": 4800,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 124800
+    },
+    {
+      "incomeTax": 50000,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 50000,
+      "surcharge": 0,
+      "healthAndEducationCess": 2000,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 52000
+    },
+    {
+      "incomeTax": 157500,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 157500,
+      "surcharge": 0,
+      "healthAndEducationCess": 6300,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 163800
+    },
+    {
+      "incomeTax": 68750,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 68750,
+      "surcharge": 0,
+      "healthAndEducationCess": 2750,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 71500
+    },
+    {
+      "incomeTax": 180000,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 180000,
+      "surcharge": 0,
+      "healthAndEducationCess": 7200,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 187200
+    },
+    {
+      "incomeTax": 80000,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 80000,
+      "surcharge": 0,
+      "healthAndEducationCess": 3200,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 83200
+    },
+    {
+      "incomeTax": 247500,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 247500,
+      "surcharge": 0,
+      "healthAndEducationCess": 9900,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 257400
+    },
+    {
+      "incomeTax": 125000,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 125000,
+      "surcharge": 0,
+      "healthAndEducationCess": 5000,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 130000
+    },
+    {
+      "incomeTax": 270000,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 270000,
+      "surcharge": 0,
+      "healthAndEducationCess": 10800,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 280800
+    },
+    {
+      "incomeTax": 140000,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 140000,
+      "surcharge": 0,
+      "healthAndEducationCess": 5600,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 145600
+    },
+    {
+      "incomeTax": 397500,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 397500,
+      "surcharge": 0,
+      "healthAndEducationCess": 15900,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 413400
+    },
+    {
+      "incomeTax": 267500,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 267500,
+      "surcharge": 0,
+      "healthAndEducationCess": 10700,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 278200
+    },
+    {
+      "incomeTax": 517500,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 517500,
+      "surcharge": 0,
+      "healthAndEducationCess": 20700,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 538200
+    },
+    {
+      "incomeTax": 387500,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 387500,
+      "surcharge": 0,
+      "healthAndEducationCess": 15500,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 403000
+    },
+    {
+      "incomeTax": 540000,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 540000,
+      "surcharge": 0,
+      "healthAndEducationCess": 21600,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 561600
+    },
+    {
+      "incomeTax": 410000,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 410000,
+      "surcharge": 0,
+      "healthAndEducationCess": 16400,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 426400
+    },
+    {
+      "incomeTax": 1297500,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 1297500,
+      "surcharge": 0,
+      "healthAndEducationCess": 51900,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 1349400
+    },
+    {
+      "incomeTax": 1167500,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 1167500,
+      "surcharge": 0,
+      "healthAndEducationCess": 46700,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 1214200
+    },
+    {
+      "incomeTax": 1312500,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 1312500,
+      "surcharge": 0,
+      "healthAndEducationCess": 52500,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 1365000
+    },
+    {
+      "incomeTax": 1182500,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 1182500,
+      "surcharge": 0,
+      "healthAndEducationCess": 47300,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 1229800
+    },
+    {
+      "incomeTax": 1320000,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 1320000,
+      "surcharge": 17500,
+      "healthAndEducationCess": 53500,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 1391000
+    },
+    {
+      "incomeTax": 1190000,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 1190000,
+      "surcharge": 0,
+      "healthAndEducationCess": 47600,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 1237600
+    },
+    {
+      "incomeTax": 1327500,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 1327500,
+      "surcharge": 35000,
+      "healthAndEducationCess": 54500,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 1417000
+    },
+    {
+      "incomeTax": 1197500,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 1197500,
+      "surcharge": 17500,
+      "healthAndEducationCess": 48600,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 1263600
+    },
+    {
+      "incomeTax": 2812500,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 2812500,
+      "surcharge": 281250,
+      "healthAndEducationCess": 123750,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 3217500
+    },
+    {
+      "incomeTax": 2682500,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 2682500,
+      "surcharge": 268250,
+      "healthAndEducationCess": 118030,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 3068780
+    },
+    {
+      "incomeTax": 2820000,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 2820000,
+      "surcharge": 298750,
+      "healthAndEducationCess": 124750,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 3243500
+    },
+    {
+      "incomeTax": 2690000,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 2690000,
+      "surcharge": 269000,
+      "healthAndEducationCess": 118360,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 3077360
+    },
+    {
+      "incomeTax": 5812500,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 5812500,
+      "surcharge": 871875,
+      "healthAndEducationCess": 267375,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 6951750
+    },
+    {
+      "incomeTax": 5682500,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 5682500,
+      "surcharge": 852375,
+      "healthAndEducationCess": 261395,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 6796270
+    },
+    {
+      "incomeTax": 5820000,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 5820000,
+      "surcharge": 889375,
+      "healthAndEducationCess": 268375,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 6977750
+    },
+    {
+      "incomeTax": 5690000,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 5690000,
+      "surcharge": 853500,
+      "healthAndEducationCess": 261740,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 6805240
+    },
+    {
+      "incomeTax": 14812500,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 14812500,
+      "surcharge": 3703125,
+      "healthAndEducationCess": 740625,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 19256250
+    },
+    {
+      "incomeTax": 14682500,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 14682500,
+      "surcharge": 3670625,
+      "healthAndEducationCess": 734125,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 19087250
+    },
+    {
+      "incomeTax": 14820000,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 14820000,
+      "surcharge": 3720625,
+      "healthAndEducationCess": 741625,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 19282250
+    },
+    {
+      "incomeTax": 14690000,
+      "rebateUnder87A": 0,
+      "incomeTaxAfter87A": 14690000,
+      "surcharge": 3672500,
+      "healthAndEducationCess": 734500,
+      "educationCess": 0,
+      "secondaryAndHigherEducationCess": 0,
+      "totalTaxLiability": 19097000
+    }
+  ],
+  "execution": "Downloaded official calculator functions executed in isolated Node VM; not manual browser observations"
+}

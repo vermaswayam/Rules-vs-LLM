@@ -1,0 +1,2076 @@
+{
+  "dataset_manifest": {
+    "dataset": "https://data.cityofnewyork.us/resource/erm2-nwe9.json",
+    "retrieved_at": "2026-11-19T12:38:30.599038+00:00",
+    "sampling": "Monthly coverage slices sorted by each recorded query; NOT a random sample or census",
+    "rows": 12000,
+    "population_query": "https://data.cityofnewyork.us/resource/erm2-nwe9.json?%24select=count%28%2A%29+as+total&%24where=created_date+%3E%3D+%272023-01-01T00%3A00%3A00%27+AND+created_date+%3C+%272024-01-01T00%3A00%3A00%27",
+    "population": [
+      {
+        "total": "3224723"
+      }
+    ],
+    "sha256": "6309a2df72a649f94edc388e6b7ee7e2f37b3fc9805e942a6cbfce568bec1224",
+    "queries": [
+      {
+        "month": 1,
+        "url": "https://data.cityofnewyork.us/resource/erm2-nwe9.json?%24select=unique_key%2Ccreated_date%2Cclosed_date%2Cagency%2Ccomplaint_type%2Cdescriptor%2Cresolution_description%2Cstatus%2Cincident_zip%2Cborough%2Clatitude%2Clongitude%2Cincident_address&%24where=created_date+%3E%3D+%272023-01-01T00%3A00%3A00%27+AND+created_date+%3C+%272023-02-01T00%3A00%3A00%27&%24order=unique_key&%24limit=1000",
+        "rows": 1000,
+        "sha256": "8b48ea9fa7c4ecf7bab5f610079c8969a8b238abdf2de0046155e14c10529d86"
+      },
+      {
+        "month": 2,
+        "url": "https://data.cityofnewyork.us/resource/erm2-nwe9.json?%24select=unique_key%2Ccreated_date%2Cclosed_date%2Cagency%2Ccomplaint_type%2Cdescriptor%2Cresolution_description%2Cstatus%2Cincident_zip%2Cborough%2Clatitude%2Clongitude%2Cincident_address&%24where=created_date+%3E%3D+%272023-02-01T00%3A00%3A00%27+AND+created_date+%3C+%272023-03-01T00%3A00%3A00%27&%24order=unique_key&%24limit=1000",
+        "rows": 1000,
+        "sha256": "67e6ec083efd51e12bd0daa861025ca114393a59e3f919eabfb719d9c7efc643"
+      },
+      {
+        "month": 3,
+        "url": "https://data.cityofnewyork.us/resource/erm2-nwe9.json?%24select=unique_key%2Ccreated_date%2Cclosed_date%2Cagency%2Ccomplaint_type%2Cdescriptor%2Cresolution_description%2Cstatus%2Cincident_zip%2Cborough%2Clatitude%2Clongitude%2Cincident_address&%24where=created_date+%3E%3D+%272023-03-01T00%3A00%3A00%27+AND+created_date+%3C+%272023-04-01T00%3A00%3A00%27&%24order=unique_key&%24limit=1000",
+        "rows": 1000,
+        "sha256": "3dc0cb6077d9ff019a6879b8645e8318e376d9a0f90115296ed18c963f6b41ff"
+      },
+      {
+        "month": 4,
+        "url": "https://data.cityofnewyork.us/resource/erm2-nwe9.json?%24select=unique_key%2Ccreated_date%2Cclosed_date%2Cagency%2Ccomplaint_type%2Cdescriptor%2Cresolution_description%2Cstatus%2Cincident_zip%2Cborough%2Clatitude%2Clongitude%2Cincident_address&%24where=created_date+%3E%3D+%272023-04-01T00%3A00%3A00%27+AND+created_date+%3C+%272023-05-01T00%3A00%3A00%27&%24order=unique_key&%24limit=1000",
+        "rows": 1000,
+        "sha256": "78ae43b9d1e8797e1872c3aeddffff144be45a40a6ee7b903a58836b97b2fe1d"
+      },
+      {
+        "month": 5,
+        "url": "https://data.cityofnewyork.us/resource/erm2-nwe9.json?%24select=unique_key%2Ccreated_date%2Cclosed_date%2Cagency%2Ccomplaint_type%2Cdescriptor%2Cresolution_description%2Cstatus%2Cincident_zip%2Cborough%2Clatitude%2Clongitude%2Cincident_address&%24where=created_date+%3E%3D+%272023-05-01T00%3A00%3A00%27+AND+created_date+%3C+%272023-06-01T00%3A00%3A00%27&%24order=unique_key&%24limit=1000",
+        "rows": 1000,
+        "sha256": "60f304b98029f4fe83ebc3752511cbd87910bd2ee383ceb08e8958fd69f9e1a8"
+      },
+      {
+        "month": 6,
+        "url": "https://data.cityofnewyork.us/resource/erm2-nwe9.json?%24select=unique_key%2Ccreated_date%2Cclosed_date%2Cagency%2Ccomplaint_type%2Cdescriptor%2Cresolution_description%2Cstatus%2Cincident_zip%2Cborough%2Clatitude%2Clongitude%2Cincident_address&%24where=created_date+%3E%3D+%272023-06-01T00%3A00%3A00%27+AND+created_date+%3C+%272023-07-01T00%3A00%3A00%27&%24order=unique_key&%24limit=1000",
+        "rows": 1000,
+        "sha256": "4bba2890a4007a5f725a645aac19a381c93181b36722d5150150d1431634e93d"
+      },
+      {
+        "month": 7,
+        "url": "https://data.cityofnewyork.us/resource/erm2-nwe9.json?%24select=unique_key%2Ccreated_date%2Cclosed_date%2Cagency%2Ccomplaint_type%2Cdescriptor%2Cresolution_description%2Cstatus%2Cincident_zip%2Cborough%2Clatitude%2Clongitude%2Cincident_address&%24where=created_date+%3E%3D+%272023-07-01T00%3A00%3A00%27+AND+created_date+%3C+%272023-08-01T00%3A00%3A00%27&%24order=unique_key&%24limit=1000",
+        "rows": 1000,
+        "sha256": "6b7286bfff110efe544f57bb290f345897f487ef4b66e4856775da72646ff12e"
+      },
+      {
+        "month": 8,
+        "url": "https://data.cityofnewyork.us/resource/erm2-nwe9.json?%24select=unique_key%2Ccreated_date%2Cclosed_date%2Cagency%2Ccomplaint_type%2Cdescriptor%2Cresolution_description%2Cstatus%2Cincident_zip%2Cborough%2Clatitude%2Clongitude%2Cincident_address&%24where=created_date+%3E%3D+%272023-08-01T00%3A00%3A00%27+AND+created_date+%3C+%272023-09-01T00%3A00%3A00%27&%24order=unique_key&%24limit=1000",
+        "rows": 1000,
+        "sha256": "43d46bc26bb698bf0d4cdb4a5dae4f2f31bd418e4c3c99e6c372b253f9f6e186"
+      },
+      {
+        "month": 9,
+        "url": "https://data.cityofnewyork.us/resource/erm2-nwe9.json?%24select=unique_key%2Ccreated_date%2Cclosed_date%2Cagency%2Ccomplaint_type%2Cdescriptor%2Cresolution_description%2Cstatus%2Cincident_zip%2Cborough%2Clatitude%2Clongitude%2Cincident_address&%24where=created_date+%3E%3D+%272023-09-01T00%3A00%3A00%27+AND+created_date+%3C+%272023-10-01T00%3A00%3A00%27&%24order=created_date%2Cunique_key&%24limit=1000",
+        "rows": 1000,
+        "sha256": "f4cd6a3d673e5351f0dea605c346da7509476ff32ebcbbb1574b3bce3db6e8ca"
+      },
+      {
+        "month": 10,
+        "url": "https://data.cityofnewyork.us/resource/erm2-nwe9.json?%24select=unique_key%2Ccreated_date%2Cclosed_date%2Cagency%2Ccomplaint_type%2Cdescriptor%2Cresolution_description%2Cstatus%2Cincident_zip%2Cborough%2Clatitude%2Clongitude%2Cincident_address&%24where=created_date+%3E%3D+%272023-10-01T00%3A00%3A00%27+AND+created_date+%3C+%272023-11-01T00%3A00%3A00%27&%24order=created_date%2Cunique_key&%24limit=1000",
+        "rows": 1000,
+        "sha256": "cf6525e7c4ac5835245f01fb5c4ec8f8fcaf5c7edc2f8ef296652d7847d8f0a9"
+      },
+      {
+        "month": 11,
+        "url": "https://data.cityofnewyork.us/resource/erm2-nwe9.json?%24select=unique_key%2Ccreated_date%2Cclosed_date%2Cagency%2Ccomplaint_type%2Cdescriptor%2Cresolution_description%2Cstatus%2Cincident_zip%2Cborough%2Clatitude%2Clongitude%2Cincident_address&%24where=created_date+%3E%3D+%272023-11-01T00%3A00%3A00%27+AND+created_date+%3C+%272023-12-01T00%3A00%3A00%27&%24order=created_date%2Cunique_key&%24limit=1000",
+        "rows": 1000,
+        "sha256": "ef40323b4d7461ecd52be493e22f96c5ba237c75dd36d314ca423c6b5e803c4f"
+      },
+      {
+        "month": 12,
+        "url": "https://data.cityofnewyork.us/resource/erm2-nwe9.json?%24select=unique_key%2Ccreated_date%2Cclosed_date%2Cagency%2Ccomplaint_type%2Cdescriptor%2Cresolution_description%2Cstatus%2Cincident_zip%2Cborough%2Clatitude%2Clongitude%2Cincident_address&%24where=created_date+%3E%3D+%272023-12-01T00%3A00%3A00%27+AND+created_date+%3C+%272024-01-01T00%3A00%3A00%27&%24order=created_date%2Cunique_key&%24limit=1000",
+        "rows": 1000,
+        "sha256": "66431a12e59d4ea14f1de01b08d7b6743b50ba44d7be6d8b3dcf22288fef2da6"
+      }
+    ]
+  },
+  "split": {
+    "train": 7180,
+    "holdout": 4820,
+    "structurally_valid_holdout": 4816,
+    "benchmark_control_rows": 1200,
+    "method": "SHA256(unique_key) mod10 <6 train, else holdout; fixed random sample of holdout"
+  },
+  "seeds": [
+    17,
+    29,
+    44
+  ],
+  "rates": [
+    0.01,
+    0.05,
+    0.1
+  ],
+  "summary": [
+    {
+      "problem": "schema_change",
+      "family": "rule",
+      "trials": 9,
+      "detected_rows": 10800,
+      "injected_rows": 10800,
+      "recall": 1.0,
+      "recall_wilson_95": [
+        0.9996444227764317,
+        1
+      ],
+      "batch_detection_rate": 1.0,
+      "control_alerts": 0,
+      "control_rows": 1200,
+      "control_alert_rate_proxy_far": 0.0,
+      "control_rate_wilson_95": [
+        0,
+        0.00319111750250199
+      ],
+      "throughput_rows_second": 9812.16785192891,
+      "cpu_seconds_per_million": 99.8263888888889,
+      "cpu_scenario_usd_per_million": 0.0011091820987654323,
+      "llm_invoice_usd_per_million": 0,
+      "explanation": "Concrete row/batch predicate and support counts"
+    },
+    {
+      "problem": "schema_change",
+      "family": "statistical",
+      "trials": 9,
+      "detected_rows": 10800,
+      "injected_rows": 10800,
+      "recall": 1.0,
+      "recall_wilson_95": [
+        0.9996444227764317,
+        1
+      ],
+      "batch_detection_rate": 1.0,
+      "control_alerts": 0,
+      "control_rows": 1200,
+      "control_alert_rate_proxy_far": 0.0,
+      "control_rate_wilson_95": [
+        0,
+        0.00319111750250199
+      ],
+      "throughput_rows_second": 4585.837515682141,
+      "cpu_seconds_per_million": 217.01388888888889,
+      "cpu_scenario_usd_per_million": 0.0024112654320987653,
+      "llm_invoice_usd_per_million": 0,
+      "explanation": "Concrete row/batch predicate and support counts"
+    },
+    {
+      "problem": "schema_change",
+      "family": "hybrid",
+      "trials": 9,
+      "detected_rows": 10800,
+      "injected_rows": 10800,
+      "recall": 1.0,
+      "recall_wilson_95": [
+        0.9996444227764317,
+        1
+      ],
+      "batch_detection_rate": 1.0,
+      "control_alerts": 0,
+      "control_rows": 1200,
+      "control_alert_rate_proxy_far": 0.0,
+      "control_rate_wilson_95": [
+        0,
+        0.00319111750250199
+      ],
+      "throughput_rows_second": 4165.86676227874,
+      "cpu_seconds_per_million": 227.14120370370372,
+      "cpu_scenario_usd_per_million": 0.002523791152263375,
+      "llm_invoice_usd_per_million": 0,
+      "explanation": "Accepted hard checks; semantic alerts deferred when no model evidence exists"
+    },
+    {
+      "problem": "type_change",
+      "family": "rule",
+      "trials": 9,
+      "detected_rows": 576,
+      "injected_rows": 576,
+      "recall": 1.0,
+      "recall_wilson_95": [
+        0.9933747423434263,
+        1
+      ],
+      "batch_detection_rate": 1.0,
+      "control_alerts": 0,
+      "control_rows": 1200,
+      "control_alert_rate_proxy_far": 0.0,
+      "control_rate_wilson_95": [
+        0,
+        0.00319111750250199
+      ],
+      "throughput_rows_second": 9384.524641717746,
+      "cpu_seconds_per_million": 105.61342592592592,
+      "cpu_scenario_usd_per_million": 0.001173482510288066,
+      "llm_invoice_usd_per_million": 0,
+      "explanation": "Concrete row/batch predicate and support counts"
+    },
+    {
+      "problem": "type_change",
+      "family": "statistical",
+      "trials": 9,
+      "detected_rows": 576,
+      "injected_rows": 576,
+      "recall": 1.0,
+      "recall_wilson_95": [
+        0.9933747423434263,
+        1
+      ],
+      "batch_detection_rate": 1.0,
+      "control_alerts": 0,
+      "control_rows": 1200,
+      "control_alert_rate_proxy_far": 0.0,
+      "control_rate_wilson_95": [
+        0,
+        0.00319111750250199
+      ],
+      "throughput_rows_second": 3374.242799002488,
+      "cpu_seconds_per_million": 286.4583333333333,
+      "cpu_scenario_usd_per_million": 0.0031828703703703706,
+      "llm_invoice_usd_per_million": 0,
+      "explanation": "Concrete row/batch predicate and support counts"
+    },
+    {
+      "problem": "type_change",
+      "family": "hybrid",
+      "trials": 9,
+      "detected_rows": 576,
+      "injected_rows": 576,
+      "recall": 1.0,
+      "recall_wilson_95": [
+        0.9933747423434263,
+        1
+      ],
+      "batch_detection_rate": 1.0,
+      "control_alerts": 0,
+      "control_rows": 1200,
+      "control_alert_rate_proxy_far": 0.0,
+      "control_rate_wilson_95": [
+        0,
+        0.00319111750250199
+      ],
+      "throughput_rows_second": 2460.5651713728594,
+      "cpu_seconds_per_million": 405.09259259259255,
+      "cpu_scenario_usd_per_million": 0.004501028806584362,
+      "llm_invoice_usd_per_million": 0,
+      "explanation": "Accepted hard checks; semantic alerts deferred when no model evidence exists"
+    },
+    {
+      "problem": "date_format",
+      "family": "rule",
+      "trials": 9,
+      "detected_rows": 576,
+      "injected_rows": 576,
+      "recall": 1.0,
+      "recall_wilson_95": [
+        0.9933747423434263,
+        1
+      ],
+      "batch_detection_rate": 1.0,
+      "control_alerts": 0,
+      "control_rows": 1200,
+      "control_alert_rate_proxy_far": 0.0,
+      "control_rate_wilson_95": [
+        0,
+        0.00319111750250199
+      ],
+      "throughput_rows_second": 8967.20990149431,
+      "cpu_seconds_per_million": 109.95370370370371,
+      "cpu_scenario_usd_per_million": 0.0012217078189300412,
+      "llm_invoice_usd_per_million": 0,
+      "explanation": "Concrete row/batch predicate and support counts"
+    },
+    {
+      "problem": "date_format",
+      "family": "statistical",
+      "trials": 9,
+      "detected_rows": 576,
+      "injected_rows": 576,
+      "recall": 1.0,
+      "recall_wilson_95": [
+        0.9933747423434263,
+        1
+      ],
+      "batch_detection_rate": 1.0,
+      "control_alerts": 0,
+      "control_rows": 1200,
+      "control_alert_rate_proxy_far": 0.0,
+      "control_rate_wilson_95": [
+        0,
+        0.00319111750250199
+      ],
+      "throughput_rows_second": 3690.4007959406235,
+      "cpu_seconds_per_million": 266.2037037037037,
+      "cpu_scenario_usd_per_million": 0.0029578189300411522,
+      "llm_invoice_usd_per_million": 0,
+      "explanation": "Concrete row/batch predicate and support counts"
+    },
+    {
+      "problem": "date_format",
+      "family": "hybrid",
+      "trials": 9,
+      "detected_rows": 576,
+      "injected_rows": 576,
+      "recall": 1.0,
+      "recall_wilson_95": [
+        0.9933747423434263,
+        1
+      ],
+      "batch_detection_rate": 1.0,
+      "control_alerts": 0,
+      "control_rows": 1200,
+      "control_alert_rate_proxy_far": 0.0,
+      "control_rate_wilson_95": [
+        0,
+        0.00319111750250199
+      ],
+      "throughput_rows_second": 2899.4203950240153,
+      "cpu_seconds_per_million": 337.09490740740745,
+      "cpu_scenario_usd_per_million": 0.0037454989711934164,
+      "llm_invoice_usd_per_million": 0,
+      "explanation": "Accepted hard checks; semantic alerts deferred when no model evidence exists"
+    },
+    {
+      "problem": "coordinates_swapped",
+      "family": "rule",
+      "trials": 9,
+      "detected_rows": 576,
+      "injected_rows": 576,
+      "recall": 1.0,
+      "recall_wilson_95": [
+        0.9933747423434263,
+        1
+      ],
+      "batch_detection_rate": 1.0,
+      "control_alerts": 0,
+      "control_rows": 1200,
+      "control_alert_rate_proxy_far": 0.0,
+      "control_rate_wilson_95": [
+        0,
+        0.00319111750250199
+      ],
+      "throughput_rows_second": 9794.950867170905,
+      "cpu_seconds_per_million": 104.16666666666667,
+      "cpu_scenario_usd_per_million": 0.0011574074074074073,
+      "llm_invoice_usd_per_million": 0,
+      "explanation": "Concrete row/batch predicate and support counts"
+    },
+    {
+      "problem": "coordinates_swapped",
+      "family": "statistical",
+      "trials": 9,
+      "detected_rows": 576,
+      "injected_rows": 576,
+      "recall": 1.0,
+      "recall_wilson_95": [
+        0.9933747423434263,
+        1
+      ],
+      "batch_detection_rate": 1.0,
+      "control_alerts": 0,
+      "control_rows": 1200,
+      "control_alert_rate_proxy_far": 0.0,
+      "control_rate_wilson_95": [
+        0,
+        0.00319111750250199
+      ],
+      "throughput_rows_second": 3575.020497534192,
+      "cpu_seconds_per_million": 276.33101851851853,
+      "cpu_scenario_usd_per_million": 0.0030703446502057612,
+      "llm_invoice_usd_per_million": 0,
+      "explanation": "Concrete row/batch predicate and support counts"
+    },
+    {
+      "problem": "coordinates_swapped",
+      "family": "hybrid",
+      "trials": 9,
+      "detected_rows": 576,
+      "injected_rows": 576,
+      "recall": 1.0,
+      "recall_wilson_95": [
+        0.9933747423434263,
+        1
+      ],
+      "batch_detection_rate": 1.0,
+      "control_alerts": 0,
+      "control_rows": 1200,
+      "control_alert_rate_proxy_far": 0.0,
+      "control_rate_wilson_95": [
+        0,
+        0.00319111750250199
+      ],
+      "throughput_rows_second": 2817.1582151343455,
+      "cpu_seconds_per_million": 351.5625,
+      "cpu_scenario_usd_per_million": 0.00390625,
+      "llm_invoice_usd_per_million": 0,
+      "explanation": "Accepted hard checks; semantic alerts deferred when no model evidence exists"
+    },
+    {
+      "problem": "exact_duplicate",
+      "family": "rule",
+      "trials": 9,
+      "detected_rows": 576,
+      "injected_rows": 576,
+      "recall": 1.0,
+      "recall_wilson_95": [
+        0.9933747423434263,
+        1
+      ],
+      "batch_detection_rate": 1.0,
+      "control_alerts": 0,
+      "control_rows": 1200,
+      "control_alert_rate_proxy_far": 0.0,
+      "control_rate_wilson_95": [
+        0,
+        0.00319111750250199
+      ],
+      "throughput_rows_second": 8953.647167594943,
+      "cpu_seconds_per_million": 114.00096694796062,
+      "cpu_scenario_usd_per_million": 0.0012666774105328958,
+      "llm_invoice_usd_per_million": 0,
+      "explanation": "Concrete row/batch predicate and support counts"
+    },
+    {
+      "problem": "exact_duplicate",
+      "family": "statistical",
+      "trials": 9,
+      "detected_rows": 576,
+      "injected_rows": 576,
+      "recall": 1.0,
+      "recall_wilson_95": [
+        0.9933747423434263,
+        1
+      ],
+      "batch_detection_rate": 1.0,
+      "control_alerts": 0,
+      "control_rows": 1200,
+      "control_alert_rate_proxy_far": 0.0,
+      "control_rate_wilson_95": [
+        0,
+        0.00319111750250199
+      ],
+      "throughput_rows_second": 3479.8623765879074,
+      "cpu_seconds_per_million": 278.8216420534458,
+      "cpu_scenario_usd_per_million": 0.003098018245038287,
+      "llm_invoice_usd_per_million": 0,
+      "explanation": "Concrete row/batch predicate and support counts"
+    },
+    {
+      "problem": "exact_duplicate",
+      "family": "hybrid",
+      "trials": 9,
+      "detected_rows": 576,
+      "injected_rows": 576,
+      "recall": 1.0,
+      "recall_wilson_95": [
+        0.9933747423434263,
+        1
+      ],
+      "batch_detection_rate": 1.0,
+      "control_alerts": 0,
+      "control_rows": 1200,
+      "control_alert_rate_proxy_far": 0.0,
+      "control_rate_wilson_95": [
+        0,
+        0.00319111750250199
+      ],
+      "throughput_rows_second": 2667.3514493377193,
+      "cpu_seconds_per_million": 366.72600210970467,
+      "cpu_scenario_usd_per_million": 0.004074733356774497,
+      "llm_invoice_usd_per_million": 0,
+      "explanation": "Accepted hard checks; semantic alerts deferred when no model evidence exists"
+    },
+    {
+      "problem": "near_duplicate",
+      "family": "rule",
+      "trials": 9,
+      "detected_rows": 576,
+      "injected_rows": 576,
+      "recall": 1.0,
+      "recall_wilson_95": [
+        0.9933747423434263,
+        1
+      ],
+      "batch_detection_rate": 1.0,
+      "control_alerts": 0,
+      "control_rows": 1200,
+      "control_alert_rate_proxy_far": 0.0,
+      "control_rate_wilson_95": [
+        0,
+        0.00319111750250199
+      ],
+      "throughput_rows_second": 8103.439089684318,
+      "cpu_seconds_per_million": 120.86849507735585,
+      "cpu_scenario_usd_per_million": 0.0013429832786372874,
+      "llm_invoice_usd_per_million": 0,
+      "explanation": "Concrete row/batch predicate and support counts"
+    },
+    {
+      "problem": "near_duplicate",
+      "family": "statistical",
+      "trials": 9,
+      "detected_rows": 576,
+      "injected_rows": 576,
+      "recall": 1.0,
+      "recall_wilson_95": [
+        0.9933747423434263,
+        1
+      ],
+      "batch_detection_rate": 1.0,
+      "control_alerts": 1,
+      "control_rows": 1200,
+      "control_alert_rate_proxy_far": 0.0008333333333333334,
+      "control_rate_wilson_95": [
+        0.0001471151604173341,
+        0.004705350479580485
+      ],
+      "throughput_rows_second": 3542.244708851516,
+      "cpu_seconds_per_million": 276.07463080168776,
+      "cpu_scenario_usd_per_million": 0.0030674958977965306,
+      "llm_invoice_usd_per_million": 0,
+      "explanation": "Concrete row/batch predicate and support counts"
+    },
+    {
+      "problem": "near_duplicate",
+      "family": "hybrid",
+      "trials": 9,
+      "detected_rows": 576,
+      "injected_rows": 576,
+      "recall": 1.0,
+      "recall_wilson_95": [
+        0.9933747423434263,
+        1
+      ],
+      "batch_detection_rate": 1.0,
+      "control_alerts": 0,
+      "control_rows": 1200,
+      "control_alert_rate_proxy_far": 0.0,
+      "control_rate_wilson_95": [
+        0,
+        0.00319111750250199
+      ],
+      "throughput_rows_second": 3304.350265967245,
+      "cpu_seconds_per_million": 296.67721518987344,
+      "cpu_scenario_usd_per_million": 0.0032964135021097047,
+      "llm_invoice_usd_per_million": 0,
+      "explanation": "Accepted hard checks; semantic alerts deferred when no model evidence exists"
+    },
+    {
+      "problem": "agency_null_spike",
+      "family": "rule",
+      "trials": 9,
+      "detected_rows": 360,
+      "injected_rows": 576,
+      "recall": 0.625,
+      "recall_wilson_95": [
+        0.5847576244495549,
+        0.6635860611363016
+      ],
+      "batch_detection_rate": 0.3333333333333333,
+      "control_alerts": 0,
+      "control_rows": 1200,
+      "control_alert_rate_proxy_far": 0.0,
+      "control_rate_wilson_95": [
+        0,
+        0.00319111750250199
+      ],
+      "throughput_rows_second": 12971.224779077038,
+      "cpu_seconds_per_million": 76.67824074074073,
+      "cpu_scenario_usd_per_million": 0.000851980452674897,
+      "llm_invoice_usd_per_million": 0,
+      "explanation": "Concrete row/batch predicate and support counts"
+    },
+    {
+      "problem": "agency_null_spike",
+      "family": "statistical",
+      "trials": 9,
+      "detected_rows": 540,
+      "injected_rows": 576,
+      "recall": 0.9375,
+      "recall_wilson_95": [
+        0.9146866240361099,
+        0.954516275514388
+      ],
+      "batch_detection_rate": 0.6666666666666666,
+      "control_alerts": 0,
+      "control_rows": 1200,
+      "control_alert_rate_proxy_far": 0.0,
+      "control_rate_wilson_95": [
+        0,
+        0.00319111750250199
+      ],
+      "throughput_rows_second": 5514.785292334022,
+      "cpu_seconds_per_million": 177.95138888888889,
+      "cpu_scenario_usd_per_million": 0.0019772376543209878,
+      "llm_invoice_usd_per_million": 0,
+      "explanation": "Concrete row/batch predicate and support counts"
+    },
+    {
+      "problem": "agency_null_spike",
+      "family": "hybrid",
+      "trials": 9,
+      "detected_rows": 540,
+      "injected_rows": 576,
+      "recall": 0.9375,
+      "recall_wilson_95": [
+        0.9146866240361099,
+        0.954516275514388
+      ],
+      "batch_detection_rate": 0.6666666666666666,
+      "control_alerts": 0,
+      "control_rows": 1200,
+      "control_alert_rate_proxy_far": 0.0,
+      "control_rate_wilson_95": [
+        0,
+        0.00319111750250199
+      ],
+      "throughput_rows_second": 2303.390135990299,
+      "cpu_seconds_per_million": 399.3055555555556,
+      "cpu_scenario_usd_per_million": 0.004436728395061729,
+      "llm_invoice_usd_per_million": 0,
+      "explanation": "Accepted hard checks; semantic alerts deferred when no model evidence exists"
+    },
+    {
+      "problem": "negative_duration",
+      "family": "rule",
+      "trials": 9,
+      "detected_rows": 576,
+      "injected_rows": 576,
+      "recall": 1.0,
+      "recall_wilson_95": [
+        0.9933747423434263,
+        1
+      ],
+      "batch_detection_rate": 1.0,
+      "control_alerts": 0,
+      "control_rows": 1200,
+      "control_alert_rate_proxy_far": 0.0,
+      "control_rate_wilson_95": [
+        0,
+        0.00319111750250199
+      ],
+      "throughput_rows_second": 7727.293508974967,
+      "cpu_seconds_per_million": 118.63425925925927,
+      "cpu_scenario_usd_per_million": 0.001318158436213992,
+      "llm_invoice_usd_per_million": 0,
+      "explanation": "Concrete row/batch predicate and support counts"
+    },
+    {
+      "problem": "negative_duration",
+      "family": "statistical",
+      "trials": 9,
+      "detected_rows": 576,
+      "injected_rows": 576,
+      "recall": 1.0,
+      "recall_wilson_95": [
+        0.9933747423434263,
+        1
+      ],
+      "batch_detection_rate": 1.0,
+      "control_alerts": 0,
+      "control_rows": 1200,
+      "control_alert_rate_proxy_far": 0.0,
+      "control_rate_wilson_95": [
+        0,
+        0.00319111750250199
+      ],
+      "throughput_rows_second": 3378.0931721325337,
+      "cpu_seconds_per_million": 287.9050925925926,
+      "cpu_scenario_usd_per_million": 0.0031989454732510294,
+      "llm_invoice_usd_per_million": 0,
+      "explanation": "Concrete row/batch predicate and support counts"
+    },
+    {
+      "problem": "negative_duration",
+      "family": "hybrid",
+      "trials": 9,
+      "detected_rows": 576,
+      "injected_rows": 576,
+      "recall": 1.0,
+      "recall_wilson_95": [
+        0.9933747423434263,
+        1
+      ],
+      "batch_detection_rate": 1.0,
+      "control_alerts": 0,
+      "control_rows": 1200,
+      "control_alert_rate_proxy_far": 0.0,
+      "control_rate_wilson_95": [
+        0,
+        0.00319111750250199
+      ],
+      "throughput_rows_second": 2646.792911704592,
+      "cpu_seconds_per_million": 373.2638888888889,
+      "cpu_scenario_usd_per_million": 0.004147376543209877,
+      "llm_invoice_usd_per_million": 0,
+      "explanation": "Accepted hard checks; semantic alerts deferred when no model evidence exists"
+    },
+    {
+      "problem": "zip_borough",
+      "family": "rule",
+      "trials": 9,
+      "detected_rows": 576,
+      "injected_rows": 576,
+      "recall": 1.0,
+      "recall_wilson_95": [
+        0.9933747423434263,
+        1
+      ],
+      "batch_detection_rate": 1.0,
+      "control_alerts": 0,
+      "control_rows": 1200,
+      "control_alert_rate_proxy_far": 0.0,
+      "control_rate_wilson_95": [
+        0,
+        0.00319111750250199
+      ],
+      "throughput_rows_second": 9121.459838572848,
+      "cpu_seconds_per_million": 108.50694444444444,
+      "cpu_scenario_usd_per_million": 0.0012056327160493826,
+      "llm_invoice_usd_per_million": 0,
+      "explanation": "Concrete row/batch predicate and support counts"
+    },
+    {
+      "problem": "zip_borough",
+      "family": "statistical",
+      "trials": 9,
+      "detected_rows": 476,
+      "injected_rows": 576,
+      "recall": 0.8263888888888888,
+      "recall_wilson_95": [
+        0.7933201088711539,
+        0.8551328479363605
+      ],
+      "batch_detection_rate": 1.0,
+      "control_alerts": 0,
+      "control_rows": 1200,
+      "control_alert_rate_proxy_far": 0.0,
+      "control_rate_wilson_95": [
+        0,
+        0.00319111750250199
+      ],
+      "throughput_rows_second": 3526.6722549243777,
+      "cpu_seconds_per_million": 274.8842592592593,
+      "cpu_scenario_usd_per_million": 0.0030542695473251033,
+      "llm_invoice_usd_per_million": 0,
+      "explanation": "Concrete row/batch predicate and support counts"
+    },
+    {
+      "problem": "zip_borough",
+      "family": "hybrid",
+      "trials": 9,
+      "detected_rows": 576,
+      "injected_rows": 576,
+      "recall": 1.0,
+      "recall_wilson_95": [
+        0.9933747423434263,
+        1
+      ],
+      "batch_detection_rate": 1.0,
+      "control_alerts": 0,
+      "control_rows": 1200,
+      "control_alert_rate_proxy_far": 0.0,
+      "control_rate_wilson_95": [
+        0,
+        0.00319111750250199
+      ],
+      "throughput_rows_second": 2626.6447082266827,
+      "cpu_seconds_per_million": 381.94444444444446,
+      "cpu_scenario_usd_per_million": 0.004243827160493827,
+      "llm_invoice_usd_per_million": 0,
+      "explanation": "Accepted hard checks; semantic alerts deferred when no model evidence exists"
+    },
+    {
+      "problem": "complaint_descriptor",
+      "family": "rule",
+      "trials": 9,
+      "detected_rows": 576,
+      "injected_rows": 576,
+      "recall": 1.0,
+      "recall_wilson_95": [
+        0.9933747423434263,
+        1
+      ],
+      "batch_detection_rate": 1.0,
+      "control_alerts": 0,
+      "control_rows": 1200,
+      "control_alert_rate_proxy_far": 0.0,
+      "control_rate_wilson_95": [
+        0,
+        0.00319111750250199
+      ],
+      "throughput_rows_second": 8300.437087388584,
+      "cpu_seconds_per_million": 120.08101851851852,
+      "cpu_scenario_usd_per_million": 0.0013342335390946502,
+      "llm_invoice_usd_per_million": 0,
+      "explanation": "Concrete row/batch predicate and support counts"
+    },
+    {
+      "problem": "complaint_descriptor",
+      "family": "statistical",
+      "trials": 9,
+      "detected_rows": 362,
+      "injected_rows": 576,
+      "recall": 0.6284722222222222,
+      "recall_wilson_95": [
+        0.5882803912170891,
+        0.6669617300794857
+      ],
+      "batch_detection_rate": 1.0,
+      "control_alerts": 1,
+      "control_rows": 1200,
+      "control_alert_rate_proxy_far": 0.0008333333333333334,
+      "control_rate_wilson_95": [
+        0.0001471151604173341,
+        0.004705350479580485
+      ],
+      "throughput_rows_second": 3622.3269364631983,
+      "cpu_seconds_per_million": 266.2037037037037,
+      "cpu_scenario_usd_per_million": 0.0029578189300411522,
+      "llm_invoice_usd_per_million": 0,
+      "explanation": "Concrete row/batch predicate and support counts"
+    },
+    {
+      "problem": "complaint_descriptor",
+      "family": "hybrid",
+      "trials": 9,
+      "detected_rows": 576,
+      "injected_rows": 576,
+      "recall": 1.0,
+      "recall_wilson_95": [
+        0.9933747423434263,
+        1
+      ],
+      "batch_detection_rate": 1.0,
+      "control_alerts": 1,
+      "control_rows": 1200,
+      "control_alert_rate_proxy_far": 0.0008333333333333334,
+      "control_rate_wilson_95": [
+        0.0001471151604173341,
+        0.004705350479580485
+      ],
+      "throughput_rows_second": 2411.9227774672636,
+      "cpu_seconds_per_million": 399.3055555555556,
+      "cpu_scenario_usd_per_million": 0.004436728395061729,
+      "llm_invoice_usd_per_million": 0,
+      "explanation": "Accepted hard checks; semantic alerts deferred when no model evidence exists"
+    },
+    {
+      "problem": "resolution_status",
+      "family": "rule",
+      "trials": 9,
+      "detected_rows": 576,
+      "injected_rows": 576,
+      "recall": 1.0,
+      "recall_wilson_95": [
+        0.9933747423434263,
+        1
+      ],
+      "batch_detection_rate": 1.0,
+      "control_alerts": 0,
+      "control_rows": 1200,
+      "control_alert_rate_proxy_far": 0.0,
+      "control_rate_wilson_95": [
+        0,
+        0.00319111750250199
+      ],
+      "throughput_rows_second": 7984.956931825383,
+      "cpu_seconds_per_million": 122.97453703703702,
+      "cpu_scenario_usd_per_million": 0.001366383744855967,
+      "llm_invoice_usd_per_million": 0,
+      "explanation": "Concrete row/batch predicate and support counts"
+    },
+    {
+      "problem": "resolution_status",
+      "family": "statistical",
+      "trials": 9,
+      "detected_rows": 0,
+      "injected_rows": 576,
+      "recall": 0.0,
+      "recall_wilson_95": [
+        0,
+        0.006625257656573795
+      ],
+      "batch_detection_rate": 0.0,
+      "control_alerts": 13,
+      "control_rows": 1200,
+      "control_alert_rate_proxy_far": 0.010833333333333334,
+      "control_rate_wilson_95": [
+        0.0063418336421987576,
+        0.018446809647749023
+      ],
+      "throughput_rows_second": 3866.958717528265,
+      "cpu_seconds_per_million": 256.0763888888889,
+      "cpu_scenario_usd_per_million": 0.0028452932098765433,
+      "llm_invoice_usd_per_million": 0,
+      "explanation": "Concrete row/batch predicate and support counts"
+    },
+    {
+      "problem": "resolution_status",
+      "family": "hybrid",
+      "trials": 9,
+      "detected_rows": 576,
+      "injected_rows": 576,
+      "recall": 1.0,
+      "recall_wilson_95": [
+        0.9933747423434263,
+        1
+      ],
+      "batch_detection_rate": 1.0,
+      "control_alerts": 13,
+      "control_rows": 1200,
+      "control_alert_rate_proxy_far": 0.010833333333333334,
+      "control_rate_wilson_95": [
+        0.0063418336421987576,
+        0.018446809647749023
+      ],
+      "throughput_rows_second": 2733.995179537105,
+      "cpu_seconds_per_million": 361.6898148148148,
+      "cpu_scenario_usd_per_million": 0.004018775720164609,
+      "llm_invoice_usd_per_million": 0,
+      "explanation": "Accepted hard checks; semantic alerts deferred when no model evidence exists"
+    },
+    {
+      "problem": "personal_data",
+      "family": "rule",
+      "trials": 9,
+      "detected_rows": 435,
+      "injected_rows": 576,
+      "recall": 0.7552083333333334,
+      "recall_wilson_95": [
+        0.7184795088672983,
+        0.7885555158704923
+      ],
+      "batch_detection_rate": 1.0,
+      "control_alerts": 29,
+      "control_rows": 1200,
+      "control_alert_rate_proxy_far": 0.024166666666666666,
+      "control_rate_wilson_95": [
+        0.016878255322052452,
+        0.0344919581678286
+      ],
+      "throughput_rows_second": 7251.435884978833,
+      "cpu_seconds_per_million": 130.20833333333334,
+      "cpu_scenario_usd_per_million": 0.0014467592592592594,
+      "llm_invoice_usd_per_million": 0,
+      "explanation": "Concrete row/batch predicate and support counts"
+    },
+    {
+      "problem": "personal_data",
+      "family": "statistical",
+      "trials": 9,
+      "detected_rows": 576,
+      "injected_rows": 576,
+      "recall": 1.0,
+      "recall_wilson_95": [
+        0.9933747423434263,
+        1
+      ],
+      "batch_detection_rate": 1.0,
+      "control_alerts": 29,
+      "control_rows": 1200,
+      "control_alert_rate_proxy_far": 0.024166666666666666,
+      "control_rate_wilson_95": [
+        0.016878255322052452,
+        0.0344919581678286
+      ],
+      "throughput_rows_second": 3194.5661140860275,
+      "cpu_seconds_per_million": 299.47916666666663,
+      "cpu_scenario_usd_per_million": 0.003327546296296296,
+      "llm_invoice_usd_per_million": 0,
+      "explanation": "Concrete row/batch predicate and support counts"
+    },
+    {
+      "problem": "personal_data",
+      "family": "hybrid",
+      "trials": 9,
+      "detected_rows": 576,
+      "injected_rows": 576,
+      "recall": 1.0,
+      "recall_wilson_95": [
+        0.9933747423434263,
+        1
+      ],
+      "batch_detection_rate": 1.0,
+      "control_alerts": 29,
+      "control_rows": 1200,
+      "control_alert_rate_proxy_far": 0.024166666666666666,
+      "control_rate_wilson_95": [
+        0.016878255322052452,
+        0.0344919581678286
+      ],
+      "throughput_rows_second": 2670.7273592326105,
+      "cpu_seconds_per_million": 364.58333333333337,
+      "cpu_scenario_usd_per_million": 0.004050925925925927,
+      "llm_invoice_usd_per_million": 0,
+      "explanation": "Accepted hard checks; semantic alerts deferred when no model evidence exists"
+    }
+  ],
+  "llm_summary": [
+    {
+      "problem": "schema_change",
+      "family": "llm",
+      "tp": 0,
+      "fn": 64,
+      "fp_on_noninjected_rows": 0,
+      "positive_rows": 64,
+      "negative_rows": 0,
+      "recall": 0.0,
+      "control_alert_rate_proxy_far": 0.0,
+      "output_contract_error": null,
+      "control_output_contract_error": null,
+      "control_rows": 64,
+      "throughput_rows_second": 6.3859303904390705,
+      "paid_usd_per_million": 91.41562499999999,
+      "latency_seconds": 10.022032200009562,
+      "request_sha256": "115574b214e5d22f6c0c14b613105e73a254a28d4c250e4001e78385f0a7361d",
+      "usage": {
+        "promptTokenCount": 19427,
+        "candidatesTokenCount": 9,
+        "totalTokenCount": 19436,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 19427
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "review_scope": "Matched 64-row cohort, 10% injection, one seed; text truncated at 700 chars"
+    },
+    {
+      "problem": "type_change",
+      "family": "llm",
+      "tp": 0,
+      "fn": 6,
+      "fp_on_noninjected_rows": 0,
+      "positive_rows": 6,
+      "negative_rows": 58,
+      "recall": 0.0,
+      "control_alert_rate_proxy_far": 0.0,
+      "output_contract_error": null,
+      "control_output_contract_error": null,
+      "control_rows": 64,
+      "throughput_rows_second": 7.268858175182933,
+      "paid_usd_per_million": 92.159375,
+      "latency_seconds": 8.80468409997411,
+      "request_sha256": "ff894399a21ff6ff0a739bf1b229a8c9b7326021176eea75c69adff62fb12b7e",
+      "usage": {
+        "promptTokenCount": 19619,
+        "candidatesTokenCount": 5,
+        "totalTokenCount": 19624,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 19619
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "review_scope": "Matched 64-row cohort, 10% injection, one seed; text truncated at 700 chars"
+    },
+    {
+      "problem": "date_format",
+      "family": "llm",
+      "tp": 0,
+      "fn": 6,
+      "fp_on_noninjected_rows": 0,
+      "positive_rows": 6,
+      "negative_rows": 58,
+      "recall": 0.0,
+      "control_alert_rate_proxy_far": 0.0,
+      "output_contract_error": null,
+      "control_output_contract_error": null,
+      "control_rows": 64,
+      "throughput_rows_second": 6.647686483088635,
+      "paid_usd_per_million": 92.203125,
+      "latency_seconds": 9.627409499953501,
+      "request_sha256": "6ebfb32268063efcf58fd59a4c4cc5780285c56f5e367eeb56e2a905c77948f2",
+      "usage": {
+        "promptTokenCount": 19595,
+        "candidatesTokenCount": 9,
+        "totalTokenCount": 19604,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 19595
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "review_scope": "Matched 64-row cohort, 10% injection, one seed; text truncated at 700 chars"
+    },
+    {
+      "problem": "coordinates_swapped",
+      "family": "llm",
+      "tp": 2,
+      "fn": 4,
+      "fp_on_noninjected_rows": 4,
+      "positive_rows": 6,
+      "negative_rows": 58,
+      "recall": 0.3333333333333333,
+      "control_alert_rate_proxy_far": 0.0,
+      "output_contract_error": null,
+      "control_output_contract_error": null,
+      "control_rows": 64,
+      "throughput_rows_second": 21.55392845079721,
+      "paid_usd_per_million": 104.7375,
+      "latency_seconds": 2.969296300027054,
+      "request_sha256": "d959dec7fa9f7733bdf428cf3c882762dd99b48c6aef146ff4592585ac56cf4b",
+      "usage": {
+        "promptTokenCount": 19619,
+        "candidatesTokenCount": 327,
+        "totalTokenCount": 19946,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 19619
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "review_scope": "Matched 64-row cohort, 10% injection, one seed; text truncated at 700 chars"
+    },
+    {
+      "problem": "exact_duplicate",
+      "family": "llm",
+      "tp": 0,
+      "fn": 6,
+      "fp_on_noninjected_rows": 6,
+      "positive_rows": 6,
+      "negative_rows": 64,
+      "recall": 0.0,
+      "control_alert_rate_proxy_far": 0.0,
+      "output_contract_error": null,
+      "control_output_contract_error": null,
+      "control_rows": 64,
+      "throughput_rows_second": 2.9458233336092308,
+      "paid_usd_per_million": 99.89,
+      "latency_seconds": 23.762456900032703,
+      "request_sha256": "457d963f1ccaeb0eaed1c1ef81a9db6b86713896542688a907060126b872ff35",
+      "usage": {
+        "promptTokenCount": 20966,
+        "candidatesTokenCount": 281,
+        "totalTokenCount": 21247,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 20966
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "review_scope": "Matched 64-row cohort, 10% injection, one seed; text truncated at 700 chars"
+    },
+    {
+      "problem": "near_duplicate",
+      "family": "llm",
+      "tp": 0,
+      "fn": 6,
+      "fp_on_noninjected_rows": 6,
+      "positive_rows": 6,
+      "negative_rows": 64,
+      "recall": 0.0,
+      "control_alert_rate_proxy_far": 0.0,
+      "output_contract_error": null,
+      "control_output_contract_error": null,
+      "control_rows": 64,
+      "throughput_rows_second": 1.3118172860114952,
+      "paid_usd_per_million": 103.29571428571428,
+      "latency_seconds": 53.36108979996061,
+      "request_sha256": "b9c3ce279f8fccf1914dfde20951c99afc69507abe952d74702e927b021adc72",
+      "usage": {
+        "promptTokenCount": 20919,
+        "candidatesTokenCount": 382,
+        "totalTokenCount": 21301,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 20919
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "review_scope": "Matched 64-row cohort, 10% injection, one seed; text truncated at 700 chars"
+    },
+    {
+      "problem": "agency_null_spike",
+      "family": "llm",
+      "tp": 0,
+      "fn": 6,
+      "fp_on_noninjected_rows": 0,
+      "positive_rows": 6,
+      "negative_rows": 58,
+      "recall": 0.0,
+      "control_alert_rate_proxy_far": 0.0,
+      "output_contract_error": null,
+      "control_output_contract_error": null,
+      "control_rows": 64,
+      "throughput_rows_second": 5.93262649796161,
+      "paid_usd_per_million": 92.2171875,
+      "latency_seconds": 10.787802000006195,
+      "request_sha256": "6e5eff41aea9b338664f2ce53b685242f5167b04411b9c27b707ad5fb3b2eeb7",
+      "usage": {
+        "promptTokenCount": 19598,
+        "candidatesTokenCount": 9,
+        "totalTokenCount": 19607,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 19598
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "review_scope": "Matched 64-row cohort, 10% injection, one seed; text truncated at 700 chars"
+    },
+    {
+      "problem": "negative_duration",
+      "family": "llm",
+      "tp": 0,
+      "fn": 6,
+      "fp_on_noninjected_rows": 0,
+      "positive_rows": 6,
+      "negative_rows": 58,
+      "recall": 0.0,
+      "control_alert_rate_proxy_far": 0.0,
+      "output_contract_error": null,
+      "control_output_contract_error": null,
+      "control_rows": 64,
+      "throughput_rows_second": 15.844994754343276,
+      "paid_usd_per_million": 92.315625,
+      "latency_seconds": 4.039130399993155,
+      "request_sha256": "728e9e710543a40c70c99b4e202fffd6b4bd1bedb7a23c17efccf71b615df3a2",
+      "usage": {
+        "promptTokenCount": 19619,
+        "candidatesTokenCount": 9,
+        "totalTokenCount": 19628,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 19619
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "review_scope": "Matched 64-row cohort, 10% injection, one seed; text truncated at 700 chars"
+    },
+    {
+      "problem": "zip_borough",
+      "family": "llm",
+      "tp": 2,
+      "fn": 4,
+      "fp_on_noninjected_rows": 2,
+      "positive_rows": 6,
+      "negative_rows": 58,
+      "recall": 0.3333333333333333,
+      "control_alert_rate_proxy_far": 0.0,
+      "output_contract_error": null,
+      "control_output_contract_error": null,
+      "control_rows": 64,
+      "throughput_rows_second": 5.801354514759543,
+      "paid_usd_per_million": 100.7421875,
+      "latency_seconds": 11.031906399992295,
+      "request_sha256": "a2aa015bc75f908164584f9a8584517ea1b5dc779f97e6bfd4e5aebca80e4657",
+      "usage": {
+        "promptTokenCount": 19625,
+        "candidatesTokenCount": 224,
+        "totalTokenCount": 19849,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 19625
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "review_scope": "Matched 64-row cohort, 10% injection, one seed; text truncated at 700 chars"
+    },
+    {
+      "problem": "complaint_descriptor",
+      "family": "llm",
+      "tp": 3,
+      "fn": 3,
+      "fp_on_noninjected_rows": 1,
+      "positive_rows": 6,
+      "negative_rows": 58,
+      "recall": 0.5,
+      "control_alert_rate_proxy_far": 0.0,
+      "output_contract_error": null,
+      "control_output_contract_error": null,
+      "control_rows": 64,
+      "throughput_rows_second": 9.501573720353397,
+      "paid_usd_per_million": 102.8359375,
+      "latency_seconds": 6.735726300044917,
+      "request_sha256": "0f6d5758f8354c79d112a9cf9b6091990bc2662e6f9432b569f5698188126704",
+      "usage": {
+        "promptTokenCount": 19630,
+        "candidatesTokenCount": 277,
+        "totalTokenCount": 19907,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 19630
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "review_scope": "Matched 64-row cohort, 10% injection, one seed; text truncated at 700 chars"
+    },
+    {
+      "problem": "resolution_status",
+      "family": "llm",
+      "tp": 0,
+      "fn": 6,
+      "fp_on_noninjected_rows": 0,
+      "positive_rows": 6,
+      "negative_rows": 58,
+      "recall": 0.0,
+      "control_alert_rate_proxy_far": 0.0,
+      "output_contract_error": null,
+      "control_output_contract_error": null,
+      "control_rows": 64,
+      "throughput_rows_second": 0.5806850219806521,
+      "paid_usd_per_million": 94.359375,
+      "latency_seconds": 110.21465609996812,
+      "request_sha256": "bb1654526ad4fa04b1fa9ac2d1045e042f111ff5051e2043a0a3e9bb535bdb9c",
+      "usage": {
+        "promptTokenCount": 19505,
+        "candidatesTokenCount": 75,
+        "totalTokenCount": 19580,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 19505
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "review_scope": "Matched 64-row cohort, 10% injection, one seed; text truncated at 700 chars"
+    },
+    {
+      "problem": "personal_data",
+      "family": "llm",
+      "tp": 2,
+      "fn": 4,
+      "fp_on_noninjected_rows": 2,
+      "positive_rows": 6,
+      "negative_rows": 58,
+      "recall": 0.3333333333333333,
+      "control_alert_rate_proxy_far": 0.0,
+      "output_contract_error": null,
+      "control_output_contract_error": null,
+      "control_rows": 64,
+      "throughput_rows_second": 6.031589204452903,
+      "paid_usd_per_million": 101.7953125,
+      "latency_seconds": 10.610802199982572,
+      "request_sha256": "780833fc954751fc6794ad94095d0c5fce77f8d50eb085f52bb3cf825a7a47a3",
+      "usage": {
+        "promptTokenCount": 19683,
+        "candidatesTokenCount": 244,
+        "totalTokenCount": 19927,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 19683
+          }
+        ],
+        "serviceTier": "standard"
+      },
+      "review_scope": "Matched 64-row cohort, 10% injection, one seed; text truncated at 700 chars"
+    }
+  ],
+  "llm_errors": [],
+  "matched_llm_cohort_deterministic": [
+    {
+      "problem": "schema_change",
+      "family": "rule",
+      "tp": 64,
+      "fn": 0,
+      "fp_on_noninjected_rows": 0,
+      "positive_rows": 64,
+      "negative_rows": 0,
+      "recall": 1.0
+    },
+    {
+      "problem": "schema_change",
+      "family": "statistical",
+      "tp": 64,
+      "fn": 0,
+      "fp_on_noninjected_rows": 0,
+      "positive_rows": 64,
+      "negative_rows": 0,
+      "recall": 1.0
+    },
+    {
+      "problem": "schema_change",
+      "family": "hybrid",
+      "tp": 64,
+      "fn": 0,
+      "fp_on_noninjected_rows": 0,
+      "positive_rows": 64,
+      "negative_rows": 0,
+      "recall": 1.0
+    },
+    {
+      "problem": "type_change",
+      "family": "rule",
+      "tp": 6,
+      "fn": 0,
+      "fp_on_noninjected_rows": 0,
+      "positive_rows": 6,
+      "negative_rows": 58,
+      "recall": 1.0
+    },
+    {
+      "problem": "type_change",
+      "family": "statistical",
+      "tp": 6,
+      "fn": 0,
+      "fp_on_noninjected_rows": 0,
+      "positive_rows": 6,
+      "negative_rows": 58,
+      "recall": 1.0
+    },
+    {
+      "problem": "type_change",
+      "family": "hybrid",
+      "tp": 6,
+      "fn": 0,
+      "fp_on_noninjected_rows": 0,
+      "positive_rows": 6,
+      "negative_rows": 58,
+      "recall": 1.0
+    },
+    {
+      "problem": "date_format",
+      "family": "rule",
+      "tp": 6,
+      "fn": 0,
+      "fp_on_noninjected_rows": 0,
+      "positive_rows": 6,
+      "negative_rows": 58,
+      "recall": 1.0
+    },
+    {
+      "problem": "date_format",
+      "family": "statistical",
+      "tp": 6,
+      "fn": 0,
+      "fp_on_noninjected_rows": 0,
+      "positive_rows": 6,
+      "negative_rows": 58,
+      "recall": 1.0
+    },
+    {
+      "problem": "date_format",
+      "family": "hybrid",
+      "tp": 6,
+      "fn": 0,
+      "fp_on_noninjected_rows": 0,
+      "positive_rows": 6,
+      "negative_rows": 58,
+      "recall": 1.0
+    },
+    {
+      "problem": "coordinates_swapped",
+      "family": "rule",
+      "tp": 6,
+      "fn": 0,
+      "fp_on_noninjected_rows": 0,
+      "positive_rows": 6,
+      "negative_rows": 58,
+      "recall": 1.0
+    },
+    {
+      "problem": "coordinates_swapped",
+      "family": "statistical",
+      "tp": 6,
+      "fn": 0,
+      "fp_on_noninjected_rows": 0,
+      "positive_rows": 6,
+      "negative_rows": 58,
+      "recall": 1.0
+    },
+    {
+      "problem": "coordinates_swapped",
+      "family": "hybrid",
+      "tp": 6,
+      "fn": 0,
+      "fp_on_noninjected_rows": 0,
+      "positive_rows": 6,
+      "negative_rows": 58,
+      "recall": 1.0
+    },
+    {
+      "problem": "exact_duplicate",
+      "family": "rule",
+      "tp": 6,
+      "fn": 0,
+      "fp_on_noninjected_rows": 0,
+      "positive_rows": 6,
+      "negative_rows": 64,
+      "recall": 1.0
+    },
+    {
+      "problem": "exact_duplicate",
+      "family": "statistical",
+      "tp": 6,
+      "fn": 0,
+      "fp_on_noninjected_rows": 0,
+      "positive_rows": 6,
+      "negative_rows": 64,
+      "recall": 1.0
+    },
+    {
+      "problem": "exact_duplicate",
+      "family": "hybrid",
+      "tp": 6,
+      "fn": 0,
+      "fp_on_noninjected_rows": 0,
+      "positive_rows": 6,
+      "negative_rows": 64,
+      "recall": 1.0
+    },
+    {
+      "problem": "near_duplicate",
+      "family": "rule",
+      "tp": 6,
+      "fn": 0,
+      "fp_on_noninjected_rows": 0,
+      "positive_rows": 6,
+      "negative_rows": 64,
+      "recall": 1.0
+    },
+    {
+      "problem": "near_duplicate",
+      "family": "statistical",
+      "tp": 6,
+      "fn": 0,
+      "fp_on_noninjected_rows": 0,
+      "positive_rows": 6,
+      "negative_rows": 64,
+      "recall": 1.0
+    },
+    {
+      "problem": "near_duplicate",
+      "family": "hybrid",
+      "tp": 6,
+      "fn": 0,
+      "fp_on_noninjected_rows": 0,
+      "positive_rows": 6,
+      "negative_rows": 64,
+      "recall": 1.0
+    },
+    {
+      "problem": "agency_null_spike",
+      "family": "rule",
+      "tp": 6,
+      "fn": 0,
+      "fp_on_noninjected_rows": 0,
+      "positive_rows": 6,
+      "negative_rows": 58,
+      "recall": 1.0
+    },
+    {
+      "problem": "agency_null_spike",
+      "family": "statistical",
+      "tp": 6,
+      "fn": 0,
+      "fp_on_noninjected_rows": 0,
+      "positive_rows": 6,
+      "negative_rows": 58,
+      "recall": 1.0
+    },
+    {
+      "problem": "agency_null_spike",
+      "family": "hybrid",
+      "tp": 6,
+      "fn": 0,
+      "fp_on_noninjected_rows": 0,
+      "positive_rows": 6,
+      "negative_rows": 58,
+      "recall": 1.0
+    },
+    {
+      "problem": "negative_duration",
+      "family": "rule",
+      "tp": 6,
+      "fn": 0,
+      "fp_on_noninjected_rows": 0,
+      "positive_rows": 6,
+      "negative_rows": 58,
+      "recall": 1.0
+    },
+    {
+      "problem": "negative_duration",
+      "family": "statistical",
+      "tp": 6,
+      "fn": 0,
+      "fp_on_noninjected_rows": 0,
+      "positive_rows": 6,
+      "negative_rows": 58,
+      "recall": 1.0
+    },
+    {
+      "problem": "negative_duration",
+      "family": "hybrid",
+      "tp": 6,
+      "fn": 0,
+      "fp_on_noninjected_rows": 0,
+      "positive_rows": 6,
+      "negative_rows": 58,
+      "recall": 1.0
+    },
+    {
+      "problem": "zip_borough",
+      "family": "rule",
+      "tp": 6,
+      "fn": 0,
+      "fp_on_noninjected_rows": 0,
+      "positive_rows": 6,
+      "negative_rows": 58,
+      "recall": 1.0
+    },
+    {
+      "problem": "zip_borough",
+      "family": "statistical",
+      "tp": 6,
+      "fn": 0,
+      "fp_on_noninjected_rows": 0,
+      "positive_rows": 6,
+      "negative_rows": 58,
+      "recall": 1.0
+    },
+    {
+      "problem": "zip_borough",
+      "family": "hybrid",
+      "tp": 6,
+      "fn": 0,
+      "fp_on_noninjected_rows": 0,
+      "positive_rows": 6,
+      "negative_rows": 58,
+      "recall": 1.0
+    },
+    {
+      "problem": "complaint_descriptor",
+      "family": "rule",
+      "tp": 6,
+      "fn": 0,
+      "fp_on_noninjected_rows": 0,
+      "positive_rows": 6,
+      "negative_rows": 58,
+      "recall": 1.0
+    },
+    {
+      "problem": "complaint_descriptor",
+      "family": "statistical",
+      "tp": 3,
+      "fn": 3,
+      "fp_on_noninjected_rows": 0,
+      "positive_rows": 6,
+      "negative_rows": 58,
+      "recall": 0.5
+    },
+    {
+      "problem": "complaint_descriptor",
+      "family": "hybrid",
+      "tp": 6,
+      "fn": 0,
+      "fp_on_noninjected_rows": 0,
+      "positive_rows": 6,
+      "negative_rows": 58,
+      "recall": 1.0
+    },
+    {
+      "problem": "resolution_status",
+      "family": "rule",
+      "tp": 6,
+      "fn": 0,
+      "fp_on_noninjected_rows": 0,
+      "positive_rows": 6,
+      "negative_rows": 58,
+      "recall": 1.0
+    },
+    {
+      "problem": "resolution_status",
+      "family": "statistical",
+      "tp": 0,
+      "fn": 6,
+      "fp_on_noninjected_rows": 1,
+      "positive_rows": 6,
+      "negative_rows": 58,
+      "recall": 0.0
+    },
+    {
+      "problem": "resolution_status",
+      "family": "hybrid",
+      "tp": 6,
+      "fn": 0,
+      "fp_on_noninjected_rows": 1,
+      "positive_rows": 6,
+      "negative_rows": 58,
+      "recall": 1.0
+    },
+    {
+      "problem": "personal_data",
+      "family": "rule",
+      "tp": 5,
+      "fn": 1,
+      "fp_on_noninjected_rows": 2,
+      "positive_rows": 6,
+      "negative_rows": 58,
+      "recall": 0.8333333333333334
+    },
+    {
+      "problem": "personal_data",
+      "family": "statistical",
+      "tp": 6,
+      "fn": 0,
+      "fp_on_noninjected_rows": 2,
+      "positive_rows": 6,
+      "negative_rows": 58,
+      "recall": 1.0
+    },
+    {
+      "problem": "personal_data",
+      "family": "hybrid",
+      "tp": 6,
+      "fn": 0,
+      "fp_on_noninjected_rows": 2,
+      "positive_rows": 6,
+      "negative_rows": 58,
+      "recall": 1.0
+    }
+  ],
+  "llm_status": "measured",
+  "mixed_hybrid": {
+    "rows": 1220,
+    "wall_seconds": 0.987037600018084,
+    "throughput_rows_second": 1236.0218090756093,
+    "candidate_rows": 82,
+    "reviewed_rows": 0,
+    "deferred_rows": 82,
+    "scores": [
+      {
+        "problem": "schema_change",
+        "tp": 100,
+        "fn": 0,
+        "fp_on_noninjected_rows": 0,
+        "positive_rows": 100,
+        "negative_rows": 1120,
+        "recall": 1.0
+      },
+      {
+        "problem": "type_change",
+        "tp": 10,
+        "fn": 0,
+        "fp_on_noninjected_rows": 0,
+        "positive_rows": 10,
+        "negative_rows": 1210,
+        "recall": 1.0
+      },
+      {
+        "problem": "date_format",
+        "tp": 10,
+        "fn": 0,
+        "fp_on_noninjected_rows": 0,
+        "positive_rows": 10,
+        "negative_rows": 1210,
+        "recall": 1.0
+      },
+      {
+        "problem": "coordinates_swapped",
+        "tp": 10,
+        "fn": 0,
+        "fp_on_noninjected_rows": 0,
+        "positive_rows": 10,
+        "negative_rows": 1210,
+        "recall": 1.0
+      },
+      {
+        "problem": "exact_duplicate",
+        "tp": 10,
+        "fn": 0,
+        "fp_on_noninjected_rows": 0,
+        "positive_rows": 10,
+        "negative_rows": 1210,
+        "recall": 1.0
+      },
+      {
+        "problem": "near_duplicate",
+        "tp": 10,
+        "fn": 0,
+        "fp_on_noninjected_rows": 0,
+        "positive_rows": 10,
+        "negative_rows": 1210,
+        "recall": 1.0
+      },
+      {
+        "problem": "agency_null_spike",
+        "tp": 0,
+        "fn": 10,
+        "fp_on_noninjected_rows": 0,
+        "positive_rows": 10,
+        "negative_rows": 1210,
+        "recall": 0.0
+      },
+      {
+        "problem": "negative_duration",
+        "tp": 10,
+        "fn": 0,
+        "fp_on_noninjected_rows": 0,
+        "positive_rows": 10,
+        "negative_rows": 1210,
+        "recall": 1.0
+      },
+      {
+        "problem": "zip_borough",
+        "tp": 10,
+        "fn": 0,
+        "fp_on_noninjected_rows": 0,
+        "positive_rows": 10,
+        "negative_rows": 1210,
+        "recall": 1.0
+      },
+      {
+        "problem": "complaint_descriptor",
+        "tp": 10,
+        "fn": 0,
+        "fp_on_noninjected_rows": 1,
+        "positive_rows": 10,
+        "negative_rows": 1210,
+        "recall": 1.0
+      },
+      {
+        "problem": "resolution_status",
+        "tp": 10,
+        "fn": 0,
+        "fp_on_noninjected_rows": 13,
+        "positive_rows": 10,
+        "negative_rows": 1210,
+        "recall": 1.0
+      },
+      {
+        "problem": "personal_data",
+        "tp": 10,
+        "fn": 0,
+        "fp_on_noninjected_rows": 28,
+        "positive_rows": 10,
+        "negative_rows": 1210,
+        "recall": 1.0
+      }
+    ],
+    "llm_invoice_usd": 0,
+    "model_error": "LLM alert failed schema/range validation",
+    "review_status": "rejected_output",
+    "attempted_review_rows": 32,
+    "model_records": [
+      {
+        "request_sha256": "4e75eea9c782aeb1819cbbaf3fa3ecfd8216b3cf5791c95d0a57e7a91b910bfd",
+        "paid_usd": 0.0048105,
+        "latency_seconds": 10.2483263000031
+      }
+    ],
+    "projected_paid_usd": 0.0048105
+  },
+  "profile": {
+    "rows": 12000,
+    "agency_counts": {
+      "DOT": 480,
+      "DSNY": 566,
+      "NYPD": 7702,
+      "HPD": 1517,
+      "DOB": 210,
+      "DCWP": 54,
+      "DEP": 505,
+      "EDC": 209,
+      "DOHMH": 213,
+      "DHS": 213,
+      "DPR": 242,
+      "TLC": 84,
+      "DOE": 5
+    },
+    "month_counts": {
+      "2023-01": 1000,
+      "2023-02": 1000,
+      "2023-03": 1000,
+      "2023-04": 1000,
+      "2023-05": 1000,
+      "2023-06": 1000,
+      "2023-07": 1000,
+      "2023-08": 1000,
+      "2023-09": 1000,
+      "2023-10": 1000,
+      "2023-11": 1000,
+      "2023-12": 1000
+    },
+    "issues": {
+      "missing_unique_key": {
+        "count": 0,
+        "example_keys": [],
+        "interpretation": "Completeness observation; validity depends on agency/workflow, not automatically corruption"
+      },
+      "missing_created_date": {
+        "count": 0,
+        "example_keys": [],
+        "interpretation": "Completeness observation; validity depends on agency/workflow, not automatically corruption"
+      },
+      "missing_closed_date": {
+        "count": 273,
+        "example_keys": [
+          "56412831",
+          "56412985",
+          "56413163",
+          "56413279",
+          "56671329"
+        ],
+        "interpretation": "Completeness observation; validity depends on agency/workflow, not automatically corruption"
+      },
+      "missing_agency": {
+        "count": 0,
+        "example_keys": [],
+        "interpretation": "Completeness observation; validity depends on agency/workflow, not automatically corruption"
+      },
+      "missing_complaint_type": {
+        "count": 0,
+        "example_keys": [],
+        "interpretation": "Completeness observation; validity depends on agency/workflow, not automatically corruption"
+      },
+      "missing_descriptor": {
+        "count": 198,
+        "example_keys": [
+          "56412729",
+          "56412763",
+          "56413019",
+          "56413253",
+          "56413295"
+        ],
+        "interpretation": "Completeness observation; validity depends on agency/workflow, not automatically corruption"
+      },
+      "missing_resolution_description": {
+        "count": 171,
+        "example_keys": [
+          "56412534",
+          "56412831",
+          "56412985",
+          "56413279",
+          "56671329"
+        ],
+        "interpretation": "Completeness observation; validity depends on agency/workflow, not automatically corruption"
+      },
+      "missing_status": {
+        "count": 0,
+        "example_keys": [],
+        "interpretation": "Completeness observation; validity depends on agency/workflow, not automatically corruption"
+      },
+      "missing_incident_zip": {
+        "count": 173,
+        "example_keys": [
+          "56408061",
+          "56412433",
+          "56412512",
+          "56412744",
+          "56413111"
+        ],
+        "interpretation": "Completeness observation; validity depends on agency/workflow, not automatically corruption"
+      },
+      "missing_borough": {
+        "count": 0,
+        "example_keys": [],
+        "interpretation": "Completeness observation; validity depends on agency/workflow, not automatically corruption"
+      },
+      "missing_latitude": {
+        "count": 155,
+        "example_keys": [
+          "56408061",
+          "56412433",
+          "56412494",
+          "56412512",
+          "56412744"
+        ],
+        "interpretation": "Completeness observation; validity depends on agency/workflow, not automatically corruption"
+      },
+      "missing_longitude": {
+        "count": 155,
+        "example_keys": [
+          "56408061",
+          "56412433",
+          "56412494",
+          "56412512",
+          "56412744"
+        ],
+        "interpretation": "Completeness observation; validity depends on agency/workflow, not automatically corruption"
+      },
+      "missing_incident_address": {
+        "count": 449,
+        "example_keys": [
+          "56408061",
+          "56409451",
+          "56410624",
+          "56410653",
+          "56411233"
+        ],
+        "interpretation": "Completeness observation; validity depends on agency/workflow, not automatically corruption"
+      },
+      "closed_before_created": {
+        "count": 16,
+        "example_keys": [
+          "56679057",
+          "56679140",
+          "56679524",
+          "56925351",
+          "58061745"
+        ],
+        "interpretation": "Hard chronology failure"
+      },
+      "mojibake_text": {
+        "count": 218,
+        "example_keys": [
+          "56408061",
+          "56409451",
+          "56410624",
+          "56410653",
+          "56411233"
+        ],
+        "interpretation": "Encoding artifact in published text; raw bytes retained"
+      },
+      "closed_status_without_closed_date": {
+        "count": 117,
+        "example_keys": [
+          "58052322",
+          "58053565",
+          "58054176",
+          "58054255",
+          "58054587"
+        ],
+        "interpretation": "Workflow inconsistency candidate; agency confirmation needed"
+      },
+      "repeated_unique_key": {
+        "count": 0,
+        "example_keys": [],
+        "interpretation": "Potential ingestion duplication"
+      },
+      "unassigned_borough": {
+        "count": 8,
+        "example_keys": [
+          "56679035",
+          "56679571",
+          "56925601",
+          "57194006",
+          "57464448"
+        ],
+        "interpretation": "Unknown geography; retain as unknown rather than inventing a borough"
+      }
+    },
+    "scope": "Counts describe the saved monthly coverage sample only; not the entire 2023 population"
+  },
+  "cpu_usd_per_core_hour_scenario": 0.04,
+  "metric_limitations": [
+    "Control rows have structural screening, not exhaustive human semantic labels: control alert rate is a proxy, not certified false-alarm rate.",
+    "Rows in agency null-spike events are correlated; Wilson intervals are descriptive and not independent-event confidence guarantees.",
+    "Monthly first-key/time slices are not representative random samples of all NYC 2023 data.",
+    "Injection variants are limited; tuning on these templates would overstate generalization.",
+    "Throughput includes complete detector-family execution, not an isolated single check; repeated per-problem rows share that family cost."
+  ],
+  "llm_cohort_rows": 64
+}

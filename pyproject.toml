@@ -1,0 +1,11 @@
+[project]
+name = "fireai-rules-vs-llms"
+version = "0.1.0"
+description = "Reproducible salary-tax and NYC 311 quality experiments"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.black]
+line-length = 100
+target-version = ["py310"]
+extend-exclude = "(/\\.tools/|/tmp/)"

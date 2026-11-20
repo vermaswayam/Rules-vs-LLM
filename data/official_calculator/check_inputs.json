@@ -1,0 +1,482 @@
+[
+  {
+    "case_id": "official-net-01",
+    "regime": "old",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 0
+  },
+  {
+    "case_id": "official-net-01",
+    "regime": "new",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 0
+  },
+  {
+    "case_id": "official-net-02",
+    "regime": "old",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 200000
+  },
+  {
+    "case_id": "official-net-02",
+    "regime": "new",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 175000
+  },
+  {
+    "case_id": "official-net-03",
+    "regime": "old",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 250000
+  },
+  {
+    "case_id": "official-net-03",
+    "regime": "new",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 225000
+  },
+  {
+    "case_id": "official-net-04",
+    "regime": "old",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 450000
+  },
+  {
+    "case_id": "official-net-04",
+    "regime": "new",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 425000
+  },
+  {
+    "case_id": "official-net-05",
+    "regime": "old",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 500000
+  },
+  {
+    "case_id": "official-net-05",
+    "regime": "new",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 475000
+  },
+  {
+    "case_id": "official-net-06",
+    "regime": "old",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 501000
+  },
+  {
+    "case_id": "official-net-06",
+    "regime": "new",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 476000
+  },
+  {
+    "case_id": "official-net-07",
+    "regime": "old",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 650000
+  },
+  {
+    "case_id": "official-net-07",
+    "regime": "new",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 625000
+  },
+  {
+    "case_id": "official-net-08",
+    "regime": "old",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 700000
+  },
+  {
+    "case_id": "official-net-08",
+    "regime": "new",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 675000
+  },
+  {
+    "case_id": "official-net-09",
+    "regime": "old",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 725000
+  },
+  {
+    "case_id": "official-net-09",
+    "regime": "new",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 700000
+  },
+  {
+    "case_id": "official-net-10",
+    "regime": "old",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 726000
+  },
+  {
+    "case_id": "official-net-10",
+    "regime": "new",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 701000
+  },
+  {
+    "case_id": "official-net-11",
+    "regime": "old",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 750000
+  },
+  {
+    "case_id": "official-net-11",
+    "regime": "new",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 725000
+  },
+  {
+    "case_id": "official-net-12",
+    "regime": "old",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 950000
+  },
+  {
+    "case_id": "official-net-12",
+    "regime": "new",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 925000
+  },
+  {
+    "case_id": "official-net-13",
+    "regime": "old",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 1025000
+  },
+  {
+    "case_id": "official-net-13",
+    "regime": "new",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 1000000
+  },
+  {
+    "case_id": "official-net-14",
+    "regime": "old",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 1150000
+  },
+  {
+    "case_id": "official-net-14",
+    "regime": "new",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 1125000
+  },
+  {
+    "case_id": "official-net-15",
+    "regime": "old",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 1225000
+  },
+  {
+    "case_id": "official-net-15",
+    "regime": "new",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 1200000
+  },
+  {
+    "case_id": "official-net-16",
+    "regime": "old",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 1450000
+  },
+  {
+    "case_id": "official-net-16",
+    "regime": "new",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 1425000
+  },
+  {
+    "case_id": "official-net-17",
+    "regime": "old",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 1525000
+  },
+  {
+    "case_id": "official-net-17",
+    "regime": "new",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 1500000
+  },
+  {
+    "case_id": "official-net-18",
+    "regime": "old",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 1950000
+  },
+  {
+    "case_id": "official-net-18",
+    "regime": "new",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 1925000
+  },
+  {
+    "case_id": "official-net-19",
+    "regime": "old",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 2350000
+  },
+  {
+    "case_id": "official-net-19",
+    "regime": "new",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 2325000
+  },
+  {
+    "case_id": "official-net-20",
+    "regime": "old",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 2425000
+  },
+  {
+    "case_id": "official-net-20",
+    "regime": "new",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 2400000
+  },
+  {
+    "case_id": "official-net-21",
+    "regime": "old",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 4950000
+  },
+  {
+    "case_id": "official-net-21",
+    "regime": "new",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 4925000
+  },
+  {
+    "case_id": "official-net-22",
+    "regime": "old",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 5000000
+  },
+  {
+    "case_id": "official-net-22",
+    "regime": "new",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 4975000
+  },
+  {
+    "case_id": "official-net-23",
+    "regime": "old",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 5025000
+  },
+  {
+    "case_id": "official-net-23",
+    "regime": "new",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 5000000
+  },
+  {
+    "case_id": "official-net-24",
+    "regime": "old",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 5050000
+  },
+  {
+    "case_id": "official-net-24",
+    "regime": "new",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 5025000
+  },
+  {
+    "case_id": "official-net-25",
+    "regime": "old",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 10000000
+  },
+  {
+    "case_id": "official-net-25",
+    "regime": "new",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 9975000
+  },
+  {
+    "case_id": "official-net-26",
+    "regime": "old",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 10025000
+  },
+  {
+    "case_id": "official-net-26",
+    "regime": "new",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 10000000
+  },
+  {
+    "case_id": "official-net-27",
+    "regime": "old",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 20000000
+  },
+  {
+    "case_id": "official-net-27",
+    "regime": "new",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 19975000
+  },
+  {
+    "case_id": "official-net-28",
+    "regime": "old",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 20025000
+  },
+  {
+    "case_id": "official-net-28",
+    "regime": "new",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 20000000
+  },
+  {
+    "case_id": "official-net-29",
+    "regime": "old",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 50000000
+  },
+  {
+    "case_id": "official-net-29",
+    "regime": "new",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 49975000
+  },
+  {
+    "case_id": "official-net-30",
+    "regime": "old",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 50025000
+  },
+  {
+    "case_id": "official-net-30",
+    "regime": "new",
+    "assessment_year": "2025-26",
+    "age": 35,
+    "resident": true,
+    "net_taxable_income": 50000000
+  }
+]

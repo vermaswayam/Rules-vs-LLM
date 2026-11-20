@@ -1,0 +1,46 @@
+{
+  "retrieved_at": "2026-11-19T12:43:17.059234+00:00",
+  "probes": [
+    {
+      "url": "https://eportal.incometax.gov.in/iec/foservices/",
+      "final_url": "https://eportal.incometax.gov.in/iec/foservices/",
+      "sha256": "c10a6b96774258bf15f91c2c806134f8464e87170d81f92a48176bccee2e76ee",
+      "scripts": [
+        "https://static.incometax.gov.in/iec/foservices/assets/js/automation-validator.min.js",
+        "https://static.incometax.gov.in/iec/foservices/polyfills.663f21c2f7cf4e6d.js",
+        "https://static.incometax.gov.in/iec/foservices/scripts.e4808208bcfdd3c8.js",
+        "https://static.incometax.gov.in/iec/foservices/vendor.ad9adcaa7ed723a9.js",
+        "https://static.incometax.gov.in/iec/foservices/main.66c4d64623fc1771.js"
+      ],
+      "status": "page_downloaded_not_calculator_validation",
+      "bytes": 7068
+    },
+    {
+      "url": "https://www.incometaxindia.gov.in/income-tax-calculator",
+      "final_url": "https://www.incometaxindia.gov.in/income-tax-calculator",
+      "sha256": "2d201dff8eb0574ee85640cfa4ea7fd6e47fa5a6c323094236fe1cbd54c5bedc",
+      "scripts": [
+        "https://wm.incometaxindia.gov.in/o/frontend-js-svg4everybody-web/index.js?&mac=UOt0i0CWLn6tfQ1tS2k27Y/3auI=&browserId=chrome&languageId=en_US&minifierType=js",
+        "https://wm.incometaxindia.gov.in/combo?browserId=chrome&minifierType=js&languageId=en_US&t=1794506258278&/o/frontend-js-jquery-web/jquery/jquery.min.js&/o/frontend-js-jquery-web/jquery/init.js&/o/frontend-js-jquery-web/jquery/ajax.js&/o/frontend-js-jquery-web/jquery/bootstrap.bundle.min.js&/o/frontend-js-jquery-web/jquery/collapsible_search.js&/o/frontend-js-jquery-web/jquery/fm.js&/o/frontend-js-jquery-web/jquery/form.js&/o/frontend-js-jquery-web/jquery/popper.min.js&/o/frontend-js-jquery-web/jquery/side_navigation.js",
+        "https://wm.incometaxindia.gov.in/o/frontend-js-loader-modules-extender/loader.js?&mac=9WaMmhziBCkScHZwrrVcOR7VZF4=&browserId=chrome&languageId=en_US&minifierType=js",
+        "https://wm.incometaxindia.gov.in/combo?browserId=chrome&minifierType=js&languageId=en_US&t=1794506092571&/o/frontend-js-aui-web/aui/aui/aui-min.js&/o/frontend-js-aui-web/liferay/modules.js&/o/frontend-js-aui-web/liferay/aui_sandbox.js&/o/frontend-js-aui-web/aui/attribute-base/attribute-base-min.js&/o/frontend-js-aui-web/aui/attribute-complex/attribute-complex-min.js&/o/frontend-js-aui-web/aui/attribute-core/attribute-core-min.js&/o/frontend-js-aui-web/aui/attribute-observable/attribute-observable-min.js&/o/frontend-js-aui-web/aui/attribute-extras/attribute-extras-min.js&/o/frontend-js-aui-web/aui/event-custom-base/event-custom-base-min.js&/o/frontend-js-aui-web/aui/event-custom-complex/event-custom-complex-min.js&/o/frontend-js-aui-web/aui/oop/oop-min.js&/o/frontend-js-aui-web/aui/aui-base-lang/aui-base-lang-min.js&/o/frontend-js-aui-web/liferay/dependency.js&/o/frontend-js-aui-web/liferay/util.js&/o/oauth2-provider-web/js/liferay.js&/o/frontend-js-web/liferay/dom_task_runner.js&/o/frontend-js-web/liferay/events.js&/o/frontend-js-web/liferay/lazy_load.js&/o/frontend-js-web/liferay/liferay.js&/o/frontend-js-web/liferay/global.bundle.js&/o/frontend-js-web/liferay/portlet.js&/o/frontend-js-web/liferay/workflow.js",
+        "https://www.incometaxindia.gov.in/o/etds-global-js/plugins/elastic-apm-rum.umd.min.js",
+        "https://www.incometaxindia.gov.in/o/etds-prompters/assets/index-DtEpLkCi.js?t=1794506124664",
+        "https://www.incometaxindia.gov.in/o/etds-common-elements/assets/index-VAjXrcu3.js?t=1794506125086",
+        "https://www.incometaxindia.gov.in/o/etds-income-tax-calculator/assets/index-C9nqaYMl.js?t=1794506125125",
+        "https://center.tdscpc.gov.in/webrtc/ch_mrh080x3el/embed.js",
+        "https://wm.incometaxindia.gov.in/o/etds-it-bill-compare/assets/index-BZRqL10w.js?t=1794506124560",
+        "https://wm.incometaxindia.gov.in/o/classic-theme/js/main.js?browserId=chrome&amp;minifierType=js&amp;languageId=en_US&amp;t=1794506116000",
+        "https://www.incometaxindia.gov.in/o/etds-global-js/custom.340b629e75e54ba4c64e37c493f350cf8f7df7f0.js"
+      ],
+      "status": "page_downloaded_not_calculator_validation",
+      "bytes": 615240
+    },
+    {
+      "url": "https://wmstatic-prd.incometaxindia.gov.in/hi/income-tax-calculator",
+      "status": "unavailable",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    }
+  ],
+  "browser_attempt": "CUA native pipe unavailable (os error 2); no interactive calculator results obtained"
+}

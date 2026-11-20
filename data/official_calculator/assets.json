@@ -1,0 +1,16 @@
+[
+  {
+    "path": "eportal_main.js",
+    "url": "https://static.incometax.gov.in/iec/foservices/main.66c4d64623fc1771.js",
+    "final_url": "https://static.incometax.gov.in/iec/foservices/main.66c4d64623fc1771.js",
+    "sha256": "67dd7b7c13d63a3888ef442546d3a2bb0b07d4c3909aa2f95cdcef031444768b",
+    "bytes": 34725
+  },
+  {
+    "path": "calculator.js",
+    "url": "https://www.incometaxindia.gov.in/o/etds-income-tax-calculator/assets/index-C9nqaYMl.js?t=1794506125125",
+    "final_url": "https://www.incometaxindia.gov.in/o/etds-income-tax-calculator/assets/index-C9nqaYMl.js?t=1794506125125",
+    "sha256": "f08c70ba2c5711d89c7a21644ec37830c9578df35085d13d1cfb2a6c4607c1e9",
+    "bytes": 164197
+  }
+]

@@ -1,0 +1,2252 @@
+[
+  {
+    "problem": "schema_change",
+    "row_index": 0,
+    "unique_key": "59607317",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 1,
+    "unique_key": "57460457",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 2,
+    "unique_key": "59597935",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 3,
+    "unique_key": "58375411",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 4,
+    "unique_key": "58976526",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 5,
+    "unique_key": "56413519",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 6,
+    "unique_key": "59285888",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 7,
+    "unique_key": "57468024",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 8,
+    "unique_key": "57468171",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 9,
+    "unique_key": "57771645",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 10,
+    "unique_key": "58971140",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 11,
+    "unique_key": "57467982",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 12,
+    "unique_key": "58061369",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 13,
+    "unique_key": "58685577",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 14,
+    "unique_key": "56679083",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 15,
+    "unique_key": "57768202",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 16,
+    "unique_key": "57200432",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 17,
+    "unique_key": "57196385",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 18,
+    "unique_key": "56679514",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 19,
+    "unique_key": "58968534",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 20,
+    "unique_key": "59293832",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 21,
+    "unique_key": "58375558",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 22,
+    "unique_key": "57200405",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 23,
+    "unique_key": "58972265",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 24,
+    "unique_key": "58060684",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 25,
+    "unique_key": "57468529",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 26,
+    "unique_key": "58674647",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 27,
+    "unique_key": "58688575",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 28,
+    "unique_key": "57467624",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 29,
+    "unique_key": "56678298",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 30,
+    "unique_key": "58683670",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 31,
+    "unique_key": "58973305",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 32,
+    "unique_key": "58055510",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 33,
+    "unique_key": "57467970",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 34,
+    "unique_key": "56925184",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 35,
+    "unique_key": "58061331",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 36,
+    "unique_key": "57771101",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 37,
+    "unique_key": "58672210",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 38,
+    "unique_key": "58375864",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 39,
+    "unique_key": "57468327",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 40,
+    "unique_key": "58700316",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 41,
+    "unique_key": "56679242",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 42,
+    "unique_key": "58672273",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 43,
+    "unique_key": "58682073",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 44,
+    "unique_key": "56412623",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 45,
+    "unique_key": "58974914",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 46,
+    "unique_key": "57468070",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 47,
+    "unique_key": "59300575",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 48,
+    "unique_key": "56679615",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 49,
+    "unique_key": "58368315",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 50,
+    "unique_key": "56412941",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 51,
+    "unique_key": "58375661",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 52,
+    "unique_key": "58375427",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 53,
+    "unique_key": "56412666",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 54,
+    "unique_key": "57770978",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 55,
+    "unique_key": "59612226",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 56,
+    "unique_key": "57194006",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 57,
+    "unique_key": "56413218",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 58,
+    "unique_key": "58687677",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 59,
+    "unique_key": "57200171",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 60,
+    "unique_key": "57771385",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 61,
+    "unique_key": "56678978",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 62,
+    "unique_key": "57193143",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 63,
+    "unique_key": "58678919",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 64,
+    "unique_key": "58375482",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 65,
+    "unique_key": "59608370",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 66,
+    "unique_key": "58977984",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 67,
+    "unique_key": "57197993",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 68,
+    "unique_key": "59286528",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 69,
+    "unique_key": "59278959",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 70,
+    "unique_key": "58057443",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 71,
+    "unique_key": "57200179",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 72,
+    "unique_key": "59300462",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 73,
+    "unique_key": "56412604",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 74,
+    "unique_key": "56679398",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 75,
+    "unique_key": "56678983",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 76,
+    "unique_key": "56413152",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 77,
+    "unique_key": "59609526",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 78,
+    "unique_key": "58368436",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 79,
+    "unique_key": "59298876",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 80,
+    "unique_key": "58974793",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 81,
+    "unique_key": "56925378",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 82,
+    "unique_key": "58974636",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 83,
+    "unique_key": "56925904",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 84,
+    "unique_key": "57200117",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 85,
+    "unique_key": "57463922",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 86,
+    "unique_key": "59604982",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 87,
+    "unique_key": "58969990",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 88,
+    "unique_key": "56925880",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 89,
+    "unique_key": "56679355",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 90,
+    "unique_key": "57192927",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 91,
+    "unique_key": "58057490",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 92,
+    "unique_key": "58061849",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 93,
+    "unique_key": "58375747",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 94,
+    "unique_key": "56679028",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 95,
+    "unique_key": "56676364",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 96,
+    "unique_key": "59595140",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 97,
+    "unique_key": "59598104",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 98,
+    "unique_key": "58370952",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 99,
+    "unique_key": "58977358",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 100,
+    "unique_key": "56674477",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 101,
+    "unique_key": "57200420",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 102,
+    "unique_key": "57771402",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 103,
+    "unique_key": "58061038",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 104,
+    "unique_key": "56679550",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 105,
+    "unique_key": "57771438",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 106,
+    "unique_key": "57194115",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 107,
+    "unique_key": "57765945",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 108,
+    "unique_key": "58976457",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 109,
+    "unique_key": "57465701",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 110,
+    "unique_key": "58688333",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 111,
+    "unique_key": "56925221",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 112,
+    "unique_key": "59293599",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 113,
+    "unique_key": "58059054",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 114,
+    "unique_key": "57761512",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 115,
+    "unique_key": "56679635",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 116,
+    "unique_key": "57771453",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 117,
+    "unique_key": "57200068",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 118,
+    "unique_key": "56412727",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 119,
+    "unique_key": "56412769",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 120,
+    "unique_key": "58678428",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 121,
+    "unique_key": "58968529",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 122,
+    "unique_key": "59612442",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 123,
+    "unique_key": "56413445",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 124,
+    "unique_key": "58061824",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 125,
+    "unique_key": "57468523",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 126,
+    "unique_key": "57771291",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 127,
+    "unique_key": "58969721",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 128,
+    "unique_key": "57461201",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 129,
+    "unique_key": "59602134",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 130,
+    "unique_key": "59291017",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 131,
+    "unique_key": "58058335",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 132,
+    "unique_key": "58061785",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 133,
+    "unique_key": "56412874",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 134,
+    "unique_key": "56925740",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 135,
+    "unique_key": "57771637",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 136,
+    "unique_key": "58375512",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 137,
+    "unique_key": "58674545",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 138,
+    "unique_key": "58685255",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 139,
+    "unique_key": "56671938",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 140,
+    "unique_key": "57468145",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 141,
+    "unique_key": "59280445",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 142,
+    "unique_key": "56678993",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 143,
+    "unique_key": "57468057",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 144,
+    "unique_key": "57192064",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 145,
+    "unique_key": "56925418",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 146,
+    "unique_key": "57191266",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 147,
+    "unique_key": "58366958",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 148,
+    "unique_key": "56925433",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 149,
+    "unique_key": "58375641",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 150,
+    "unique_key": "56412976",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 151,
+    "unique_key": "58974609",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 152,
+    "unique_key": "57464737",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 153,
+    "unique_key": "59279000",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 154,
+    "unique_key": "59613756",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 155,
+    "unique_key": "57467888",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 156,
+    "unique_key": "56925581",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 157,
+    "unique_key": "58972370",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 158,
+    "unique_key": "59602137",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 159,
+    "unique_key": "59609949",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 160,
+    "unique_key": "58058867",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 161,
+    "unique_key": "58054922",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 162,
+    "unique_key": "58055006",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 163,
+    "unique_key": "57768509",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 164,
+    "unique_key": "57468587",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 165,
+    "unique_key": "58696275",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 166,
+    "unique_key": "57465096",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 167,
+    "unique_key": "58969914",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 168,
+    "unique_key": "58053884",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 169,
+    "unique_key": "56413347",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 170,
+    "unique_key": "57762854",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 171,
+    "unique_key": "56413543",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 172,
+    "unique_key": "59614857",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 173,
+    "unique_key": "58366968",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 174,
+    "unique_key": "58681785",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 175,
+    "unique_key": "58685152",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 176,
+    "unique_key": "56670194",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 177,
+    "unique_key": "57771147",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 178,
+    "unique_key": "59606357",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 179,
+    "unique_key": "56413199",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 180,
+    "unique_key": "58969690",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 181,
+    "unique_key": "56675180",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 182,
+    "unique_key": "56412750",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 183,
+    "unique_key": "58687123",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 184,
+    "unique_key": "58971819",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 185,
+    "unique_key": "57771309",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 186,
+    "unique_key": "56925984",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 187,
+    "unique_key": "58975330",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 188,
+    "unique_key": "56677518",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 189,
+    "unique_key": "56413246",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 190,
+    "unique_key": "57771072",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 191,
+    "unique_key": "56925429",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 192,
+    "unique_key": "56679443",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 193,
+    "unique_key": "58973337",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 194,
+    "unique_key": "58364941",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 195,
+    "unique_key": "59292639",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 196,
+    "unique_key": "56679144",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 197,
+    "unique_key": "57191655",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 198,
+    "unique_key": "58972901",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 199,
+    "unique_key": "58684022",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 200,
+    "unique_key": "56924919",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 201,
+    "unique_key": "57771036",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 202,
+    "unique_key": "56412617",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 203,
+    "unique_key": "58375381",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 204,
+    "unique_key": "59299003",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 205,
+    "unique_key": "56679647",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 206,
+    "unique_key": "57468407",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 207,
+    "unique_key": "57200417",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 208,
+    "unique_key": "57195446",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 209,
+    "unique_key": "57199540",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 210,
+    "unique_key": "59610512",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 211,
+    "unique_key": "57200413",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 212,
+    "unique_key": "58969686",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 213,
+    "unique_key": "56925817",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 214,
+    "unique_key": "56413300",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 215,
+    "unique_key": "57200361",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 216,
+    "unique_key": "59279886",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 217,
+    "unique_key": "59297315",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 218,
+    "unique_key": "57468281",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 219,
+    "unique_key": "56921293",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 220,
+    "unique_key": "59296973",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 221,
+    "unique_key": "56412729",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 222,
+    "unique_key": "58061762",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 223,
+    "unique_key": "59283616",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 224,
+    "unique_key": "56925592",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 225,
+    "unique_key": "59613245",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 226,
+    "unique_key": "58974123",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 227,
+    "unique_key": "56925609",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 228,
+    "unique_key": "56925156",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 229,
+    "unique_key": "56925174",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 230,
+    "unique_key": "56413357",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 231,
+    "unique_key": "58981235",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 232,
+    "unique_key": "59610861",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 233,
+    "unique_key": "56679560",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 234,
+    "unique_key": "57771344",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 235,
+    "unique_key": "58698817",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 236,
+    "unique_key": "56925743",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 237,
+    "unique_key": "56925313",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 238,
+    "unique_key": "57771640",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 239,
+    "unique_key": "59295329",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 240,
+    "unique_key": "56677571",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 241,
+    "unique_key": "56679648",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 242,
+    "unique_key": "58053892",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 243,
+    "unique_key": "57468475",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 244,
+    "unique_key": "57197690",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 245,
+    "unique_key": "58700345",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 246,
+    "unique_key": "59609414",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 247,
+    "unique_key": "58375847",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 248,
+    "unique_key": "57193293",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  },
+  {
+    "problem": "schema_change",
+    "row_index": 249,
+    "unique_key": "58061759",
+    "family": "rule",
+    "reason": "Missing contract columns: complaint_type",
+    "score": 1.0,
+    "severity": "error"
+  }
+]

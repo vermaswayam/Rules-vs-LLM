@@ -1,0 +1,50 @@
+{
+  "salary_2024.html": {
+    "url": "https://www.incometax.gov.in/iec/foportal/help/individual/return-applicable-3",
+    "final_url": "https://www.incometax.gov.in/iec/foportal/help/individual/return-applicable-3",
+    "sha256": "cd5182dc282073b095b89e77d047a34dd7a235891caa2251b4f62ad2e442ad38",
+    "retrieved_at": "2026-11-19T12:24:59.514353+00:00"
+  },
+  "salary_2025.html": {
+    "url": "https://www.incometax.gov.in/iec/foportal/help/individual/return-applicable-1",
+    "final_url": "https://www.incometax.gov.in/iec/foportal/help/individual/return-applicable-1",
+    "sha256": "5eceb4e285b7be74ddc47a4c20dd06077939c019b37d2e8ba8fc349471bfda8c",
+    "retrieved_at": "2026-11-19T12:25:00.712746+00:00"
+  },
+  "finance_2025.pdf": {
+    "url": "https://www.incometaxindia.gov.in/documents/20117/14614782/%E2%80%8BKey-Highlights-of-Finance-Act-2025.pdf/139e2679-ed0a-9470-7277-23d5d6244b9f?t=1767817038778",
+    "final_url": "https://www.incometaxindia.gov.in/documents/20117/14614782/%E2%80%8BKey-Highlights-of-Finance-Act-2025.pdf/139e2679-ed0a-9470-7277-23d5d6244b9f?t=1767817038778",
+    "sha256": "676bcd7f70753b4dc4958f1c7e2da8f6ec20ae28f2de3ef14d236538e9be4ae8",
+    "retrieved_at": "2026-11-19T12:25:08.393114+00:00"
+  },
+  "calculator_manual.html": {
+    "url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/income-tax-calculator-um",
+    "final_url": "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/income-tax-calculator-um",
+    "sha256": "3c26a7e3fcf93a7100bea08fe0ad160222175c36df8c9c002abbd4008f8546f4",
+    "retrieved_at": "2026-11-19T12:25:09.321569+00:00"
+  },
+  "statute_2024_115bac.html": {
+    "url": "https://www.incometaxindia.gov.in/hi/w/section-115bac-5",
+    "final_url": "https://www.incometaxindia.gov.in/hi/w/section-115bac-5",
+    "sha256": "897eb5c80181790bf8aa4058bbb7fc140f4a2935aec468c9141fbc9446d0230a",
+    "retrieved_at": "2026-11-19T12:37:41.185723+00:00"
+  },
+  "statute_2025_115bac.html": {
+    "url": "https://www.incometaxindia.gov.in/hi/w/section-115bac-6",
+    "final_url": "https://www.incometaxindia.gov.in/hi/w/section-115bac-6",
+    "sha256": "754c9ad5d5a612d3d0583d0f9ff4ec5f8f07647fc754bb603953e9f86104a20d",
+    "retrieved_at": "2026-11-19T12:37:44.690338+00:00"
+  },
+  "statute_2025_87a_amendment.html": {
+    "url": "https://www.incometaxindia.gov.in/w/section-20-111",
+    "final_url": "https://wm.incometaxindia.gov.in/w/section-20-111",
+    "sha256": "d042232f4c1b80fd192cfc032f7dc59b6f922e2fda091c5d55dfbe68e84d5460",
+    "retrieved_at": "2026-11-19T12:37:49.225958+00:00"
+  },
+  "statute_2024_87a.html": {
+    "url": "https://www.incometaxindia.gov.in/w/section-87a-24",
+    "final_url": "https://wm.incometaxindia.gov.in/w/section-87a-24",
+    "sha256": "f5e17152b138b4c61ecf481a5524254f49cf56b87c3dd06a22a55842117314d7",
+    "retrieved_at": "2026-11-19T12:37:53.001755+00:00"
+  }
+}
